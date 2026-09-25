@@ -1,0 +1,32 @@
+PG-15 v4.1 — avisos de proveniência e escopo
+Preparação local atualizada em 25 de setembro de 2026.
+Projeto: https://github.com/leocarrilho7-lab/PG-15
+
+Código autoral: Apache License, Version 2.0 (LICENSE).
+Textos autorais: Creative Commons Attribution 4.0 International
+(https://creativecommons.org/licenses/by/4.0/; LICENSE-TEXTS.md).
+Referência de atribuição do material autoral: Projeto PG-15.
+Isso não declara titularidade pessoal ou institucional, nem endosso oficial.
+
+Este projeto é um protótipo educacional. Não constitui manifestação oficial,
+parecer jurídico, aprovação de procedimento ou representação de instituição.
+Preservem os avisos originais das fontes e componentes de terceiros.
+
+Three.js 0.183.1 e OrbitControls: MIT.
+Copyright © 2010-2026 three.js authors.
+Texto da licença: licencas/three-MIT.txt.
+Mermaid 11.16.0: MIT; licencas/mermaid-MIT.txt (preparação).
+esbuild 0.25.12: MIT; licencas/esbuild-MIT.txt (empacotamento).
+img2threejs: referência upstream Apache-2.0 na revisão
+6e60b5e22419464b4853e01ddb6c0e6f6659a733; proveniência em LICENCAS.md.
+
+Normas e reproduções de terceiros não são relicenciadas por este projeto.
+Áudios Microsoft Maria Desktop e pilotos ElevenLabs/Raquel e Kokoro/Dora
+não integram a edição pública. As narrações finais Dora conferidas no
+manifesto público podem integrar a edição autorizada pelo usuário para
+publicação após acabamento e revisão independente em 25/09/2026.
+A licença de um motor ou modelo não atribui licença autoral automática
+às gravações geradas. Este aviso não afirma que o site já foi implantado.
+
+Escopo e proveniência: LICENCAS.md e audio-manifest.json.
+Este NOTICE informa atribuições; não altera as licenças citadas.
