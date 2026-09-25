@@ -27,5 +27,10 @@ for(const path of all){assert.ok(!/\.(?:wav|zip|pdf)$/i.test(path));assert.ok(!/
 for(const path of ['LICENSE','LICENSE-TEXTS.md','NOTICE','LICENCAS.md','licencas/three-MIT.txt'])assert.ok(existsSync(resolve(root,path)),path);
 const htmlBytes=readFileSync(resolve(root,'index.html'));validatedBytes.set('index.html',htmlBytes);
 const html=htmlBytes.toString('utf8');assert.ok(!html.includes('data:audio/'));assert.ok(!/Microsoft Maria|GDzHdQOi6jjf8zaXhCYD/.test(html));
+for(const path of ['assets/app.js','assets/style.css']){
+ const bytes=readFileSync(resolve(root,path));
+ const version=createHash('sha256').update(bytes).digest('hex');
+ assert.ok(html.includes(`${path}?v=${version}"`),'Recurso público sem versão de conteúdo: '+path);
+}
 const inventory=[...all].sort().map(path=>{const bytes=validatedBytes.get(path)||readFileSync(resolve(root,path));return {path,bytes:bytes.length,sha256:createHash('sha256').update(bytes).digest('hex')};});
 console.log(JSON.stringify({status:'PASS',files:all.length,doraClips:allowed.size,publicationAuthorized:manifest.publicationAuthorized,inventory}));
