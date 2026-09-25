@@ -5,7 +5,7 @@
   "format": "mp3",
   "engine": "Kokoro-82M local CPU",
   "synthetic": true,
-  "sourceNarrativesSha256": "988a77694105d3571abfffc840c4a65bb0638fa0137ab80d513475b0bf04ad4d",
+  "sourceNarrativesSha256": "09e535ea19c1e88722c9562d0af883a519d0f967e5aca9b6b3aa327154b66ef4",
   "sourceModelSha256": "9ea42d297c9ba5877cc360e55379c3a55fc18677b42d261ab3c52b27dbc763ed",
   "sourcePromptsSha256": "55cc0dfb317924fb8178a94740bf38f97a64236cfe496eb8c94cb42b9ab90b46",
   "profile": {
@@ -26,13 +26,13 @@
     "inicio": {
       "file": "audio/dora/inicio.mp3",
       "mime": "audio/mpeg",
-      "text": "Estamos identificando o momento da relação. Você prepara uma nova parceria, altera um ajuste já celebrado ou ainda precisa esclarecer isso? Novas celebrações seguem esta árvore. Instrumentos existentes exigem conferir o regime original e a transição; dados incertos permanecem pendentes.",
-      "sha256": "713f99015d6570bfa49e8f24a1753a9c1ee4b57f02d402794f5b7d74c87b07f3",
-      "bytes": 217484,
-      "durationSeconds": 18.04,
+      "text": "Estamos identificando o momento da relação. Confira a situação do instrumento que será examinado. Novas celebrações seguem esta árvore. Instrumentos existentes exigem conferir o regime original e a transição; dados incertos permanecem pendentes.",
+      "sha256": "3ab153b2bf545fa4d2dd7a4a7103318617859e20fcfd15fff88a23eecb4d82a0",
+      "bytes": 183788,
+      "durationSeconds": 15.24,
       "segments": [
         {
-          "text": "Estamos identificando o momento da relação. Você prepara uma nova parceria, altera um ajuste já celebrado ou ainda precisa esclarecer isso?",
+          "text": "Estamos identificando o momento da relação. Confira a situação do instrumento que será examinado.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
@@ -46,13 +46,13 @@
     "finalidade": {
       "file": "audio/dora/finalidade.mp3",
       "mime": "audio/mpeg",
-      "text": "Qual é a finalidade da relação? Distinga cooperação ou execução orçamentária descentralizada, compra de bens ou serviços, intenção futura e objeto ainda indefinido. A descentralização também pode atender atividade em benefício do concedente. Nenhuma dessas escolhas, isoladamente, autoriza celebrar um ajuste.",
-      "sha256": "09505d61835692d252b547ddb9747df4109d0a554e17624c444a00ee8639db3e",
-      "bytes": 231884,
-      "durationSeconds": 19.24,
+      "text": "Qual é a finalidade da relação? Confira o conteúdo das obrigações pretendidas antes de escolher o nome do instrumento. A descentralização também pode atender atividade em benefício do concedente. Nenhuma dessas escolhas, isoladamente, autoriza celebrar um ajuste.",
+      "sha256": "f084c39caf1470ad6508a5f7f468ce8616aec9f757039bffce013fca4120c18f",
+      "bytes": 195308,
+      "durationSeconds": 16.19,
       "segments": [
         {
-          "text": "Qual é a finalidade da relação? Distinga cooperação ou execução orçamentária descentralizada, compra de bens ou serviços, intenção futura e objeto ainda indefinido.",
+          "text": "Qual é a finalidade da relação? Confira o conteúdo das obrigações pretendidas antes de escolher o nome do instrumento.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
@@ -66,13 +66,13 @@
     "origem": {
       "file": "audio/dora/origem.mp3",
       "mime": "audio/mpeg",
-      "text": "Quem transfere os recursos, se houver? Separe a rota estadual ou sem repasse, a União, outro ente externo e uma empresa estatal. Se a origem for incerta, complete os dados. O Estado receber dinheiro não torna automaticamente aplicável o regime estadual de convênios.",
-      "sha256": "8d114a1916287c544984bf277e6f7d387829478c645365cb1657ee00365a52c4",
-      "bytes": 193868,
-      "durationSeconds": 16.065,
+      "text": "Quem transfere os recursos, se houver? Confira a origem e a identidade do concedente. Se a origem for incerta, complete os dados. O Estado receber dinheiro não torna automaticamente aplicável o regime estadual de convênios.",
+      "sha256": "9e0b22e5f167696eec4a91d8dbf015649ca5b83f01c9e785db04c9e8141eefc7",
+      "bytes": 164204,
+      "durationSeconds": 13.59,
       "segments": [
         {
-          "text": "Quem transfere os recursos, se houver? Separe a rota estadual ou sem repasse, a União, outro ente externo e uma empresa estatal.",
+          "text": "Quem transfere os recursos, se houver? Confira a origem e a identidade do concedente.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
@@ -86,18 +86,18 @@
     "setor": {
       "file": "audio/dora/setor.mp3",
       "mime": "audio/mpeg",
-      "text": "Há regime próprio? Confira participação complementar no SUS, contrato de gestão com OS, termo de parceria OSCIP, cultura, ciência e inovação, doação exclusiva ou outro regime especial. Se nenhuma hipótese se aplica, prossiga. Se houver dúvida ou sobreposição, a análise fica pendente.",
-      "sha256": "cd750ffb0339b6d08c859404ca62dd3e2b1b32ab2318b6627f52a99e42750b6f",
-      "bytes": 209420,
-      "durationSeconds": 17.365,
+      "text": "Há regime próprio para o objeto concreto? Confira seu enquadramento antes de seguir para a análise geral. Só prossiga nessa análise após afastar os regimes específicos. Se houver dúvida ou sobreposição, a análise fica pendente.",
+      "sha256": "a7eec3d20d237a32e098ac7f6e9969f4dd10a0ec5687ef12b850ee0472a698bf",
+      "bytes": 170252,
+      "durationSeconds": 14.09,
       "segments": [
         {
-          "text": "Há regime próprio? Confira participação complementar no SUS, contrato de gestão com OS, termo de parceria OSCIP, cultura, ciência e inovação, doação exclusiva ou outro regime especial.",
+          "text": "Há regime próprio para o objeto concreto? Confira seu enquadramento antes de seguir para a análise geral.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
         {
-          "text": "Se nenhuma hipótese se aplica, prossiga. Se houver dúvida ou sobreposição, a análise fica pendente.",
+          "text": "Só prossiga nessa análise após afastar os regimes específicos. Se houver dúvida ou sobreposição, a análise fica pendente.",
           "speed": 1.02,
           "pauseAfterSeconds": 0
         }
@@ -106,13 +106,13 @@
     "sus": {
       "file": "audio/dora/sus.mp3",
       "mime": "audio/mpeg",
-      "text": "Qual relação de saúde foi identificada? As alternativas distinguem cooperação complementar no SUS com transferência estadual, contrato de gestão, transferência fundo a fundo e relação ainda incerta. Cada hipótese tem exigências próprias; a natureza da entidade não resolve sozinha o enquadramento.",
-      "sha256": "da97ca8a4e70ecc8b4b2b63cc309f013057352efaf59a243fb1930d6096375b6",
-      "bytes": 219500,
-      "durationSeconds": 18.215,
+      "text": "Qual relação de saúde foi identificada? Examine o objeto, a natureza da transferência e a disciplina aplicável. Cada hipótese tem exigências próprias; a natureza da entidade não resolve sozinha o enquadramento.",
+      "sha256": "9050e7037e31a0646831ec4c8ca0abb0206768972fd8d8bbcb5574df72172d32",
+      "bytes": 158156,
+      "durationSeconds": 13.09,
       "segments": [
         {
-          "text": "Qual relação de saúde foi identificada? As alternativas distinguem cooperação complementar no SUS com transferência estadual, contrato de gestão, transferência fundo a fundo e relação ainda incerta.",
+          "text": "Qual relação de saúde foi identificada? Examine o objeto, a natureza da transferência e a disciplina aplicável.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
@@ -126,18 +126,18 @@
     "os_setor": {
       "file": "audio/dora/os_setor.mp3",
       "mime": "audio/mpeg",
-      "text": "Em qual setor seria celebrado o contrato de gestão? Saúde; cultura, esporte, lazer ou ambiente; ou outro setor ainda a identificar? Na saúde, o marco de trinta e um de julho de dois mil e vinte e seis exige exame específico. Nos demais setores, confira a lei e o regulamento aplicáveis. Uma referência em decreto ou manual antigo não comprova vigência para nova celebração.",
-      "sha256": "c88bc318a061537f3b24451bde33e0df3ba74f7cabfe896ae03a8bae04cae9cc",
-      "bytes": 269324,
-      "durationSeconds": 22.365,
+      "text": "Em qual setor seria celebrado o contrato de gestão? Na saúde, o marco de trinta e um de julho de dois mil e vinte e seis exige exame específico. Nos demais setores, confira a lei e o regulamento aplicáveis. Uma referência em decreto ou manual antigo não comprova vigência para nova celebração.",
+      "sha256": "c5f96644c566cf6160d2fc9571aaba3225634608fabb35fe9d6e77628ca2319c",
+      "bytes": 211436,
+      "durationSeconds": 17.54,
       "segments": [
         {
-          "text": "Em qual setor seria celebrado o contrato de gestão? Saúde; cultura, esporte, lazer ou ambiente; ou outro setor ainda a identificar?",
+          "text": "Em qual setor seria celebrado o contrato de gestão? Na saúde, o marco de trinta e um de julho de dois mil e vinte e seis exige exame específico.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
         {
-          "text": "Na saúde, o marco de trinta e um de julho de dois mil e vinte e seis exige exame específico. Nos demais setores, confira a lei e o regulamento aplicáveis. Uma referência em decreto ou manual antigo não comprova vigência para nova celebração.",
+          "text": "Nos demais setores, confira a lei e o regulamento aplicáveis. Uma referência em decreto ou manual antigo não comprova vigência para nova celebração.",
           "speed": 1.02,
           "pauseAfterSeconds": 0
         }
@@ -146,18 +146,18 @@
     "cultura": {
       "file": "audio/dora/cultura.mp3",
       "mime": "audio/mpeg",
-      "text": "Foi confirmado um regime cultural específico para este objeto? Se foi, examine a legislação e o instrumento próprios. Se ele foi afastado, siga a análise geral. Se ainda não houve exame, mantenha a pendência; não presuma convênio ou MROSC apenas pelo tema cultural.",
-      "sha256": "cf020fb007321c39e0886f50d6f66ba5c3f38d46fa057077e190e69c52dc4d9d",
-      "bytes": 193292,
-      "durationSeconds": 16.015,
+      "text": "Foi confirmado um regime cultural específico para este objeto? Confira a legislação e o instrumento próprios. A análise geral depende de afastar a disciplina específica. Sem esse exame, mantenha a pendência; não presuma convênio ou MROSC apenas pelo tema cultural.",
+      "sha256": "5e9be3f2e879af38d440e7fe1e75e0c3eb40525f1d64b5a1177b506b59a373f6",
+      "bytes": 193868,
+      "durationSeconds": 16.065,
       "segments": [
         {
-          "text": "Foi confirmado um regime cultural específico para este objeto? Se foi, examine a legislação e o instrumento próprios.",
+          "text": "Foi confirmado um regime cultural específico para este objeto? Confira a legislação e o instrumento próprios.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
         {
-          "text": "Se ele foi afastado, siga a análise geral. Se ainda não houve exame, mantenha a pendência; não presuma convênio ou MROSC apenas pelo tema cultural.",
+          "text": "A análise geral depende de afastar a disciplina específica. Sem esse exame, mantenha a pendência; não presuma convênio ou MROSC apenas pelo tema cultural.",
           "speed": 1.02,
           "pauseAfterSeconds": 0
         }
@@ -166,13 +166,13 @@
     "mecanismo": {
       "file": "audio/dora/mecanismo.mp3",
       "mime": "audio/mpeg",
-      "text": "Como a execução será financiada? Distinga descentralização de crédito estadual, transferência financeira ao parceiro, cooperação sem transferência e mecanismo ainda indefinido. A existência de despesas próprias não significa necessariamente repasse. Essa escolha organiza as próximas perguntas, sem decidir sozinha qual instrumento é cabível.",
-      "sha256": "b3766f0e579000082c211ac71af54946720b004c1bd7132e02369806ebad8afc",
-      "bytes": 250316,
-      "durationSeconds": 20.765,
+      "text": "Como a execução será financiada? Confira a natureza do mecanismo financeiro e orçamentário informado. A existência de despesas próprias não significa necessariamente repasse. Essa escolha organiza as próximas perguntas, sem decidir sozinha qual instrumento é cabível.",
+      "sha256": "b0b618fe740699f43089d5fa06282c0aea8f3f5929007eaf1504ff5a5e22741b",
+      "bytes": 199916,
+      "durationSeconds": 16.565,
       "segments": [
         {
-          "text": "Como a execução será financiada? Distinga descentralização de crédito estadual, transferência financeira ao parceiro, cooperação sem transferência e mecanismo ainda indefinido.",
+          "text": "Como a execução será financiada? Confira a natureza do mecanismo financeiro e orçamentário informado.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
@@ -186,10 +186,10 @@
     "ted_ambito": {
       "file": "audio/dora/ted_ambito.mp3",
       "mime": "audio/mpeg",
-      "text": "Foi confirmado o âmbito orçamentário da descentralização? O enquadramento comprovado permite examinar a modalidade. Se a operação não se enquadra, é transferência entre entes ou falta comprovação, a indicação fica pendente. A localização dos participantes no Rio de Janeiro não basta.",
-      "sha256": "58ab915b1097aa5492c6191ab7387d968aa2201949e1e9ee9d9882356ea28054",
-      "bytes": 210572,
-      "durationSeconds": 17.465,
+      "text": "Foi confirmado o âmbito orçamentário da descentralização? O enquadramento comprovado permite examinar a modalidade. A transferência financeira entre entes não se confunde com essa descentralização. Sem comprovação do enquadramento, a indicação fica pendente. A localização dos participantes no Rio de Janeiro não basta.",
+      "sha256": "b037063aff7b09707d981f9e1184da19efe3c9a53a67294a73cd608a4ddc9428",
+      "bytes": 231884,
+      "durationSeconds": 19.24,
       "segments": [
         {
           "text": "Foi confirmado o âmbito orçamentário da descentralização? O enquadramento comprovado permite examinar a modalidade.",
@@ -197,7 +197,7 @@
           "pauseAfterSeconds": 0.34
         },
         {
-          "text": "Se a operação não se enquadra, é transferência entre entes ou falta comprovação, a indicação fica pendente. A localização dos participantes no Rio de Janeiro não basta.",
+          "text": "A transferência financeira entre entes não se confunde com essa descentralização. Sem comprovação do enquadramento, a indicação fica pendente. A localização dos participantes no Rio de Janeiro não basta.",
           "speed": 1.02,
           "pauseAfterSeconds": 0
         }
@@ -206,18 +206,18 @@
     "ted_tipo": {
       "file": "audio/dora/ted_tipo.mp3",
       "mime": "audio/mpeg",
-      "text": "A descentralização é interna, entre unidades do mesmo órgão ou entidade, ou externa, entre órgãos ou entidades? A primeira conduz ao exame de provisão e Nota de Crédito. A segunda exige verificar o concedente. Se a classificação não está clara, obtenha revisão orçamentária.",
-      "sha256": "7cd55c823b6111bcda219e31b0806a5cc0707430c9b5e7f38f7e904648d0b0f2",
-      "bytes": 205964,
-      "durationSeconds": 17.065,
+      "text": "Confira as unidades envolvidas e a classificação orçamentária da descentralização. Essa classificação orienta o exame de provisão e Nota de Crédito ou a verificação do concedente, conforme o caso. Se ela não está clara, obtenha revisão orçamentária antes de avançar.",
+      "sha256": "132bdce4f5a9d15db3e01a7f9071c5f1ff31ce51fbc53b9ee261196a9adf1530",
+      "bytes": 197324,
+      "durationSeconds": 16.365,
       "segments": [
         {
-          "text": "A descentralização é interna, entre unidades do mesmo órgão ou entidade, ou externa, entre órgãos ou entidades?",
+          "text": "Confira as unidades envolvidas e a classificação orçamentária da descentralização. Essa classificação orienta o exame de provisão e Nota de Crédito ou a verificação do concedente, conforme o caso.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
         {
-          "text": "A primeira conduz ao exame de provisão e Nota de Crédito. A segunda exige verificar o concedente. Se a classificação não está clara, obtenha revisão orçamentária.",
+          "text": "Se ela não está clara, obtenha revisão orçamentária antes de avançar.",
           "speed": 1.02,
           "pauseAfterSeconds": 0
         }
@@ -226,18 +226,18 @@
     "ted_concedente": {
       "file": "audio/dora/ted_concedente.mp3",
       "mime": "audio/mpeg",
-      "text": "Quem concede o crédito? Distinga o Executivo estadual, outro Poder ou órgão autônomo com o Executivo como executante, e combinações ainda incertas. A segunda hipótese tem regra específica de setembro de dois mil e vinte e seis; ela não deve ser ampliada automaticamente.",
-      "sha256": "9fe0e93e7ed252e70090ce7a66cd93c2253d2674c499fe9a0f6cd8bdb79918f8",
-      "bytes": 199628,
-      "durationSeconds": 16.54,
+      "text": "Quem concede o crédito? Confira a identidade do concedente e de quem o executa. A hipótese especial exige o Executivo como executante e tem regra específica de setembro de dois mil e vinte e seis; ela não deve ser ampliada automaticamente.",
+      "sha256": "695a9fa46c071962d91813502cd985ee77eb7ffdef8ec7fb291e7d5e1950b75a",
+      "bytes": 175436,
+      "durationSeconds": 14.54,
       "segments": [
         {
-          "text": "Quem concede o crédito? Distinga o Executivo estadual, outro Poder ou órgão autônomo com o Executivo como executante, e combinações ainda incertas.",
+          "text": "Quem concede o crédito? Confira a identidade do concedente e de quem o executa.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
         {
-          "text": "A segunda hipótese tem regra específica de setembro de dois mil e vinte e seis; ela não deve ser ampliada automaticamente.",
+          "text": "A hipótese especial exige o Executivo como executante e tem regra específica de setembro de dois mil e vinte e seis; ela não deve ser ampliada automaticamente.",
           "speed": 1.02,
           "pauseAfterSeconds": 0
         }
@@ -246,19 +246,14 @@
     "ted_dispensa": {
       "file": "audio/dora/ted_dispensa.mp3",
       "mime": "audio/mpeg",
-      "text": "Há hipótese comprovada de dispensa do TED? Separe a regra ordinária, a exceção que combina valor inferior a vinte mil UFIR-RJ e licitação instruída, a hipótese específica da SUBCOM e a dúvida. O valor sozinho não comprova a exceção; as condições precisam constar dos autos.",
-      "sha256": "65df5b70ad7390f6b8f9c7f6cdc69668b6022d9bd2ebeac4a7b651a6841ac693",
-      "bytes": 206540,
-      "durationSeconds": 17.115,
+      "text": "Confira se a documentação comprova uma hipótese legal de dispensa do TED. O valor sozinho não comprova a exceção; os requisitos cumulativos e as condições da hipótese específica precisam constar dos autos.",
+      "sha256": "b8e38abbc56d131b3c26a8036ddbedebde7267b98bb645f1c4982f173311840a",
+      "bytes": 148940,
+      "durationSeconds": 12.325,
       "segments": [
         {
-          "text": "Há hipótese comprovada de dispensa do TED? Separe a regra ordinária, a exceção que combina valor inferior a vinte mil UFIR-RJ e licitação instruída, a hipótese específica da SUBCOM e a dúvida.",
+          "text": "Confira se a documentação comprova uma hipótese legal de dispensa do TED. O valor sozinho não comprova a exceção; os requisitos cumulativos e as condições da hipótese específica precisam constar dos autos.",
           "speed": 1.05,
-          "pauseAfterSeconds": 0.34
-        },
-        {
-          "text": "O valor sozinho não comprova a exceção; as condições precisam constar dos autos.",
-          "speed": 1.02,
           "pauseAfterSeconds": 0
         }
       ]
@@ -266,18 +261,18 @@
     "parceiro_repasse": {
       "file": "audio/dora/parceiro_repasse.mp3",
       "mime": "audio/mpeg",
-      "text": "Quem receberá a transferência: outro ente federativo, participante do próprio Estado, consórcio público, serviço social autônomo, OSC, OSCIP ou outra entidade privada? Se a natureza ainda é incerta, complete os dados. O caso intraestadual permanece pendente e não se confunde automaticamente com TED.",
-      "sha256": "ea5895ce952bdd34bb8535afc6b8c741ef29dae7f74857c87beb9755ba8e4cf7",
-      "bytes": 218924,
-      "durationSeconds": 18.165,
+      "text": "Confira a natureza jurídica de quem receberá a transferência. Se a natureza ainda é incerta, complete os dados. O caso intraestadual permanece pendente e não se confunde automaticamente com TED.",
+      "sha256": "6395099112f649d47e6e9e3542eaa3b0426af43a3262ed78ad7b03daa91b5112",
+      "bytes": 148940,
+      "durationSeconds": 12.315,
       "segments": [
         {
-          "text": "Quem receberá a transferência: outro ente federativo, participante do próprio Estado, consórcio público, serviço social autônomo, OSC, OSCIP ou outra entidade privada?",
+          "text": "Confira a natureza jurídica de quem receberá a transferência. Se a natureza ainda é incerta, complete os dados.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
         {
-          "text": "Se a natureza ainda é incerta, complete os dados. O caso intraestadual permanece pendente e não se confunde automaticamente com TED.",
+          "text": "O caso intraestadual permanece pendente e não se confunde automaticamente com TED.",
           "speed": 1.02,
           "pauseAfterSeconds": 0
         }
@@ -286,18 +281,18 @@
     "parceiro_sem_repasse": {
       "file": "audio/dora/parceiro_sem_repasse.mp3",
       "mime": "audio/mpeg",
-      "text": "Quem participa sem repasse? Distinga órgãos ou Poderes do Estado, OSC em parceria ordinária, pretensão de termo OSCIP e os demais participantes admitidos fora do MROSC. Havendo dúvida, complete o enquadramento. Acordo MROSC, pacto e cooperação técnica têm âmbitos diferentes.",
-      "sha256": "05dd34a5e5f4180946f7347dcc2f20bdac04001f80887d46008dffd8b08fb65a",
-      "bytes": 206828,
-      "durationSeconds": 17.14,
+      "text": "Confira a natureza jurídica dos participantes e o regime da relação sem repasse. Havendo dúvida, complete o enquadramento. Acordo MROSC, pacto e cooperação técnica têm âmbitos diferentes.",
+      "sha256": "33a938b39eade37cbe411cddc1e345d6bacb097cc07d8b282dc704e238f64b51",
+      "bytes": 139724,
+      "durationSeconds": 11.565,
       "segments": [
         {
-          "text": "Quem participa sem repasse? Distinga órgãos ou Poderes do Estado, OSC em parceria ordinária, pretensão de termo OSCIP e os demais participantes admitidos fora do MROSC.",
+          "text": "Confira a natureza jurídica dos participantes e o regime da relação sem repasse. Havendo dúvida, complete o enquadramento.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
         {
-          "text": "Havendo dúvida, complete o enquadramento. Acordo MROSC, pacto e cooperação técnica têm âmbitos diferentes.",
+          "text": "Acordo MROSC, pacto e cooperação técnica têm âmbitos diferentes.",
           "speed": 1.02,
           "pauseAfterSeconds": 0
         }
@@ -306,18 +301,18 @@
     "tct_bens": {
       "file": "audio/dora/tct_bens.mp3",
       "mime": "audio/mpeg",
-      "text": "Há uso ou transferência de bens? Separe a ausência de bens a formalizar, o uso temporário de bem estadual, a doação ou transferência patrimonial e a incerteza. O uso temporário exige instrumento próprio em apartado; doação demanda reexaminar a compatibilidade da rota.",
-      "sha256": "87befa28fd9b437ad203fe6ea769bcd7ebe6ec67fc45d136bed58acd4e377a9d",
-      "bytes": 195884,
-      "durationSeconds": 16.24,
+      "text": "Confira a situação patrimonial da cooperação técnica. O uso temporário exige instrumento próprio em apartado; doação demanda reexaminar a compatibilidade da rota. A ausência de transferência financeira não elimina essa verificação.",
+      "sha256": "264918c8204ddfcdc48e595f89d50f85f967bc2fe41954fc9bc7b0fd2d68d254",
+      "bytes": 173708,
+      "durationSeconds": 14.39,
       "segments": [
         {
-          "text": "Há uso ou transferência de bens? Separe a ausência de bens a formalizar, o uso temporário de bem estadual, a doação ou transferência patrimonial e a incerteza.",
+          "text": "Confira a situação patrimonial da cooperação técnica. O uso temporário exige instrumento próprio em apartado; doação demanda reexaminar a compatibilidade da rota.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
         {
-          "text": "O uso temporário exige instrumento próprio em apartado; doação demanda reexaminar a compatibilidade da rota.",
+          "text": "A ausência de transferência financeira não elimina essa verificação.",
           "speed": 1.02,
           "pauseAfterSeconds": 0
         }
@@ -346,18 +341,18 @@
     "mrosc_recursos": {
       "file": "audio/dora/mrosc_recursos.mp3",
       "mime": "audio/mpeg",
-      "text": "A parceria MROSC transfere recursos financeiros? Distinga repasse, ausência de repasse sem bens, ausência de repasse com compartilhamento patrimonial e informação ainda indefinida. Com repasse, será examinada a iniciativa. Sem repasse, a denominação federal é acordo de cooperação, com indicação estadual condicionada aos requisitos da parceria.",
-      "sha256": "981ccd96d58fc2befe7eb9bdc219902df3ec5290243a3ea3c027b34787f7d071",
-      "bytes": 252620,
-      "durationSeconds": 20.965,
+      "text": "Confira o mecanismo financeiro e eventual compartilhamento patrimonial da parceria MROSC. A iniciativa precisa ser examinada quando há transferência financeira. Fora dessa situação, a denominação federal é acordo de cooperação, com indicação estadual condicionada aos requisitos da parceria.",
+      "sha256": "905b5db8c5f13b3a0945ae3b1eed3eb65f13607b0ee295ac0eba09ccb2eeb7d6",
+      "bytes": 216332,
+      "durationSeconds": 17.94,
       "segments": [
         {
-          "text": "A parceria MROSC transfere recursos financeiros? Distinga repasse, ausência de repasse sem bens, ausência de repasse com compartilhamento patrimonial e informação ainda indefinida.",
+          "text": "Confira o mecanismo financeiro e eventual compartilhamento patrimonial da parceria MROSC. A iniciativa precisa ser examinada quando há transferência financeira.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
         {
-          "text": "Com repasse, será examinada a iniciativa. Sem repasse, a denominação federal é acordo de cooperação, com indicação estadual condicionada aos requisitos da parceria.",
+          "text": "Fora dessa situação, a denominação federal é acordo de cooperação, com indicação estadual condicionada aos requisitos da parceria.",
           "speed": 1.02,
           "pauseAfterSeconds": 0
         }
@@ -366,18 +361,18 @@
     "mrosc_iniciativa": {
       "file": "audio/dora/mrosc_iniciativa.mp3",
       "mime": "audio/mpeg",
-      "text": "De quem partiu a iniciativa da proposta: da Administração Pública, da organização da sociedade civil, ou a iniciativa é híbrida ou desconhecida? A lei federal distingue colaboração e fomento. O enquadramento estadual exige compatibilidade, seleção e instrução; autoria da minuta não basta.",
-      "sha256": "e11ee62cb9768c9313bec8842bc23dfcde75fd6be30caa53d9a82e0ba6e91dd9",
-      "bytes": 215756,
-      "durationSeconds": 17.89,
+      "text": "Identifique de quem partiu juridicamente a proposta. A lei federal distingue colaboração e fomento. O enquadramento estadual exige compatibilidade, seleção e instrução; autoria da minuta não basta.",
+      "sha256": "5cc6511038fbc9df4b777c632ad2600952a0d6bb42d501c662f11c761094120c",
+      "bytes": 150668,
+      "durationSeconds": 12.465,
       "segments": [
         {
-          "text": "De quem partiu a iniciativa da proposta: da Administração Pública, da organização da sociedade civil, ou a iniciativa é híbrida ou desconhecida?",
+          "text": "Identifique de quem partiu juridicamente a proposta. A lei federal distingue colaboração e fomento.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
         {
-          "text": "A lei federal distingue colaboração e fomento. O enquadramento estadual exige compatibilidade, seleção e instrução; autoria da minuta não basta.",
+          "text": "O enquadramento estadual exige compatibilidade, seleção e instrução; autoria da minuta não basta.",
           "speed": 1.02,
           "pauseAfterSeconds": 0
         }
@@ -386,13 +381,13 @@
     "oscip_objeto": {
       "file": "audio/dora/oscip_objeto.mp3",
       "mime": "audio/mpeg",
-      "text": "O objeto admite termo de parceria OSCIP? Distinga atividade compatível, aquisição de bens ou serviços, participação complementar no SUS, parceria ordinária a examinar pelo MROSC e dúvida. A aquisição administrativa não cabe nesse termo; identificar saúde exige revisão, e o título sozinho não escolhe o instrumento.",
-      "sha256": "2ec9a72d3abedb9d8de83f2f02b224ede70609ecb460186fb7e226de126b4a49",
-      "bytes": 236492,
-      "durationSeconds": 19.615,
+      "text": "O objeto admite termo de parceria OSCIP? Confira sua compatibilidade com o regime e as vedações aplicáveis. A aquisição administrativa não cabe nesse termo; identificar saúde exige revisão, e o título sozinho não escolhe o instrumento.",
+      "sha256": "0d019a5db43a1df43e3866dc1d11603032ef2d9813a9420d1e3c7dfeac4131d9",
+      "bytes": 182348,
+      "durationSeconds": 15.115,
       "segments": [
         {
-          "text": "O objeto admite termo de parceria OSCIP? Distinga atividade compatível, aquisição de bens ou serviços, participação complementar no SUS, parceria ordinária a examinar pelo MROSC e dúvida.",
+          "text": "O objeto admite termo de parceria OSCIP? Confira sua compatibilidade com o regime e as vedações aplicáveis.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
@@ -406,13 +401,13 @@
     "oscip_qualificacao": {
       "file": "audio/dora/oscip_qualificacao.mp3",
       "mime": "audio/mpeg",
-      "text": "Qual é a base da qualificação? Separe ato estadual comprovado, qualificação federal ou de outro estado ou Distrito Federal, ausência de qualificação e documentação incerta. O certificado externo não comprova sozinho a qualificação estadual; seus efeitos dependem da análise própria de reciprocidade.",
-      "sha256": "05c6196afa8fb669f35b48be3e7a2973d4ddb961d5ef304b57adeac2ee629553",
-      "bytes": 226700,
-      "durationSeconds": 18.815,
+      "text": "Qual é a base da qualificação? Confira o ato, sua origem e sua validade documental. O certificado externo não comprova sozinho a qualificação estadual; seus efeitos dependem da análise própria de reciprocidade.",
+      "sha256": "9015fec59fa1b7c5f6f7c9773db294bb7352eac3b853de1aeb1f043eaa3ccfb6",
+      "bytes": 161324,
+      "durationSeconds": 13.365,
       "segments": [
         {
-          "text": "Qual é a base da qualificação? Separe ato estadual comprovado, qualificação federal ou de outro estado ou Distrito Federal, ausência de qualificação e documentação incerta.",
+          "text": "Qual é a base da qualificação? Confira o ato, sua origem e sua validade documental.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
@@ -426,13 +421,13 @@
     "oscip_reciprocidade": {
       "file": "audio/dora/oscip_reciprocidade.mp3",
       "mime": "audio/mpeg",
-      "text": "A reciprocidade e os efeitos da qualificação externa foram fundamentados nos autos? Distinga a demonstração efetiva, a ausência ou o afastamento da condição, e a análise ainda não realizada. Apenas apresentar certificado de outro ente não resolve essa exigência nem autoriza a celebração.",
-      "sha256": "d5dbda74bbcfb6414095b2735b77a1ef116cfd0eb23131d893d7833d73155811",
-      "bytes": 217484,
-      "durationSeconds": 18.04,
+      "text": "A reciprocidade e os efeitos da qualificação externa foram fundamentados nos autos? Confira a demonstração documental dessa condição. Apenas apresentar certificado de outro ente não resolve essa exigência nem autoriza a celebração.",
+      "sha256": "7550a4b81aa1fe97024a451e788f9f237c314c7436cd07696974f8960ff4c94b",
+      "bytes": 176012,
+      "durationSeconds": 14.59,
       "segments": [
         {
-          "text": "A reciprocidade e os efeitos da qualificação externa foram fundamentados nos autos? Distinga a demonstração efetiva, a ausência ou o afastamento da condição, e a análise ainda não realizada.",
+          "text": "A reciprocidade e os efeitos da qualificação externa foram fundamentados nos autos? Confira a demonstração documental dessa condição.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
@@ -446,18 +441,18 @@
     "oscip_interface": {
       "file": "audio/dora/oscip_interface.mp3",
       "mime": "audio/mpeg",
-      "text": "Estão demonstrados os requisitos da exclusão expressa do MROSC? O artigo terceiro, inciso seis, exclui os termos de parceria que cumpram os requisitos da Lei nove mil setecentos e noventa. O título estadual isolado não basta. Se esses requisitos foram demonstrados, prossiga à competência e ao procedimento estadual. Se foi fundamentada a aplicação do MROSC, examine seus pressupostos próprios. Se há apenas título ou remissão à lei estadual, a análise permanece pendente. Exigências estaduais de convênios só complementam a lei especial quando compatíveis e justificadas uma a uma. Procedimentos específicos da União não suprem lacunas estaduais. Não há conversão automática de termo já celebrado.",
-      "sha256": "ac8549e9e24edc0ee88b1c3fc90c41255b3f0ecc12172bb46764f19a4f72d43d",
-      "bytes": 487052,
-      "durationSeconds": 40.49,
+      "text": "Confira o fundamento da relação e os requisitos da exclusão expressa do MROSC. O artigo terceiro, inciso seis, exclui os termos de parceria que cumpram os requisitos da Lei nove mil setecentos e noventa. O título estadual isolado não basta. O exame de competência e procedimento estadual depende dessa demonstração; a eventual aplicação do MROSC exige fundamento e o exame de seus pressupostos próprios. Sem demonstração suficiente, a análise permanece pendente. Exigências estaduais de convênios só complementam a lei especial quando compatíveis e justificadas uma a uma. Procedimentos específicos da União não suprem lacunas estaduais. Não há conversão automática de termo já celebrado.",
+      "sha256": "24d13fa139c4d132b9994d9f9027e9a6ff3e774ef99fd7c038ed3f167fdc30c3",
+      "bytes": 484460,
+      "durationSeconds": 40.29,
       "segments": [
         {
-          "text": "Estão demonstrados os requisitos da exclusão expressa do MROSC? O artigo terceiro, inciso seis, exclui os termos de parceria que cumpram os requisitos da Lei nove mil setecentos e noventa.",
+          "text": "Confira o fundamento da relação e os requisitos da exclusão expressa do MROSC. O artigo terceiro, inciso seis, exclui os termos de parceria que cumpram os requisitos da Lei nove mil setecentos e noventa.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
         {
-          "text": "O título estadual isolado não basta. Se esses requisitos foram demonstrados, prossiga à competência e ao procedimento estadual. Se foi fundamentada a aplicação do MROSC, examine seus pressupostos próprios. Se há apenas título ou remissão à lei estadual, a análise permanece pendente. Exigências estaduais de convênios só complementam a lei especial quando compatíveis e justificadas uma a uma. Procedimentos específicos da União não suprem lacunas estaduais. Não há conversão automática de termo já celebrado.",
+          "text": "O título estadual isolado não basta. O exame de competência e procedimento estadual depende dessa demonstração; a eventual aplicação do MROSC exige fundamento e o exame de seus pressupostos próprios. Sem demonstração suficiente, a análise permanece pendente. Exigências estaduais de convênios só complementam a lei especial quando compatíveis e justificadas uma a uma. Procedimentos específicos da União não suprem lacunas estaduais. Não há conversão automática de termo já celebrado.",
           "speed": 1.02,
           "pauseAfterSeconds": 0
         }
@@ -1386,13 +1381,13 @@
     "mrosc_regime_repasse": {
       "file": "audio/dora/mrosc_regime_repasse.mp3",
       "mime": "audio/mpeg",
-      "text": "A parceria com repasse está abrangida pelo MROSC? Separe requisitos e exclusões examinados, outra disciplina identificada e enquadramento incerto. Se prosseguir, será analisada a iniciativa da proposta. A disciplina estadual foi reconciliada; confirmar uma informação não autoriza a celebração.",
-      "sha256": "8ddc886daf01d90de0380d07ff05020632d56f8ec07b1c86d4a1622ff868050d",
-      "bytes": 217484,
-      "durationSeconds": 18.04,
+      "text": "A parceria com repasse está abrangida pelo MROSC? Confira a natureza da organização, o objeto e as exclusões legais. Se prosseguir, será analisada a iniciativa da proposta. A disciplina estadual foi reconciliada; confirmar uma informação não autoriza a celebração.",
+      "sha256": "319702052b23a2be7b8ac04115a391c07ac5d3cd4e789444ba62817c88e193f3",
+      "bytes": 195596,
+      "durationSeconds": 16.215,
       "segments": [
         {
-          "text": "A parceria com repasse está abrangida pelo MROSC? Separe requisitos e exclusões examinados, outra disciplina identificada e enquadramento incerto.",
+          "text": "A parceria com repasse está abrangida pelo MROSC? Confira a natureza da organização, o objeto e as exclusões legais.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
@@ -1406,13 +1401,13 @@
     "mrosc_regime_sem_repasse": {
       "file": "audio/dora/mrosc_regime_sem_repasse.mp3",
       "mime": "audio/mpeg",
-      "text": "A parceria sem repasse está abrangida pelo MROSC? Distinga requisitos e exclusões examinados, outra disciplina e enquadramento incerto. Se prosseguir, será verificado o compartilhamento patrimonial. A disciplina estadual foi reconciliada, mas o enquadramento e os documentos da parceria continuam sujeitos à revisão.",
-      "sha256": "587540ea46dd86aa16dc0b3caa2d497af444092b57cb3c89339bc74dd79a962f",
-      "bytes": 228428,
-      "durationSeconds": 18.94,
+      "text": "A parceria sem repasse está abrangida pelo MROSC? Confira a natureza da organização, o objeto e as exclusões legais. Se prosseguir, será verificado o compartilhamento patrimonial. A disciplina estadual foi reconciliada, mas o enquadramento e os documentos da parceria continuam sujeitos à revisão.",
+      "sha256": "b1f5f51be0f163dc60c38d8f9aa9885ab47e96288f7be79be186c13b42ceaa26",
+      "bytes": 214892,
+      "durationSeconds": 17.815,
       "segments": [
         {
-          "text": "A parceria sem repasse está abrangida pelo MROSC? Distinga requisitos e exclusões examinados, outra disciplina e enquadramento incerto.",
+          "text": "A parceria sem repasse está abrangida pelo MROSC? Confira a natureza da organização, o objeto e as exclusões legais.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
@@ -1426,18 +1421,18 @@
     "mrosc_patrimonio": {
       "file": "audio/dora/mrosc_patrimonio.mp3",
       "mime": "audio/mpeg",
-      "text": "Há compartilhamento patrimonial? Distinga ausência de bens compartilhados, comodato, doação ou outro compartilhamento, e situação ainda indefinida. A análise não reabre o repasse. A denominação federal é acordo de cooperação, mas sua indicação estadual e as exigências patrimoniais permanecem sujeitas às verificações.",
-      "sha256": "e4f83ad1d016877c0e9c0d81eef590eb38da70254b548ac8d97c3ebe537cebfb",
-      "bytes": 236780,
-      "durationSeconds": 19.64,
+      "text": "Confira a situação dos bens na parceria. A análise não reabre o repasse. A denominação federal é acordo de cooperação, mas sua indicação estadual e as exigências patrimoniais permanecem sujeitas às verificações.",
+      "sha256": "1a9aef6971eed90ce3e34aaca7be7d524f8dd7af18d2f218128bdfd9e62e80ec",
+      "bytes": 165932,
+      "durationSeconds": 13.74,
       "segments": [
         {
-          "text": "Há compartilhamento patrimonial? Distinga ausência de bens compartilhados, comodato, doação ou outro compartilhamento, e situação ainda indefinida.",
+          "text": "Confira a situação dos bens na parceria. A análise não reabre o repasse.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
         {
-          "text": "A análise não reabre o repasse. A denominação federal é acordo de cooperação, mas sua indicação estadual e as exigências patrimoniais permanecem sujeitas às verificações.",
+          "text": "A denominação federal é acordo de cooperação, mas sua indicação estadual e as exigências patrimoniais permanecem sujeitas às verificações.",
           "speed": 1.02,
           "pauseAfterSeconds": 0
         }
@@ -1446,13 +1441,13 @@
     "oscip_objeto_repasse": {
       "file": "audio/dora/oscip_objeto_repasse.mp3",
       "mime": "audio/mpeg",
-      "text": "O objeto admite termo OSCIP? Distinga atividade compatível, aquisição administrativa, SUS, parceria ordinária pelo MROSC e dúvida. A aquisição fica fora desse termo; saúde exige revisão. Se houver encaminhamento ao MROSC, a transferência financeira permanece registrada, sem reabrir essa escolha.",
-      "sha256": "5301a6ba9142e51f7e609f57eff6ddd795b7c84d47dca2ca18a7c9a7a12ffa02",
-      "bytes": 219788,
-      "durationSeconds": 18.24,
+      "text": "O objeto admite termo OSCIP? Confira sua compatibilidade com o regime e as vedações aplicáveis. A aquisição fica fora desse termo; saúde exige revisão. Se houver encaminhamento ao MROSC, a transferência financeira permanece registrada, sem reabrir essa escolha.",
+      "sha256": "245052418e323b90017723565c21b463f0605380c49a5dbfc82ddcddd2c64706",
+      "bytes": 199916,
+      "durationSeconds": 16.565,
       "segments": [
         {
-          "text": "O objeto admite termo OSCIP? Distinga atividade compatível, aquisição administrativa, SUS, parceria ordinária pelo MROSC e dúvida.",
+          "text": "O objeto admite termo OSCIP? Confira sua compatibilidade com o regime e as vedações aplicáveis.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
@@ -1466,13 +1461,13 @@
     "oscip_qualificacao_repasse": {
       "file": "audio/dora/oscip_qualificacao_repasse.mp3",
       "mime": "audio/mpeg",
-      "text": "Qual é a base da qualificação: ato estadual válido, certificado federal ou de outro estado ou Distrito Federal, ausência de qualificação ou documentação incerta? A qualificação externa exige examinar seus efeitos no Estado. A transferência financeira informada continua preservada neste percurso.",
-      "sha256": "20b7d9daf8a8d1fc98665aa7efddd4abcedba1182a844d922094a8ab8c4420ad",
-      "bytes": 227564,
-      "durationSeconds": 18.865,
+      "text": "Qual é a base da qualificação? Confira o ato, sua origem e sua validade documental. A qualificação externa exige examinar seus efeitos no Estado. A transferência financeira informada continua preservada neste percurso.",
+      "sha256": "7bc6b5f6d7a0e6221401f60076895db22c86c7266cbeaf684aaef55fd7ac95a9",
+      "bytes": 169100,
+      "durationSeconds": 14.015,
       "segments": [
         {
-          "text": "Qual é a base da qualificação: ato estadual válido, certificado federal ou de outro estado ou Distrito Federal, ausência de qualificação ou documentação incerta?",
+          "text": "Qual é a base da qualificação? Confira o ato, sua origem e sua validade documental.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
@@ -1486,13 +1481,13 @@
     "oscip_reciprocidade_repasse": {
       "file": "audio/dora/oscip_reciprocidade_repasse.mp3",
       "mime": "audio/mpeg",
-      "text": "A reciprocidade e os efeitos da qualificação externa foram fundamentados? Distinga demonstração, condição não demonstrada ou afastada, e análise ainda não realizada. O certificado externo não basta. A informação de repasse permanece registrada; esta resposta apenas orienta a verificação seguinte.",
-      "sha256": "e250b5c4b7b7380a334a276debb6dc99852a0e58eec23bb7306b28823409a731",
-      "bytes": 228716,
-      "durationSeconds": 18.965,
+      "text": "A reciprocidade e os efeitos da qualificação externa foram fundamentados? Confira a demonstração documental dessa condição. O certificado externo não basta. A informação de repasse permanece registrada; esta resposta apenas orienta a verificação seguinte.",
+      "sha256": "81b91c1f104f3e6e104492fe6679e217f21a1f976595f7f37658983b208e86d5",
+      "bytes": 193868,
+      "durationSeconds": 16.065,
       "segments": [
         {
-          "text": "A reciprocidade e os efeitos da qualificação externa foram fundamentados? Distinga demonstração, condição não demonstrada ou afastada, e análise ainda não realizada.",
+          "text": "A reciprocidade e os efeitos da qualificação externa foram fundamentados? Confira a demonstração documental dessa condição.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
@@ -1506,18 +1501,18 @@
     "oscip_interface_repasse": {
       "file": "audio/dora/oscip_interface_repasse.mp3",
       "mime": "audio/mpeg",
-      "text": "Estão demonstrados os requisitos da exclusão expressa do MROSC? O artigo terceiro, inciso seis, exige o cumprimento dos requisitos da Lei nove mil setecentos e noventa; o título estadual isolado não basta. Se demonstrados, confira competência e procedimento estaduais. Se foi fundamentada a aplicação do MROSC, o caminho conserva o repasse e examina a iniciativa. Se há apenas título ou remissão à lei estadual, a análise fica pendente. Exigências estaduais de convênios devem ser compatíveis e justificadas uma a uma. Procedimentos específicos da União não suprem lacunas estaduais. Não há conversão automática de termo já celebrado.",
-      "sha256": "c2dfa32323c17b0127760a1ce768309d9b4ac161f0d7d43afd1852bf5ef7eff8",
-      "bytes": 447308,
-      "durationSeconds": 37.19,
+      "text": "Confira o fundamento da relação e os requisitos da exclusão expressa do MROSC. O artigo terceiro, inciso seis, exige o cumprimento dos requisitos da Lei nove mil setecentos e noventa; o título estadual isolado não basta. O exame de competência e procedimento estaduais depende dessa demonstração. O eventual encaminhamento fundamentado ao MROSC conserva o repasse e examina a iniciativa. Sem demonstração suficiente, a análise fica pendente. Exigências estaduais de convênios devem ser compatíveis e justificadas uma a uma. Procedimentos específicos da União não suprem lacunas estaduais. Não há conversão automática de termo já celebrado.",
+      "sha256": "db1c2e8e2a21253511d89f9615458fa0f69591096d919111c972620b9d73d5ef",
+      "bytes": 451340,
+      "durationSeconds": 37.515,
       "segments": [
         {
-          "text": "Estão demonstrados os requisitos da exclusão expressa do MROSC? O artigo terceiro, inciso seis, exige o cumprimento dos requisitos da Lei nove mil setecentos e noventa; o título estadual isolado não basta.",
+          "text": "Confira o fundamento da relação e os requisitos da exclusão expressa do MROSC. O artigo terceiro, inciso seis, exige o cumprimento dos requisitos da Lei nove mil setecentos e noventa; o título estadual isolado não basta.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
         {
-          "text": "Se demonstrados, confira competência e procedimento estaduais. Se foi fundamentada a aplicação do MROSC, o caminho conserva o repasse e examina a iniciativa. Se há apenas título ou remissão à lei estadual, a análise fica pendente. Exigências estaduais de convênios devem ser compatíveis e justificadas uma a uma. Procedimentos específicos da União não suprem lacunas estaduais. Não há conversão automática de termo já celebrado.",
+          "text": "O exame de competência e procedimento estaduais depende dessa demonstração. O eventual encaminhamento fundamentado ao MROSC conserva o repasse e examina a iniciativa. Sem demonstração suficiente, a análise fica pendente. Exigências estaduais de convênios devem ser compatíveis e justificadas uma a uma. Procedimentos específicos da União não suprem lacunas estaduais. Não há conversão automática de termo já celebrado.",
           "speed": 1.02,
           "pauseAfterSeconds": 0
         }
@@ -1526,13 +1521,13 @@
     "oscip_objeto_sem_repasse": {
       "file": "audio/dora/oscip_objeto_sem_repasse.mp3",
       "mime": "audio/mpeg",
-      "text": "O objeto admite termo OSCIP? Distinga atividade compatível, aquisição administrativa, SUS, parceria ordinária pelo MROSC e dúvida. A aquisição fica fora desse termo, e saúde exige revisão. O encaminhamento ao MROSC preserva a ausência de repasse e não conduz a colaboração ou fomento.",
-      "sha256": "dad8d56c1d408aaac7b47301749a70587f03513645516d9191b61bd39bb7ccef",
-      "bytes": 212012,
-      "durationSeconds": 17.59,
+      "text": "O objeto admite termo OSCIP? Confira sua compatibilidade com o regime e as vedações aplicáveis. A aquisição fica fora desse termo, e saúde exige revisão. O encaminhamento ao MROSC preserva a ausência de repasse e não conduz a colaboração ou fomento.",
+      "sha256": "119dea11dd8a530d1e31a51ac08e14ed7de9cf179bde5d2a3b01065e2f9f51e3",
+      "bytes": 192140,
+      "durationSeconds": 15.915,
       "segments": [
         {
-          "text": "O objeto admite termo OSCIP? Distinga atividade compatível, aquisição administrativa, SUS, parceria ordinária pelo MROSC e dúvida.",
+          "text": "O objeto admite termo OSCIP? Confira sua compatibilidade com o regime e as vedações aplicáveis.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
@@ -1546,13 +1541,13 @@
     "oscip_qualificacao_sem_repasse": {
       "file": "audio/dora/oscip_qualificacao_sem_repasse.mp3",
       "mime": "audio/mpeg",
-      "text": "Qual é a base da qualificação: ato estadual comprovado, certificado federal ou de outro estado ou Distrito Federal, ausência de qualificação ou documentação incerta? A qualificação externa exige análise própria de efeitos e reciprocidade. A ausência de transferência financeira permanece registrada.",
-      "sha256": "0b1f8f2cd788a11e445b1ad42a9da0d1fe5d73caf3bf8cdb652f59e2d6cea71d",
-      "bytes": 226988,
-      "durationSeconds": 18.84,
+      "text": "Qual é a base da qualificação? Confira o ato, sua origem e sua validade documental. A qualificação externa exige análise própria de efeitos e reciprocidade. A ausência de transferência financeira permanece registrada.",
+      "sha256": "d34e26f97fa3359987b88f7293f64a0af3f4076976c80c3a5d1bcdf5e9adcc73",
+      "bytes": 166508,
+      "durationSeconds": 13.79,
       "segments": [
         {
-          "text": "Qual é a base da qualificação: ato estadual comprovado, certificado federal ou de outro estado ou Distrito Federal, ausência de qualificação ou documentação incerta?",
+          "text": "Qual é a base da qualificação? Confira o ato, sua origem e sua validade documental.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
@@ -1566,13 +1561,13 @@
     "oscip_reciprocidade_sem_repasse": {
       "file": "audio/dora/oscip_reciprocidade_sem_repasse.mp3",
       "mime": "audio/mpeg",
-      "text": "A reciprocidade e os efeitos da qualificação externa foram fundamentados? Separe demonstração, condição não demonstrada ou afastada, e análise ainda não realizada. O certificado externo não basta para avançar. A ausência de transferência financeira permanece preservada, independentemente desta verificação.",
-      "sha256": "d479f5108f8e82a246339155fd92c4686b7f963f4c2dc61ab182014f1254f45d",
-      "bytes": 233900,
-      "durationSeconds": 19.415,
+      "text": "A reciprocidade e os efeitos da qualificação externa foram fundamentados? Confira a demonstração documental dessa condição. O certificado externo não basta para avançar. A ausência de transferência financeira permanece preservada, independentemente desta verificação.",
+      "sha256": "bebd4e2196882da4d3235a24f08902ac60da4d289813a6b892c6d63eb09fe66a",
+      "bytes": 201356,
+      "durationSeconds": 16.69,
       "segments": [
         {
-          "text": "A reciprocidade e os efeitos da qualificação externa foram fundamentados? Separe demonstração, condição não demonstrada ou afastada, e análise ainda não realizada.",
+          "text": "A reciprocidade e os efeitos da qualificação externa foram fundamentados? Confira a demonstração documental dessa condição.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
@@ -1586,18 +1581,18 @@
     "oscip_interface_sem_repasse": {
       "file": "audio/dora/oscip_interface_sem_repasse.mp3",
       "mime": "audio/mpeg",
-      "text": "Estão demonstrados os requisitos da exclusão expressa do MROSC? O artigo terceiro, inciso seis, exige o cumprimento dos requisitos da Lei nove mil setecentos e noventa; o título estadual isolado não basta. Se demonstrados, confira competência e procedimento estaduais. Se foi fundamentada a aplicação do MROSC, o caminho conserva a ausência de repasse e examina os bens, sem reabrir colaboração ou fomento. Se há apenas título ou remissão à lei estadual, a análise fica pendente. Exigências estaduais de convênios devem ser compatíveis e justificadas uma a uma. Procedimentos específicos da União não suprem lacunas estaduais. Não há conversão automática de termo já celebrado.",
-      "sha256": "6ec2c948727091c145e8e14d314337f5a73c6755d2b3bbe10fe78782b28ec5f6",
-      "bytes": 477548,
-      "durationSeconds": 39.715,
+      "text": "Confira o fundamento da relação e os requisitos da exclusão expressa do MROSC. O artigo terceiro, inciso seis, exige o cumprimento dos requisitos da Lei nove mil setecentos e noventa; o título estadual isolado não basta. O exame de competência e procedimento estaduais depende dessa demonstração. O eventual encaminhamento fundamentado ao MROSC conserva a ausência de repasse e examina os bens, sem reabrir colaboração ou fomento. Sem demonstração suficiente, a análise fica pendente. Exigências estaduais de convênios devem ser compatíveis e justificadas uma a uma. Procedimentos específicos da União não suprem lacunas estaduais. Não há conversão automática de termo já celebrado.",
+      "sha256": "0bf8a262be57b8a0365ba34e4803fefd5b7f2caa71ffb02a0aea52d5035a4b97",
+      "bytes": 483020,
+      "durationSeconds": 40.165,
       "segments": [
         {
-          "text": "Estão demonstrados os requisitos da exclusão expressa do MROSC? O artigo terceiro, inciso seis, exige o cumprimento dos requisitos da Lei nove mil setecentos e noventa; o título estadual isolado não basta.",
+          "text": "Confira o fundamento da relação e os requisitos da exclusão expressa do MROSC. O artigo terceiro, inciso seis, exige o cumprimento dos requisitos da Lei nove mil setecentos e noventa; o título estadual isolado não basta.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
         {
-          "text": "Se demonstrados, confira competência e procedimento estaduais. Se foi fundamentada a aplicação do MROSC, o caminho conserva a ausência de repasse e examina os bens, sem reabrir colaboração ou fomento. Se há apenas título ou remissão à lei estadual, a análise fica pendente. Exigências estaduais de convênios devem ser compatíveis e justificadas uma a uma. Procedimentos específicos da União não suprem lacunas estaduais. Não há conversão automática de termo já celebrado.",
+          "text": "O exame de competência e procedimento estaduais depende dessa demonstração. O eventual encaminhamento fundamentado ao MROSC conserva a ausência de repasse e examina os bens, sem reabrir colaboração ou fomento. Sem demonstração suficiente, a análise fica pendente. Exigências estaduais de convênios devem ser compatíveis e justificadas uma a uma. Procedimentos específicos da União não suprem lacunas estaduais. Não há conversão automática de termo já celebrado.",
           "speed": 1.02,
           "pauseAfterSeconds": 0
         }
@@ -2910,7 +2905,7 @@
     "voices/pf_dora.pt": "07e4ff987c5d5a8c3995efd15cc4f0db7c4c15e881b198d8ab7f67ecf51f5eb7"
   },
   "complete": true,
-  "generated": 35,
-  "reused": 130,
-  "generationSeconds": 169.536
+  "generated": 1,
+  "reused": 164,
+  "generationSeconds": 5.428
 }
