@@ -5,8 +5,8 @@
   "format": "mp3",
   "engine": "Kokoro-82M local CPU",
   "synthetic": true,
-  "sourceNarrativesSha256": "09e535ea19c1e88722c9562d0af883a519d0f967e5aca9b6b3aa327154b66ef4",
-  "sourceModelSha256": "9ea42d297c9ba5877cc360e55379c3a55fc18677b42d261ab3c52b27dbc763ed",
+  "sourceNarrativesSha256": "fcc7e3598ebdfa180fcee89ad6deafeecf18d77543688466340e8fa0b710665d",
+  "sourceModelSha256": "4400f5a88c72808bfb0ea5ed0d36c2b89a7c8ac580aa1f070edab34ba2e0aceb",
   "sourcePromptsSha256": "55cc0dfb317924fb8178a94740bf38f97a64236cfe496eb8c94cb42b9ab90b46",
   "profile": {
     "voice": "pf_dora",
@@ -441,10 +441,10 @@
     "oscip_interface": {
       "file": "audio/dora/oscip_interface.mp3",
       "mime": "audio/mpeg",
-      "text": "Confira o fundamento da relação e os requisitos da exclusão expressa do MROSC. O artigo terceiro, inciso seis, exclui os termos de parceria que cumpram os requisitos da Lei nove mil setecentos e noventa. O título estadual isolado não basta. O exame de competência e procedimento estadual depende dessa demonstração; a eventual aplicação do MROSC exige fundamento e o exame de seus pressupostos próprios. Sem demonstração suficiente, a análise permanece pendente. Exigências estaduais de convênios só complementam a lei especial quando compatíveis e justificadas uma a uma. Procedimentos específicos da União não suprem lacunas estaduais. Não há conversão automática de termo já celebrado.",
-      "sha256": "24d13fa139c4d132b9994d9f9027e9a6ff3e774ef99fd7c038ed3f167fdc30c3",
-      "bytes": 484460,
-      "durationSeconds": 40.29,
+      "text": "Confira o fundamento da relação e os requisitos da exclusão expressa do MROSC. O artigo terceiro, inciso seis, exclui os termos de parceria que cumpram os requisitos da Lei nove mil setecentos e noventa. O título estadual isolado não basta. O exame de competência e procedimento estadual depende dessa demonstração; a eventual aplicação do MROSC exige fundamento e o exame de seus pressupostos próprios. Sem demonstração suficiente, a análise permanece pendente. A remissão da lei estadual exige análise jurídica de alcance e compatibilidade por dispositivo, considerando a exclusão do termo de parceria no decreto estadual de convênios. Não se presume a aplicação de uma regra apenas por sua presença na matriz. Procedimentos específicos da União não suprem lacunas estaduais. Não há conversão automática de termo já celebrado.",
+      "sha256": "645e84d537758eeaeeebf27ef791cee5784e4e7f6ec0cebb47d6847e9a971fcb",
+      "bytes": 574892,
+      "durationSeconds": 47.815,
       "segments": [
         {
           "text": "Confira o fundamento da relação e os requisitos da exclusão expressa do MROSC. O artigo terceiro, inciso seis, exclui os termos de parceria que cumpram os requisitos da Lei nove mil setecentos e noventa.",
@@ -452,7 +452,7 @@
           "pauseAfterSeconds": 0.34
         },
         {
-          "text": "O título estadual isolado não basta. O exame de competência e procedimento estadual depende dessa demonstração; a eventual aplicação do MROSC exige fundamento e o exame de seus pressupostos próprios. Sem demonstração suficiente, a análise permanece pendente. Exigências estaduais de convênios só complementam a lei especial quando compatíveis e justificadas uma a uma. Procedimentos específicos da União não suprem lacunas estaduais. Não há conversão automática de termo já celebrado.",
+          "text": "O título estadual isolado não basta. O exame de competência e procedimento estadual depende dessa demonstração; a eventual aplicação do MROSC exige fundamento e o exame de seus pressupostos próprios. Sem demonstração suficiente, a análise permanece pendente. A remissão da lei estadual exige análise jurídica de alcance e compatibilidade por dispositivo, considerando a exclusão do termo de parceria no decreto estadual de convênios. Não se presume a aplicação de uma regra apenas por sua presença na matriz. Procedimentos específicos da União não suprem lacunas estaduais. Não há conversão automática de termo já celebrado.",
           "speed": 1.02,
           "pauseAfterSeconds": 0
         }
@@ -701,10 +701,10 @@
     "r_os_saude": {
       "file": "audio/dora/r_os_saude.mp3",
       "mime": "audio/mpeg",
-      "text": "O contrato de gestão de organização social na saúde permanece pendente. A lei examinada fixa a revogação da Lei seis mil e quarenta e três a partir de trinta e um de julho de dois mil e vinte e seis. A exigência de plano e cronograma de internalização depende de conferência da cadeia de veto, votação e promulgação. Antes de indicar nova celebração, confirme fundamento posterior, eventuais decisões judiciais e transição. Busca sem resultado não prova inexistência de norma. Contratos anteriores exigem exame próprio: suas obrigações não se extinguem automaticamente. Confira a lei sancionada; o artigo segundo da Lei dez mil quatrocentos e cinquenta e sete foi vetado.",
-      "sha256": "800b220beda824e31e63f0daf13191dc0d7495290a5d2ef4403a73a74fc9ba32",
-      "bytes": 468044,
-      "durationSeconds": 38.915,
+      "text": "O contrato de gestão de organização social na saúde permanece pendente. A lei examinada fixa a revogação da Lei seis mil e quarenta e três a partir de trinta e um de julho de dois mil e vinte e seis. A exigência de plano e cronograma de internalização depende de análise jurídica da divergência entre a consolidação e os documentos de veto e votação já recuperados. Antes de indicar nova celebração, confirme fundamento posterior, eventuais decisões judiciais e transição. Busca sem resultado não prova inexistência de norma. Contratos anteriores exigem exame próprio: suas obrigações não se extinguem automaticamente. Confira a lei sancionada; o artigo segundo da Lei dez mil quatrocentos e cinquenta e sete foi vetado.",
+      "sha256": "62f08d414d7ea3cc59e71bebcec2dcbe09ad668152ed1a53e90fbbf0998bca4a",
+      "bytes": 507212,
+      "durationSeconds": 42.19,
       "segments": [
         {
           "text": "O contrato de gestão de organização social na saúde permanece pendente. A lei examinada fixa a revogação da Lei seis mil e quarenta e três a partir de trinta e um de julho de dois mil e vinte e seis.",
@@ -712,7 +712,7 @@
           "pauseAfterSeconds": 0.34
         },
         {
-          "text": "A exigência de plano e cronograma de internalização depende de conferência da cadeia de veto, votação e promulgação. Antes de indicar nova celebração, confirme fundamento posterior, eventuais decisões judiciais e transição. Busca sem resultado não prova inexistência de norma. Contratos anteriores exigem exame próprio: suas obrigações não se extinguem automaticamente. Confira a lei sancionada; o artigo segundo da Lei dez mil quatrocentos e cinquenta e sete foi vetado.",
+          "text": "A exigência de plano e cronograma de internalização depende de análise jurídica da divergência entre a consolidação e os documentos de veto e votação já recuperados. Antes de indicar nova celebração, confirme fundamento posterior, eventuais decisões judiciais e transição. Busca sem resultado não prova inexistência de norma. Contratos anteriores exigem exame próprio: suas obrigações não se extinguem automaticamente. Confira a lei sancionada; o artigo segundo da Lei dez mil quatrocentos e cinquenta e sete foi vetado.",
           "speed": 1.02,
           "pauseAfterSeconds": 0
         }
@@ -1201,10 +1201,10 @@
     "r_acordo_bens": {
       "file": "audio/dora/r_acordo_bens.mp3",
       "mime": "audio/mpeg",
-      "text": "O acordo de cooperação com compartilhamento patrimonial é uma indicação condicionada, sem repasse financeiro. Confira o chamamento e as hipóteses legais cabíveis, além da titularidade, autorização e instrumento de uso dos bens. Diferencie bens móveis e imóveis e verifique sua disciplina própria. A reconciliação alcança a cadeia central estadual do MROSC, respeitada a lei federal; não conclui toda a análise patrimonial. O texto recuperado do Decreto cinquenta mil trezentos e vinte e sete é uma reprodução identificada. A indicação não aprova a celebração nem transfere por si só propriedade ou direito real.",
-      "sha256": "1c5a2933f3987244b257046975f52dfcfc499fb07e8f4d6d7daa74345e41e5cd",
-      "bytes": 419372,
-      "durationSeconds": 34.865,
+      "text": "O acordo de cooperação com compartilhamento patrimonial é uma indicação condicionada, sem repasse financeiro. Confira o chamamento e as hipóteses legais cabíveis, além da titularidade, autorização e instrumento de uso dos bens. Diferencie bens móveis e imóveis e verifique sua disciplina própria. A reconciliação alcança a cadeia central estadual do MROSC, respeitada a lei federal; não conclui toda a análise patrimonial. A publicação oficial do Decreto cinquenta mil trezentos e vinte e sete foi recuperada e conferida. A indicação não aprova a celebração nem transfere por si só propriedade ou direito real.",
+      "sha256": "609f77dba87cda47619d27b8326b131787bc89fbfd6d63a2075c660978578017",
+      "bytes": 417356,
+      "durationSeconds": 34.69,
       "segments": [
         {
           "text": "O acordo de cooperação com compartilhamento patrimonial é uma indicação condicionada, sem repasse financeiro. Confira o chamamento e as hipóteses legais cabíveis, além da titularidade, autorização e instrumento de uso dos bens.",
@@ -1212,7 +1212,7 @@
           "pauseAfterSeconds": 0.34
         },
         {
-          "text": "Diferencie bens móveis e imóveis e verifique sua disciplina própria. A reconciliação alcança a cadeia central estadual do MROSC, respeitada a lei federal; não conclui toda a análise patrimonial. O texto recuperado do Decreto cinquenta mil trezentos e vinte e sete é uma reprodução identificada. A indicação não aprova a celebração nem transfere por si só propriedade ou direito real.",
+          "text": "Diferencie bens móveis e imóveis e verifique sua disciplina própria. A reconciliação alcança a cadeia central estadual do MROSC, respeitada a lei federal; não conclui toda a análise patrimonial. A publicação oficial do Decreto cinquenta mil trezentos e vinte e sete foi recuperada e conferida. A indicação não aprova a celebração nem transfere por si só propriedade ou direito real.",
           "speed": 1.02,
           "pauseAfterSeconds": 0
         }
@@ -1321,10 +1321,10 @@
     "r_oscip_interface": {
       "file": "audio/dora/r_oscip_interface.mp3",
       "mime": "audio/mpeg",
-      "text": "O resultado permanece pendente porque falta demonstrar o requisito próprio da exclusão expressa do MROSC: o atendimento à Lei nove mil setecentos e noventa. O título estadual não substitui essa demonstração. Confira também objeto, qualificação e reciprocidade, quando cabível. Exigências estaduais de convênios complementam a lei especial apenas quando compatíveis e individualmente fundamentadas. Procedimentos específicos da União não preenchem lacunas estaduais. Se houver fundamento para aplicar o MROSC, examine seus pressupostos próprios, sem converter automaticamente um termo existente. As remissões antigas também exigem revisão.",
-      "sha256": "58945da0fabb06a6f355ee6906fd649496e575dc0dd8d1277bd6ca1fdb282f8b",
-      "bytes": 445868,
-      "durationSeconds": 37.065,
+      "text": "O resultado permanece pendente porque falta demonstrar o requisito próprio da exclusão expressa do MROSC: o atendimento à Lei nove mil setecentos e noventa. O título estadual não substitui essa demonstração. Confira também objeto, qualificação e reciprocidade, quando cabível. A remissão da lei estadual exige análise jurídica de alcance e compatibilidade por dispositivo, considerando a exclusão do termo de parceria no decreto estadual de convênios. Não se presume a aplicação de uma regra apenas por sua presença na matriz. Procedimentos específicos da União não preenchem lacunas estaduais. Se houver fundamento para aplicar o MROSC, examine seus pressupostos próprios, sem converter automaticamente um termo existente. As remissões antigas também exigem revisão.",
+      "sha256": "22bd5eb3b1fbb687de2ffc4e223b3a9be972ba22acb3e4b9f9947e3e5f46fecf",
+      "bytes": 526796,
+      "durationSeconds": 43.815,
       "segments": [
         {
           "text": "O resultado permanece pendente porque falta demonstrar o requisito próprio da exclusão expressa do MROSC: o atendimento à Lei nove mil setecentos e noventa. O título estadual não substitui essa demonstração.",
@@ -1332,7 +1332,7 @@
           "pauseAfterSeconds": 0.34
         },
         {
-          "text": "Confira também objeto, qualificação e reciprocidade, quando cabível. Exigências estaduais de convênios complementam a lei especial apenas quando compatíveis e individualmente fundamentadas. Procedimentos específicos da União não preenchem lacunas estaduais. Se houver fundamento para aplicar o MROSC, examine seus pressupostos próprios, sem converter automaticamente um termo existente. As remissões antigas também exigem revisão.",
+          "text": "Confira também objeto, qualificação e reciprocidade, quando cabível. A remissão da lei estadual exige análise jurídica de alcance e compatibilidade por dispositivo, considerando a exclusão do termo de parceria no decreto estadual de convênios. Não se presume a aplicação de uma regra apenas por sua presença na matriz. Procedimentos específicos da União não preenchem lacunas estaduais. Se houver fundamento para aplicar o MROSC, examine seus pressupostos próprios, sem converter automaticamente um termo existente. As remissões antigas também exigem revisão.",
           "speed": 1.02,
           "pauseAfterSeconds": 0
         }
@@ -1501,10 +1501,10 @@
     "oscip_interface_repasse": {
       "file": "audio/dora/oscip_interface_repasse.mp3",
       "mime": "audio/mpeg",
-      "text": "Confira o fundamento da relação e os requisitos da exclusão expressa do MROSC. O artigo terceiro, inciso seis, exige o cumprimento dos requisitos da Lei nove mil setecentos e noventa; o título estadual isolado não basta. O exame de competência e procedimento estaduais depende dessa demonstração. O eventual encaminhamento fundamentado ao MROSC conserva o repasse e examina a iniciativa. Sem demonstração suficiente, a análise fica pendente. Exigências estaduais de convênios devem ser compatíveis e justificadas uma a uma. Procedimentos específicos da União não suprem lacunas estaduais. Não há conversão automática de termo já celebrado.",
-      "sha256": "db1c2e8e2a21253511d89f9615458fa0f69591096d919111c972620b9d73d5ef",
-      "bytes": 451340,
-      "durationSeconds": 37.515,
+      "text": "Confira o fundamento da relação e os requisitos da exclusão expressa do MROSC. O artigo terceiro, inciso seis, exige o cumprimento dos requisitos da Lei nove mil setecentos e noventa; o título estadual isolado não basta. O exame de competência e procedimento estaduais depende dessa demonstração. O eventual encaminhamento fundamentado ao MROSC conserva o repasse e examina a iniciativa. Sem demonstração suficiente, a análise fica pendente. A remissão da lei estadual exige análise jurídica de alcance e compatibilidade por dispositivo, considerando a exclusão do termo de parceria no decreto estadual de convênios. Não se presume a aplicação de uma regra apenas por sua presença na matriz. Procedimentos específicos da União não suprem lacunas estaduais. Não há conversão automática de termo já celebrado.",
+      "sha256": "74093da4e6d816019a0dfadaee69a59da5e053c9713b7ca68e47e72fd79191fe",
+      "bytes": 561644,
+      "durationSeconds": 46.715,
       "segments": [
         {
           "text": "Confira o fundamento da relação e os requisitos da exclusão expressa do MROSC. O artigo terceiro, inciso seis, exige o cumprimento dos requisitos da Lei nove mil setecentos e noventa; o título estadual isolado não basta.",
@@ -1512,7 +1512,7 @@
           "pauseAfterSeconds": 0.34
         },
         {
-          "text": "O exame de competência e procedimento estaduais depende dessa demonstração. O eventual encaminhamento fundamentado ao MROSC conserva o repasse e examina a iniciativa. Sem demonstração suficiente, a análise fica pendente. Exigências estaduais de convênios devem ser compatíveis e justificadas uma a uma. Procedimentos específicos da União não suprem lacunas estaduais. Não há conversão automática de termo já celebrado.",
+          "text": "O exame de competência e procedimento estaduais depende dessa demonstração. O eventual encaminhamento fundamentado ao MROSC conserva o repasse e examina a iniciativa. Sem demonstração suficiente, a análise fica pendente. A remissão da lei estadual exige análise jurídica de alcance e compatibilidade por dispositivo, considerando a exclusão do termo de parceria no decreto estadual de convênios. Não se presume a aplicação de uma regra apenas por sua presença na matriz. Procedimentos específicos da União não suprem lacunas estaduais. Não há conversão automática de termo já celebrado.",
           "speed": 1.02,
           "pauseAfterSeconds": 0
         }
@@ -1581,10 +1581,10 @@
     "oscip_interface_sem_repasse": {
       "file": "audio/dora/oscip_interface_sem_repasse.mp3",
       "mime": "audio/mpeg",
-      "text": "Confira o fundamento da relação e os requisitos da exclusão expressa do MROSC. O artigo terceiro, inciso seis, exige o cumprimento dos requisitos da Lei nove mil setecentos e noventa; o título estadual isolado não basta. O exame de competência e procedimento estaduais depende dessa demonstração. O eventual encaminhamento fundamentado ao MROSC conserva a ausência de repasse e examina os bens, sem reabrir colaboração ou fomento. Sem demonstração suficiente, a análise fica pendente. Exigências estaduais de convênios devem ser compatíveis e justificadas uma a uma. Procedimentos específicos da União não suprem lacunas estaduais. Não há conversão automática de termo já celebrado.",
-      "sha256": "0bf8a262be57b8a0365ba34e4803fefd5b7f2caa71ffb02a0aea52d5035a4b97",
-      "bytes": 483020,
-      "durationSeconds": 40.165,
+      "text": "Confira o fundamento da relação e os requisitos da exclusão expressa do MROSC. O artigo terceiro, inciso seis, exige o cumprimento dos requisitos da Lei nove mil setecentos e noventa; o título estadual isolado não basta. O exame de competência e procedimento estaduais depende dessa demonstração. O eventual encaminhamento fundamentado ao MROSC conserva a ausência de repasse e examina os bens, sem reabrir colaboração ou fomento. Sem demonstração suficiente, a análise fica pendente. A remissão da lei estadual exige análise jurídica de alcance e compatibilidade por dispositivo, considerando a exclusão do termo de parceria no decreto estadual de convênios. Não se presume a aplicação de uma regra apenas por sua presença na matriz. Procedimentos específicos da União não suprem lacunas estaduais. Não há conversão automática de termo já celebrado.",
+      "sha256": "20b58179c80925d752810c4c044322b93a0d2c8c9c13ce2e33f61b07d29ab1ee",
+      "bytes": 591020,
+      "durationSeconds": 49.165,
       "segments": [
         {
           "text": "Confira o fundamento da relação e os requisitos da exclusão expressa do MROSC. O artigo terceiro, inciso seis, exige o cumprimento dos requisitos da Lei nove mil setecentos e noventa; o título estadual isolado não basta.",
@@ -1592,7 +1592,7 @@
           "pauseAfterSeconds": 0.34
         },
         {
-          "text": "O exame de competência e procedimento estaduais depende dessa demonstração. O eventual encaminhamento fundamentado ao MROSC conserva a ausência de repasse e examina os bens, sem reabrir colaboração ou fomento. Sem demonstração suficiente, a análise fica pendente. Exigências estaduais de convênios devem ser compatíveis e justificadas uma a uma. Procedimentos específicos da União não suprem lacunas estaduais. Não há conversão automática de termo já celebrado.",
+          "text": "O exame de competência e procedimento estaduais depende dessa demonstração. O eventual encaminhamento fundamentado ao MROSC conserva a ausência de repasse e examina os bens, sem reabrir colaboração ou fomento. Sem demonstração suficiente, a análise fica pendente. A remissão da lei estadual exige análise jurídica de alcance e compatibilidade por dispositivo, considerando a exclusão do termo de parceria no decreto estadual de convênios. Não se presume a aplicação de uma regra apenas por sua presença na matriz. Procedimentos específicos da União não suprem lacunas estaduais. Não há conversão automática de termo já celebrado.",
           "speed": 1.02,
           "pauseAfterSeconds": 0
         }
@@ -2907,5 +2907,5 @@
   "complete": true,
   "generated": 1,
   "reused": 164,
-  "generationSeconds": 5.428
+  "generationSeconds": 44.773
 }
