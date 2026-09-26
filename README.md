@@ -12,9 +12,13 @@ A aplicação mantém fontes e pendências jurídicas visíveis, inclusive enqua
 
 Os textos e áudios conservam as ressalvas do modelo. Normas e reproduções de terceiros ficam no acervo local de pesquisa; o site aponta para as fontes. Pilotos de voz, arquivos de conta, PDFs e ambientes de desenvolvimento não integram este repositório.
 
+A atualização documental de 25/09/2026 incorpora a fonte primária do Decreto 50.327/2026 e os avanços documentados sobre OSCIPs, cultura e OS. O painel exibe 10 itens parciais e 2 abertos; os 12 itens resolvidos ficam no histórico local. Isso não encerra a compatibilidade integral do MROSC, as lacunas de autoridade/cadastro/reciprocidade OSCIP ou o fundamento posterior para OS na saúde. Os resultados permanecem orientativos e condicionados.
+
 ## Narração e licenças
 
 Narração sintética gerada localmente com Kokoro-82M, voz brasileira Dora (`pf_dora`), com direção de texto, ritmo e pausas do projeto. São 120 arquivos MP3 finais, reutilizados pelas cenas; o manifesto vincula cada trecho ao texto e ao seu SHA-256. Áudio é carregado sob demanda. Transcrição e escolhas continuam acessíveis quando o áudio falha.
+
+As URLs dos áudios incluem o hash do conteúdo para evitar que uma atualização de texto reproduza uma gravação anterior em cache. A edição offline mantém os áudios incorporados.
 
 Código autoral: Apache-2.0. Textos didáticos autorais licenciáveis: CC BY 4.0. Bibliotecas e materiais de terceiros conservam seus próprios termos. As licenças do código/textos não se estendem automaticamente às gravações sintéticas. Atribuição: Projeto PG-15 e o endereço deste repositório. Consulte [LICENSE](LICENSE), [LICENSE-TEXTS.md](LICENSE-TEXTS.md), [LICENCAS.md](LICENCAS.md) e [NOTICE](NOTICE).
 
