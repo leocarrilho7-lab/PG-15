@@ -5,8 +5,8 @@
   "format": "mp3",
   "engine": "Kokoro-82M local CPU",
   "synthetic": true,
-  "sourceNarrativesSha256": "fcc7e3598ebdfa180fcee89ad6deafeecf18d77543688466340e8fa0b710665d",
-  "sourceModelSha256": "4400f5a88c72808bfb0ea5ed0d36c2b89a7c8ac580aa1f070edab34ba2e0aceb",
+  "sourceNarrativesSha256": "20cf154d862cf5deef2ca6682d496a8b5754fdd5af2d0298c7fef2e4a44844ee",
+  "sourceModelSha256": "adc52b1c0c7b3af2028b238118a4aa40494e79dce495ed36ad4e2c9926d80d6e",
   "sourcePromptsSha256": "55cc0dfb317924fb8178a94740bf38f97a64236cfe496eb8c94cb42b9ab90b46",
   "profile": {
     "voice": "pf_dora",
@@ -661,18 +661,18 @@
     "r_sus_especial": {
       "file": "audio/dora/r_sus_especial.mp3",
       "mime": "audio/mpeg",
-      "text": "Este encaminhamento é condicionado ao exame da norma, do fundo e do programa envolvidos. A transferência fundo a fundo não é classificada como convênio por esta árvore. Confirme requisitos de execução, controle e contas na cadeia setorial correspondente.",
-      "sha256": "76b14d0a272f258028064adeb6b9a845b0040da1e9ada673391819dfe6bc2c70",
-      "bytes": 182924,
-      "durationSeconds": 15.165,
+      "text": "Confira se o caso corresponde à transferência regular e automática do Fundo Estadual aos Fundos Municipais de Saúde, sujeita à pactuação, ao processo e às regras setoriais. Não é classificada automaticamente como convênio. A disciplina examinada também admite transferência voluntária excepcional por instrumento formal; essa exceção deve ser demonstrada. Confira a resolução do programa, as contas e o destino dos recursos. Não estenda esse regime a outros fundos.",
+      "sha256": "65512c890aadfe2b15bd1277d965ceeead56b5a7ee3ff566728198a50c53a7f7",
+      "bytes": 329516,
+      "durationSeconds": 27.365,
       "segments": [
         {
-          "text": "Este encaminhamento é condicionado ao exame da norma, do fundo e do programa envolvidos. A transferência fundo a fundo não é classificada como convênio por esta árvore.",
+          "text": "Confira se o caso corresponde à transferência regular e automática do Fundo Estadual aos Fundos Municipais de Saúde, sujeita à pactuação, ao processo e às regras setoriais. Não é classificada automaticamente como convênio.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
         {
-          "text": "Confirme requisitos de execução, controle e contas na cadeia setorial correspondente.",
+          "text": "A disciplina examinada também admite transferência voluntária excepcional por instrumento formal; essa exceção deve ser demonstrada. Confira a resolução do programa, as contas e o destino dos recursos. Não estenda esse regime a outros fundos.",
           "speed": 1.02,
           "pauseAfterSeconds": 0
         }
@@ -701,18 +701,18 @@
     "r_os_saude": {
       "file": "audio/dora/r_os_saude.mp3",
       "mime": "audio/mpeg",
-      "text": "O contrato de gestão de organização social na saúde permanece pendente. A lei examinada fixa a revogação da Lei seis mil e quarenta e três a partir de trinta e um de julho de dois mil e vinte e seis. A exigência de plano e cronograma de internalização depende de análise jurídica da divergência entre a consolidação e os documentos de veto e votação já recuperados. Antes de indicar nova celebração, confirme fundamento posterior, eventuais decisões judiciais e transição. Busca sem resultado não prova inexistência de norma. Contratos anteriores exigem exame próprio: suas obrigações não se extinguem automaticamente. Confira a lei sancionada; o artigo segundo da Lei dez mil quatrocentos e cinquenta e sete foi vetado.",
-      "sha256": "62f08d414d7ea3cc59e71bebcec2dcbe09ad668152ed1a53e90fbbf0998bca4a",
-      "bytes": 507212,
-      "durationSeconds": 42.19,
+      "text": "O contrato de gestão de organização social na saúde permanece pendente. O marco legal examinado é trinta e um de julho de dois mil e vinte e seis. Os documentos de veto e votação indicam a manutenção do veto ao parágrafo sobre plano de internalização; por isso, não se presume essa obrigação a partir da consolidação divergente. Antes de nova celebração ou prorrogação, confirme o fundamento posterior, as decisões judiciais eventualmente aplicáveis e as regras de transição. Busca sem resultado não prova inexistência de norma. As obrigações de contratos anteriores não se extinguem automaticamente; cada instrumento exige exame próprio.",
+      "sha256": "e64f2403a0f975d3487374a253ccd6b336fdb2daa1923dbf4bda0727c0c0e6a7",
+      "bytes": 443564,
+      "durationSeconds": 36.865,
       "segments": [
         {
-          "text": "O contrato de gestão de organização social na saúde permanece pendente. A lei examinada fixa a revogação da Lei seis mil e quarenta e três a partir de trinta e um de julho de dois mil e vinte e seis.",
+          "text": "O contrato de gestão de organização social na saúde permanece pendente. O marco legal examinado é trinta e um de julho de dois mil e vinte e seis.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
         {
-          "text": "A exigência de plano e cronograma de internalização depende de análise jurídica da divergência entre a consolidação e os documentos de veto e votação já recuperados. Antes de indicar nova celebração, confirme fundamento posterior, eventuais decisões judiciais e transição. Busca sem resultado não prova inexistência de norma. Contratos anteriores exigem exame próprio: suas obrigações não se extinguem automaticamente. Confira a lei sancionada; o artigo segundo da Lei dez mil quatrocentos e cinquenta e sete foi vetado.",
+          "text": "Os documentos de veto e votação indicam a manutenção do veto ao parágrafo sobre plano de internalização; por isso, não se presume essa obrigação a partir da consolidação divergente. Antes de nova celebração ou prorrogação, confirme o fundamento posterior, as decisões judiciais eventualmente aplicáveis e as regras de transição. Busca sem resultado não prova inexistência de norma. As obrigações de contratos anteriores não se extinguem automaticamente; cada instrumento exige exame próprio.",
           "speed": 1.02,
           "pauseAfterSeconds": 0
         }
@@ -721,18 +721,18 @@
     "r_os_setorial": {
       "file": "audio/dora/r_os_setorial.mp3",
       "mime": "audio/mpeg",
-      "text": "O contrato de gestão permanece pendente de análise setorial. Em cultura, esporte, lazer ou ambiente, identifique a lei e o regulamento próprios, a qualificação, a seleção, o instrumento e os controles. A identificação de números de normas não demonstra a validade de toda a cadeia. Esta rota é distinta do convênio e do termo de parceria com OSCIP. A pesquisa não auditou integralmente as leis setoriais e suas alterações; confirme sua aplicação ao caso antes de concluir.",
-      "sha256": "79e1ae7a1c6e5b4ed1d83573777c03c8a20cac308056462b83f152961b118b57",
-      "bytes": 332684,
-      "durationSeconds": 27.64,
+      "text": "A hipótese é um contrato de gestão com organização social, ainda pendente de enquadramento no setor concreto. As fichas distinguem cultura, esporte e lazer e meio ambiente. Confira a qualificação, a seleção e o contrato previstos na lei e no regulamento de cada setor. A composição atual da comissão e os atos necessários a uma exceção de seleção precisam ser comprovados. Não estenda automaticamente a disciplina da saúde nem uma exceção ambiental a outro setor.",
+      "sha256": "b23ee7843246cd530050c2481917648c754e5334bbfb3b77e1daf4f47d4e91ea",
+      "bytes": 331820,
+      "durationSeconds": 27.565,
       "segments": [
         {
-          "text": "O contrato de gestão permanece pendente de análise setorial. Em cultura, esporte, lazer ou ambiente, identifique a lei e o regulamento próprios, a qualificação, a seleção, o instrumento e os controles.",
+          "text": "A hipótese é um contrato de gestão com organização social, ainda pendente de enquadramento no setor concreto. As fichas distinguem cultura, esporte e lazer e meio ambiente.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
         {
-          "text": "A identificação de números de normas não demonstra a validade de toda a cadeia. Esta rota é distinta do convênio e do termo de parceria com OSCIP. A pesquisa não auditou integralmente as leis setoriais e suas alterações; confirme sua aplicação ao caso antes de concluir.",
+          "text": "Confira a qualificação, a seleção e o contrato previstos na lei e no regulamento de cada setor. A composição atual da comissão e os atos necessários a uma exceção de seleção precisam ser comprovados. Não estenda automaticamente a disciplina da saúde nem uma exceção ambiental a outro setor.",
           "speed": 1.02,
           "pauseAfterSeconds": 0
         }
@@ -741,18 +741,18 @@
     "r_cultura": {
       "file": "audio/dora/r_cultura.mp3",
       "mime": "audio/mpeg",
-      "text": "Este encaminhamento é orientativo e condicionado. Identifique o programa, a fonte dos recursos, a lei, a modalidade e a seleção aplicáveis. Diferencie fomento pelo Fundo Estadual de Cultura, incentivo fiscal e parceria regida pelo MROSC. O tema cultural, sozinho, não escolhe o instrumento. Use a disciplina própria que tiver sido demonstrada no caso. A regulamentação cultural federal e estadual não foi integralmente consolidada nesta versão.",
-      "sha256": "f3de200a8f88e7cadf76a3fc646e8a43747dffea8d0ba73830f4faf2ffb9154b",
-      "bytes": 314252,
-      "durationSeconds": 26.09,
+      "text": "A indicação depende do regime cultural motivadamente escolhido no processo. No regime próprio, examine termo de execução cultural, premiação cultural ou bolsa cultural quando houver repasse, e termo de ocupação cultural ou cooperação cultural quando não houver repasse. Premiação não remunera obrigações futuras. Fundo Estadual de Cultura, incentivo fiscal e parceria pelo MROSC têm regras distintas; o tema cultural, sozinho, não escolhe o instrumento. Confira programa, fonte, seleção e condições da modalidade na ficha.",
+      "sha256": "0f3abb712115a1dcb293952c5d726e17d5e369444a29a5e580a688d889e9738d",
+      "bytes": 363788,
+      "durationSeconds": 30.24,
       "segments": [
         {
-          "text": "Este encaminhamento é orientativo e condicionado. Identifique o programa, a fonte dos recursos, a lei, a modalidade e a seleção aplicáveis.",
+          "text": "A indicação depende do regime cultural motivadamente escolhido no processo. No regime próprio, examine termo de execução cultural, premiação cultural ou bolsa cultural quando houver repasse, e termo de ocupação cultural ou cooperação cultural quando não houver repasse.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
         {
-          "text": "Diferencie fomento pelo Fundo Estadual de Cultura, incentivo fiscal e parceria regida pelo MROSC. O tema cultural, sozinho, não escolhe o instrumento. Use a disciplina própria que tiver sido demonstrada no caso. A regulamentação cultural federal e estadual não foi integralmente consolidada nesta versão.",
+          "text": "Premiação não remunera obrigações futuras. Fundo Estadual de Cultura, incentivo fiscal e parceria pelo MROSC têm regras distintas; o tema cultural, sozinho, não escolhe o instrumento. Confira programa, fonte, seleção e condições da modalidade na ficha.",
           "speed": 1.02,
           "pauseAfterSeconds": 0
         }
@@ -781,18 +781,18 @@
     "r_cti": {
       "file": "audio/dora/r_cti.mp3",
       "mime": "audio/mpeg",
-      "text": "A rota é orientativa e condicionada. Examine a Lei estadual nove mil oitocentos e nove, de dois mil e vinte e dois, sua regulamentação e a modalidade do ajuste. Identifique a instituição científica, tecnológica e de inovação envolvida, o objeto, a forma de aporte, a competência e as regras de propriedade intelectual. O decreto geral exclui os ajustes abrangidos por essa disciplina. A existência de um projeto tecnológico não dispensa demonstrar os pressupostos do instrumento. A cadeia normativa ainda não foi integralmente consolidada.",
-      "sha256": "9061891453854799771f3edd0921c1f9e4706f173e877d6747e2dd941d3b4047",
-      "bytes": 372716,
-      "durationSeconds": 30.965,
+      "text": "A indicação é condicionada à atividade de ciência, tecnologia ou inovação efetivamente demonstrada. Distinga cooperação, acordo de parceria para pesquisa conjunta, transferência ou licenciamento de tecnologia, apoio financeiro, bolsa e encomenda tecnológica. A lei estadual prevê instrumentos e requisitos próprios; a ficha discrimina suas bases. Confira a condição das partes, a política da instituição, o ato regulamentar incidente e os direitos sobre os resultados. Não escolha convênio apenas pelo nome do projeto nem use dispositivo cujo veto foi mantido.",
+      "sha256": "cc6706f0c66adfe368511c24a3eb7d41a219233e32b779c7ffb6d6065f8f7415",
+      "bytes": 403244,
+      "durationSeconds": 33.515,
       "segments": [
         {
-          "text": "A rota é orientativa e condicionada. Examine a Lei estadual nove mil oitocentos e nove, de dois mil e vinte e dois, sua regulamentação e a modalidade do ajuste.",
+          "text": "A indicação é condicionada à atividade de ciência, tecnologia ou inovação efetivamente demonstrada. Distinga cooperação, acordo de parceria para pesquisa conjunta, transferência ou licenciamento de tecnologia, apoio financeiro, bolsa e encomenda tecnológica.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
         {
-          "text": "Identifique a instituição científica, tecnológica e de inovação envolvida, o objeto, a forma de aporte, a competência e as regras de propriedade intelectual. O decreto geral exclui os ajustes abrangidos por essa disciplina. A existência de um projeto tecnológico não dispensa demonstrar os pressupostos do instrumento. A cadeia normativa ainda não foi integralmente consolidada.",
+          "text": "A lei estadual prevê instrumentos e requisitos próprios; a ficha discrimina suas bases. Confira a condição das partes, a política da instituição, o ato regulamentar incidente e os direitos sobre os resultados. Não escolha convênio apenas pelo nome do projeto nem use dispositivo cujo veto foi mantido.",
           "speed": 1.02,
           "pauseAfterSeconds": 0
         }
@@ -821,18 +821,18 @@
     "r_especial": {
       "file": "audio/dora/r_especial.mp3",
       "mime": "audio/mpeg",
-      "text": "Este encaminhamento é condicionado. Fundo a fundo, estágio, PROEIS, PROESP, RAS e outras hipóteses específicas exigem identificar a norma aplicável, seu alcance e sua vigência. O inventário setorial não é exaustivo; esta saída não determina sozinha o instrumento.",
-      "sha256": "4a6d3054e029e3e436cae490d62beba6a51b6596846479934059d99d3d19ae3f",
-      "bytes": 200492,
-      "durationSeconds": 16.615,
+      "text": "Este encaminhamento é condicionado ao programa e ao órgão identificados. Na Polícia Militar, o decreto examinado extingue o PROESP e transfere suas ações ao PROEIS, preservando a transição dos ajustes anteriores. Essa regra não se estende automaticamente a outras corporações. No SUS, diferencie transferência regular fundo a fundo da transferência voluntária excepcional por instrumento formal. No estágio, diferencie o ajuste institucional do termo de compromisso do estudante. Confira na ficha o instrumento, os atos do programa e os requisitos ainda necessários; a exclusão do regime geral não dispensa controle.",
+      "sha256": "9dd4cbe4c80c50a778a0428a032b80aa7c95481ec3e9bc5e1dfa5d2ac13ebdd2",
+      "bytes": 429740,
+      "durationSeconds": 35.715,
       "segments": [
         {
-          "text": "Este encaminhamento é condicionado. Fundo a fundo, estágio, PROEIS, PROESP, RAS e outras hipóteses específicas exigem identificar a norma aplicável, seu alcance e sua vigência.",
+          "text": "Este encaminhamento é condicionado ao programa e ao órgão identificados. Na Polícia Militar, o decreto examinado extingue o PROESP e transfere suas ações ao PROEIS, preservando a transição dos ajustes anteriores.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
         {
-          "text": "O inventário setorial não é exaustivo; esta saída não determina sozinha o instrumento.",
+          "text": "Essa regra não se estende automaticamente a outras corporações. No SUS, diferencie transferência regular fundo a fundo da transferência voluntária excepcional por instrumento formal. No estágio, diferencie o ajuste institucional do termo de compromisso do estudante. Confira na ficha o instrumento, os atos do programa e os requisitos ainda necessários; a exclusão do regime geral não dispensa controle.",
           "speed": 1.02,
           "pauseAfterSeconds": 0
         }
@@ -1201,18 +1201,18 @@
     "r_acordo_bens": {
       "file": "audio/dora/r_acordo_bens.mp3",
       "mime": "audio/mpeg",
-      "text": "O acordo de cooperação com compartilhamento patrimonial é uma indicação condicionada, sem repasse financeiro. Confira o chamamento e as hipóteses legais cabíveis, além da titularidade, autorização e instrumento de uso dos bens. Diferencie bens móveis e imóveis e verifique sua disciplina própria. A reconciliação alcança a cadeia central estadual do MROSC, respeitada a lei federal; não conclui toda a análise patrimonial. A publicação oficial do Decreto cinquenta mil trezentos e vinte e sete foi recuperada e conferida. A indicação não aprova a celebração nem transfere por si só propriedade ou direito real.",
-      "sha256": "609f77dba87cda47619d27b8326b131787bc89fbfd6d63a2075c660978578017",
-      "bytes": 417356,
-      "durationSeconds": 34.69,
+      "text": "O acordo de cooperação com compartilhamento patrimonial é uma indicação condicionada, sem repasse financeiro. Confira o chamamento e as hipóteses legais cabíveis. Diferencie bens móveis e imóveis e identifique titularidade, autorização e instrumento patrimonial próprio. Cessão de uso, autorização e alienação têm pressupostos distintos. O acordo, sozinho, não transfere propriedade ou direito real e não aprova a celebração. Os fundamentos e as condições estão na ficha.",
+      "sha256": "0abdd25018eed6f68de017209bdc169fb918d84f71342b1348c21f5b7d2f5241",
+      "bytes": 337292,
+      "durationSeconds": 28.015,
       "segments": [
         {
-          "text": "O acordo de cooperação com compartilhamento patrimonial é uma indicação condicionada, sem repasse financeiro. Confira o chamamento e as hipóteses legais cabíveis, além da titularidade, autorização e instrumento de uso dos bens.",
+          "text": "O acordo de cooperação com compartilhamento patrimonial é uma indicação condicionada, sem repasse financeiro. Confira o chamamento e as hipóteses legais cabíveis.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
         {
-          "text": "Diferencie bens móveis e imóveis e verifique sua disciplina própria. A reconciliação alcança a cadeia central estadual do MROSC, respeitada a lei federal; não conclui toda a análise patrimonial. A publicação oficial do Decreto cinquenta mil trezentos e vinte e sete foi recuperada e conferida. A indicação não aprova a celebração nem transfere por si só propriedade ou direito real.",
+          "text": "Diferencie bens móveis e imóveis e identifique titularidade, autorização e instrumento patrimonial próprio. Cessão de uso, autorização e alienação têm pressupostos distintos. O acordo, sozinho, não transfere propriedade ou direito real e não aprova a celebração. Os fundamentos e as condições estão na ficha.",
           "speed": 1.02,
           "pauseAfterSeconds": 0
         }
@@ -1341,18 +1341,18 @@
     "r_oscip_regulacao": {
       "file": "audio/dora/r_oscip_regulacao.mp3",
       "mime": "audio/mpeg",
-      "text": "A rota OSCIP continua visível, com resultado pendente. A pesquisa não confirmou integralmente o regulamento, a autoridade qualificadora, o cadastro e o registro financeiro atuais. Isso não prova inexistência. Obtenha os atos e as rotinas aplicáveis e atualize a minuta de dois mil e dezessete, com suas remissões antigas. Aplique exigências estaduais de convênios apenas de modo subsidiário, compatível e fundamentado por dispositivo. Procedimentos específicos da União não suprem lacunas estaduais. Permanecem as normas federais gerais aplicáveis e os requisitos da exclusão expressa do MROSC. Submeta os pontos ainda não resolvidos ao órgão jurídico competente.",
-      "sha256": "5f020a66d409367814ddc643edae544a29b640cdb6bed59c5d528647eba67f90",
-      "bytes": 479852,
-      "durationSeconds": 39.89,
+      "text": "A rota OSCIP continua visível, com resultado pendente. Regulamento, autoridade qualificadora, cadastro e rotina financeira atuais ainda exigem comprovação. Isso não prova inexistência. As diligências discriminam os atos necessários. A minuta oficial de dois mil e dezessete exige revisão jurídica das remissões e cláusulas; o quadro comparativo não é uma minuta aprovada. Normas estaduais de convênios somente complementam a lei especial quando compatíveis e fundamentadas por dispositivo. Procedimentos específicos da União não suprem lacunas estaduais. Confira também os requisitos próprios da exclusão do MROSC.",
+      "sha256": "f6be2376be8769292abaa9e216d1c3e3b6cc4966e40ca5cd565e82c460f257b7",
+      "bytes": 432332,
+      "durationSeconds": 35.94,
       "segments": [
         {
-          "text": "A rota OSCIP continua visível, com resultado pendente. A pesquisa não confirmou integralmente o regulamento, a autoridade qualificadora, o cadastro e o registro financeiro atuais.",
+          "text": "A rota OSCIP continua visível, com resultado pendente. Regulamento, autoridade qualificadora, cadastro e rotina financeira atuais ainda exigem comprovação.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
         {
-          "text": "Isso não prova inexistência. Obtenha os atos e as rotinas aplicáveis e atualize a minuta de dois mil e dezessete, com suas remissões antigas. Aplique exigências estaduais de convênios apenas de modo subsidiário, compatível e fundamentado por dispositivo. Procedimentos específicos da União não suprem lacunas estaduais. Permanecem as normas federais gerais aplicáveis e os requisitos da exclusão expressa do MROSC. Submeta os pontos ainda não resolvidos ao órgão jurídico competente.",
+          "text": "Isso não prova inexistência. As diligências discriminam os atos necessários. A minuta oficial de dois mil e dezessete exige revisão jurídica das remissões e cláusulas; o quadro comparativo não é uma minuta aprovada. Normas estaduais de convênios somente complementam a lei especial quando compatíveis e fundamentadas por dispositivo. Procedimentos específicos da União não suprem lacunas estaduais. Confira também os requisitos próprios da exclusão do MROSC.",
           "speed": 1.02,
           "pauseAfterSeconds": 0
         }
@@ -2905,7 +2905,7 @@
     "voices/pf_dora.pt": "07e4ff987c5d5a8c3995efd15cc4f0db7c4c15e881b198d8ab7f67ecf51f5eb7"
   },
   "complete": true,
-  "generated": 1,
-  "reused": 164,
-  "generationSeconds": 44.773
+  "generated": 8,
+  "reused": 157,
+  "generationSeconds": 344.206
 }
