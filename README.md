@@ -1,6 +1,6 @@
 # PG-15 — Parcerias administrativas do ERJ
 
-Prévia didática interativa sobre instrumentos de parceria no Estado do Rio de Janeiro. Base normativa examinada em 25/09/2026; versão 4.1.
+Prévia didática interativa sobre instrumentos de parceria no Estado do Rio de Janeiro. Pesquisa com corte em 25/09/2026, integração documental em 26/09/2026; versão 4.1.
 
 **[Abrir a aplicação](https://leocarrilho7-lab.github.io/PG-15/)** · [comparar os poliedros 3D](https://leocarrilho7-lab.github.io/PG-15/#acabamento)
 
@@ -12,7 +12,11 @@ A aplicação mantém fontes e pendências jurídicas visíveis, inclusive enqua
 
 Os textos e áudios conservam as ressalvas do modelo. Normas e reproduções de terceiros ficam no acervo local de pesquisa; o site aponta para as fontes. Pilotos de voz, arquivos de conta, PDFs e ambientes de desenvolvimento não integram este repositório.
 
-A atualização documental de 25/09/2026 incorpora a fonte primária do Decreto 50.327/2026 e os avanços documentados sobre OSCIPs, cultura e OS. O painel exibe 10 itens parciais e 2 abertos; os 12 itens resolvidos ficam no histórico local. Isso não encerra a compatibilidade integral do MROSC, as lacunas de autoridade/cadastro/reciprocidade OSCIP ou o fundamento posterior para OS na saúde. Os resultados permanecem orientativos e condicionados.
+A atualização de 26/09/2026 aplica os cartões aprovados: matriz MROSC por dispositivo, fichas de instrução e controle, quadro comparativo da minuta OSCIP e instrumentos de CT&I, patrimônio, cultura, OS setoriais e programas delimitados. PMI e SRP incorporam a cadeia normativa examinada. O quadro da minuta OSCIP é apoio para revisão; o original de 2017 foi preservado, sem converter a proposta em minuta oficial atualizada.
+
+O painel exibe seis itens parciais e dois abertos. Os 22 levantamentos encerrados ficam no histórico local, mantendo fontes e condições do caso nas rotas. Permanecem lacunas sobre autoridade/regulamento, cadastro e reciprocidade OSCIP; revisão da minuta; fundamento posterior para OS na saúde; cópia autônoma de promulgação CT&I; operação do Sicx e rito/competências do diálogo competitivo. D1/D2/D3 estão preparadas para protocolo manual, sem envio.
+
+O índice reúne 46 capturas, das quais 45 foram conferidas como íntegras documentais e uma conserva reserva editorial (LC 26). Captura ou integridade não certificam vigência exaustiva, enquadramento ou regularidade de um caso.
 
 ## Narração e licenças
 
