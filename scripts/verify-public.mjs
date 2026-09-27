@@ -7,8 +7,9 @@ const manifestBytes=readFileSync(resolve(root,'audio-manifest.json'));
 const manifest=JSON.parse(manifestBytes);
 const validatedBytes=new Map([['audio-manifest.json',manifestBytes]]);
 assert.equal(manifest.complete,true);assert.equal(manifest.voiceId,'pf_dora');
-assert.equal(manifest.publicationAuthorized,true,'A seleção de voz não substitui autorização de publicação');
-assert.equal(Object.keys(manifest.clips).length,80);assert.equal(Object.keys(manifest.intros).length,5);
+assert.equal(manifest.editionPublicationAuthorized,true,'A publicação da edição v4.2 exige autorização expressa');
+assert.equal(manifest.publicationAuthorized,true,'A seleção de voz não substitui autorização de publicação dos áudios da base');
+assert.equal(Object.keys(manifest.clips).length,80);assert.equal(Object.keys(manifest.intros).length,7);
 assert.equal(Object.keys(manifest.prompts).length,80);
 const clips=[...Object.values(manifest.clips),...Object.values(manifest.intros),...Object.values(manifest.prompts)], allowed=new Set(), records=new Map();
 for(const clip of clips){
@@ -33,4 +34,4 @@ for(const path of ['assets/app.js','assets/style.css']){
  assert.ok(html.includes(`${path}?v=${version}"`),'Recurso público sem versão de conteúdo: '+path);
 }
 const inventory=[...all].sort().map(path=>{const bytes=validatedBytes.get(path)||readFileSync(resolve(root,path));return {path,bytes:bytes.length,sha256:createHash('sha256').update(bytes).digest('hex')};});
-console.log(JSON.stringify({status:'PASS',files:all.length,doraClips:allowed.size,publicationAuthorized:manifest.publicationAuthorized,inventory}));
+console.log(JSON.stringify({status:'PASS',files:all.length,doraClips:allowed.size,publicationAuthorized:manifest.publicationAuthorized,editionPublicationAuthorized:manifest.editionPublicationAuthorized,authorizationScope:'publicationAuthorized registra a autorização histórica dos áudios da base; editionPublicationAuthorized registra a autorização da edição v4.2. Atos Git e implantação são verificados separadamente.',inventory}));
