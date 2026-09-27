@@ -1,10 +1,10 @@
 # PG-15 — Parcerias administrativas do ERJ
 
-Prévia didática interativa sobre instrumentos de parceria no Estado do Rio de Janeiro. Pesquisa com corte em 25/09/2026, integração documental em 26/09/2026; versão 4.1.
+Prévia didática interativa sobre instrumentos de parceria no Estado do Rio de Janeiro. Pesquisa com corte em 25/09/2026, integração documental em 26/09/2026 e atualização das cenas em 27/09/2026; versão 4.2.
 
-**[Abrir a aplicação](https://leocarrilho7-lab.github.io/PG-15/)** · [comparar os poliedros 3D](https://leocarrilho7-lab.github.io/PG-15/#acabamento)
+**[Abrir a aplicação](https://leocarrilho7-lab.github.io/PG-15/)** · [abrir Cenas 3D](https://leocarrilho7-lab.github.io/PG-15/#acabamento)
 
-O material oferece passo a passo, Mapa 2D, Mermaid e Universo 3D sincronizados. O percurso começa progressivo; cada vista permite selecionar o sistema inteiro. As cores, formas e relações acompanham condições e ramificações. A opção B utiliza estrutura metálica dourada ou prateada e vidro colorido. O filme contextualiza a etapa, apresenta as alternativas e aguarda uma escolha explícita.
+O material oferece passo a passo, Mapa 2D, Mermaid e Cenas 3D sincronizados. Mapa 2D e Mermaid permitem selecionar o sistema inteiro. A vista 3D exibe somente a cena atual, com figuras, luminária e documentos; o zoom-out não revela outras etapas. O filme contextualiza a pergunta, apresenta as alternativas e aguarda uma escolha explícita. Voltar refaz o voo, e a ficha do resultado reúne fundamentos, condições e ressalvas.
 
 ## Fontes e limites
 
@@ -20,7 +20,7 @@ O índice reúne 46 capturas, das quais 45 foram conferidas como íntegras docum
 
 ## Narração e licenças
 
-Narração sintética gerada localmente com Kokoro-82M, voz brasileira Dora (`pf_dora`), com direção de texto, ritmo e pausas do projeto. São 120 arquivos MP3 finais, reutilizados pelas cenas; o manifesto vincula cada trecho ao texto e ao seu SHA-256. Áudio é carregado sob demanda. Transcrição e escolhas continuam acessíveis quando o áudio falha.
+Narração sintética gerada localmente com Kokoro-82M, voz brasileira Dora (`pf_dora`), com direção de texto, ritmo e pausas do projeto. São 122 arquivos MP3 finais, reutilizados pelas cenas; o manifesto vincula cada trecho ao texto e ao seu SHA-256. Áudio é carregado sob demanda. Transcrição e escolhas continuam acessíveis quando o áudio falha.
 
 As URLs dos áudios incluem o hash do conteúdo para evitar que uma atualização de texto reproduza uma gravação anterior em cache. A edição offline mantém os áudios incorporados.
 
@@ -34,6 +34,12 @@ Código autoral: Apache-2.0. Textos didáticos autorais licenciáveis: CC BY 4.0
 - `gh-pages`: branch dedicado à cópia verificada da edição web; o GitHub Pages serve sua raiz.
 
 Este repositório contém a edição estática. Os fontes de desenvolvimento, a geração local de áudio, os documentos de pesquisa e o HTML independente para uso offline são mantidos no pacote local do projeto. Para atualizar, gerar e testar uma nova edição nesse pacote, substituir somente os arquivos admitidos de `web/`, conferir o manifesto e abrir PR após revisão independente do código. A publicação deve continuar condicionada à autorização do responsável.
+
+Para manter os hashes também no checkout do Windows, clone sem conversão automática de finais de linha:
+
+```sh
+git clone --config core.autocrlf=false https://github.com/leocarrilho7-lab/PG-15.git
+```
 
 Verificação do pacote com Node.js 24:
 

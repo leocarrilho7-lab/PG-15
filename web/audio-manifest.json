@@ -6,8 +6,8 @@
   "engine": "Kokoro-82M local CPU",
   "synthetic": true,
   "sourceNarrativesSha256": "20cf154d862cf5deef2ca6682d496a8b5754fdd5af2d0298c7fef2e4a44844ee",
-  "sourceModelSha256": "adc52b1c0c7b3af2028b238118a4aa40494e79dce495ed36ad4e2c9926d80d6e",
-  "sourcePromptsSha256": "55cc0dfb317924fb8178a94740bf38f97a64236cfe496eb8c94cb42b9ab90b46",
+  "sourceModelSha256": "ec853b523cfbd0f3d91806bd4a3863182ec915b9b739277542c1c10c8084dc43",
+  "sourcePromptsSha256": "8d31b3c84930e9c1c83aca08d9d3a36317b797b73a0fbdd558d5db90f1a73bef",
   "profile": {
     "voice": "pf_dora",
     "library": "kokoro==0.9.4",
@@ -1694,6 +1694,52 @@
           "pauseAfterSeconds": 0
         }
       ]
+    },
+    "agora-pergunta": {
+      "text": "Agora, vamos à próxima pergunta.",
+      "durationSeconds": 2.325,
+      "sha256": "4e4d8d0e6dd35938e59e36986f1f90072656fbe892cecb0da050d3afad2c5e91",
+      "file": "audio/dora/intro-agora-pergunta.mp3",
+      "mime": "audio/mpeg",
+      "bytes": 28845,
+      "segments": [
+        {
+          "text": "Agora, vamos à próxima pergunta.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ],
+      "provenance": {
+        "origin": "Protótipo de cenas aprovado, fonte/audio-novas-falas.json",
+        "model": "Kokoro-82M",
+        "modelRevision": "f3ff3571791e39611d31c381e3a41a3af07b4987",
+        "voiceId": "pf_dora",
+        "seed": 15,
+        "speed": 1.05
+      }
+    },
+    "agora-resultado": {
+      "text": "Agora, vamos ver o resultado.",
+      "durationSeconds": 2.125,
+      "sha256": "e1a43d6802904da3325fa4857f414a1c63b4406b04c41984d22cc494795f8efa",
+      "file": "audio/dora/intro-agora-resultado.mp3",
+      "mime": "audio/mpeg",
+      "bytes": 26541,
+      "segments": [
+        {
+          "text": "Agora, vamos ver o resultado.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ],
+      "provenance": {
+        "origin": "Protótipo de cenas aprovado, fonte/audio-novas-falas.json",
+        "model": "Kokoro-82M",
+        "modelRevision": "f3ff3571791e39611d31c381e3a41a3af07b4987",
+        "voiceId": "pf_dora",
+        "seed": 15,
+        "speed": 1.05
+      }
     }
   },
   "prompts": {
@@ -1745,13 +1791,13 @@
     "setor": {
       "file": "audio/dora/prompt-setor.mp3",
       "mime": "audio/mpeg",
-      "text": "As opções são: Participação complementar no SUS; Pretende-se contrato de gestão com OS; Pretende-se termo de parceria com OSCIP; Fomento ou parceria na cultura; Ciência, tecnologia ou inovação sob regime específico; Objeto exclusivamente de doação de bens; Fundo a fundo, estágio, PROEIS/PROESP/RAS ou outro regime próprio; Nenhuma dessas hipóteses se aplica; Há dúvida ou sobreposição de regimes. Qual dessas opções descreve o caso?",
-      "sha256": "2ce5b118c873319cd224f037bf025b18c98c9b449dab73dcd285faf64132e9df",
-      "bytes": 289772,
-      "durationSeconds": 24.05,
+      "text": "As opções são: Participação complementar no SUS; Contrato de gestão com OS; Termo de parceria com OSCIP; Fomento ou parceria na cultura; Ciência, tecnologia ou inovação sob regime específico; Objeto exclusivamente de doação de bens; Fundo a fundo, estágio, PROEIS/PROESP/RAS ou outro regime próprio; Nenhuma dessas hipóteses se aplica; Há dúvida ou sobreposição de regimes. Qual dessas opções descreve o caso?",
+      "sha256": "6a345848356b36f7918b5dae47fcb32f0738317ef628aeeb5b7788c64bde6b24",
+      "bytes": 280844,
+      "durationSeconds": 23.325,
       "segments": [
         {
-          "text": "As opções são: Participação complementar no SUS; Pretende-se contrato de gestão com OS; Pretende-se termo de parceria com OSCIP; Fomento ou parceria na cultura; Ciência, tecnologia ou inovação sob regime específico; Objeto exclusivamente de doação de bens; Fundo a fundo, estágio, PROEIS/PROESP/RAS ou outro regime próprio; Nenhuma dessas hipóteses se aplica; Há dúvida ou sobreposição de regimes. Qual dessas opções descreve o caso?",
+          "text": "As opções são: Participação complementar no SUS; Contrato de gestão com OS; Termo de parceria com OSCIP; Fomento ou parceria na cultura; Ciência, tecnologia ou inovação sob regime específico; Objeto exclusivamente de doação de bens; Fundo a fundo, estágio, PROEIS/PROESP/RAS ou outro regime próprio; Nenhuma dessas hipóteses se aplica; Há dúvida ou sobreposição de regimes. Qual dessas opções descreve o caso?",
           "speed": 1.05,
           "pauseAfterSeconds": 0
         }
@@ -1895,13 +1941,13 @@
     "parceiro_sem_repasse": {
       "file": "audio/dora/prompt-parceiro_sem_repasse.mp3",
       "mime": "audio/mpeg",
-      "text": "As opções são: Órgãos, unidades despersonalizadas ou Poderes do ERJ; OSC, inclusive OSCIP em parceria ordinária; Pretende-se termo de parceria OSCIP; Entidade estadual indireta, outra unidade federativa, consórcio, Sistema S ou privado fora do MROSC; Natureza do parceiro ou regime ainda incertos. Qual dessas opções descreve o caso?",
-      "sha256": "67e0ec03f68a1e410642d9c1934dce3d6963bfab27e9ff509ab6585e1e26f98f",
-      "bytes": 233612,
-      "durationSeconds": 19.375,
+      "text": "As opções são: Órgãos, unidades despersonalizadas ou Poderes do ERJ; OSC, inclusive OSCIP em parceria ordinária; Termo de parceria OSCIP; Entidade estadual indireta, outra unidade federativa, consórcio, Sistema S ou privado fora do MROSC; Natureza do parceiro ou regime ainda incertos. Qual dessas opções descreve o caso?",
+      "sha256": "3386bb79c79c9d1e2cc8a2fdab7609d9ded4220377599355718878632bf24d23",
+      "bytes": 227564,
+      "durationSeconds": 18.875,
       "segments": [
         {
-          "text": "As opções são: Órgãos, unidades despersonalizadas ou Poderes do ERJ; OSC, inclusive OSCIP em parceria ordinária; Pretende-se termo de parceria OSCIP; Entidade estadual indireta, outra unidade federativa, consórcio, Sistema S ou privado fora do MROSC; Natureza do parceiro ou regime ainda incertos. Qual dessas opções descreve o caso?",
+          "text": "As opções são: Órgãos, unidades despersonalizadas ou Poderes do ERJ; OSC, inclusive OSCIP em parceria ordinária; Termo de parceria OSCIP; Entidade estadual indireta, outra unidade federativa, consórcio, Sistema S ou privado fora do MROSC; Natureza do parceiro ou regime ainda incertos. Qual dessas opções descreve o caso?",
           "speed": 1.05,
           "pauseAfterSeconds": 0
         }
@@ -2898,14 +2944,21 @@
       ]
     }
   },
-  "sourceIntroductionsSha256": "92b075fb5dd53b7ad8b5270d2392c7745c5f2cd9636da688f5f129592e132aef",
+  "sourceIntroductionsSha256": "1e6cf3b06a6767b350f33a34084fb9275fc096cf5069a8077e2b3c2a964a6c8b",
   "inputHashes": {
     "config.json": "5abb01e2403b072bf03d04fde160443e209d7a0dad49a423be15196b9b43c17f",
     "kokoro-v1_0.pth": "496dba118d1a58f5f3db2efc88dbdc216e0483fc89fe6e47ee1f2c53f18ad1e4",
     "voices/pf_dora.pt": "07e4ff987c5d5a8c3995efd15cc4f0db7c4c15e881b198d8ab7f67ecf51f5eb7"
   },
   "complete": true,
-  "generated": 8,
-  "reused": 157,
-  "generationSeconds": 344.206
+  "generated": 2,
+  "reused": 165,
+  "generationSeconds": 19.713,
+  "editionPublicationAuthorized": true,
+  "editionPublicationNote": "Usuário autorizou a publicação da edição v4.2: 'Pode publicar. Depois irei avaliar quadro a quadro como ficou a adaptação'; em seguida, aprovou o plano de finalização e publicação. Esta autorização da edição não registra atos Git nem implantação já realizados; os atos Git estão sujeitos a cartões separados.",
+  "v42AudioUpdate": {
+    "generated": 0,
+    "newApprovedPrototypeFiles": 2,
+    "baseUniqueFilesPreserved": 120
+  }
 }
