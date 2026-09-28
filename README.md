@@ -1,10 +1,12 @@
 # PG-15 — Parcerias administrativas do ERJ
 
-Prévia didática interativa sobre instrumentos de parceria no Estado do Rio de Janeiro. Pesquisa com corte em 25/09/2026, integração documental em 26/09/2026 e atualização das cenas em 27/09/2026; versão 4.2.
+Prévia didática interativa sobre instrumentos de parceria no Estado do Rio de Janeiro. Pesquisa com corte em 25/09/2026, integração documental em 26/09/2026 e atualização visual em 28/09/2026; versão 4.2.1.
 
 **[Abrir a aplicação](https://leocarrilho7-lab.github.io/PG-15/)** · [abrir Cenas 3D](https://leocarrilho7-lab.github.io/PG-15/#acabamento)
 
 O material oferece passo a passo, Mapa 2D, Mermaid e Cenas 3D sincronizados. Mapa 2D e Mermaid permitem selecionar o sistema inteiro. A vista 3D exibe somente a cena atual, com figuras, luminária e documentos; o zoom-out não revela outras etapas. O filme contextualiza a pergunta, apresenta as alternativas e aguarda uma escolha explícita. Voltar refaz o voo, e a ficha do resultado reúne fundamentos, condições e ressalvas.
+
+Os botões das quatro vistas e da etapa de seleção usam ícones contextuais no estilo dos instrumentos: cada desenho representa o assunto da escolha. As setas dos grafos conservam suas cores e traçados; uma resposta afirmativa não significa aprovação jurídica. A atualização preserva integralmente o modelo jurídico, as narrativas e os 122 MP3 da v4.2.
 
 ## Fontes e limites
 
