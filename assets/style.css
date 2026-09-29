@@ -62,6 +62,12 @@
 
 /* Reflow also applies when text or CSS magnification narrows the content. */
 .identity,.identity>div,.intro>div{min-width:0;overflow-wrap:anywhere}.text-size,.graph-scope-label{flex-wrap:wrap;min-width:0}.graph-toolbar>*{min-width:0;max-width:100%}.graph-toolbar button,.film-entry button,.film-controls label{max-width:100%;overflow-wrap:anywhere}.camera-buttons{flex-wrap:wrap}
+.applicable-templates{margin-top:1.25rem;padding:1rem;border:1px solid #aab9ca;border-radius:12px;background:#f7faff;overflow-wrap:anywhere}
+.applicable-templates h3{margin-top:0}
+.applicable-templates li{margin-bottom:1rem}
+.applicable-templates a{display:inline-flex;align-items:center;min-height:44px;padding:4px 2px;font-weight:700}
+.applicable-templates summary{min-height:44px;padding:10px 0;font-weight:700;cursor:pointer}
+.applicable-templates a:focus-visible,.applicable-templates summary:focus-visible{outline:3px solid #1265dd;outline-offset:3px}
 
 .selection-stage{margin:0 20px 22px;border:2px solid #8da8c8;border-radius:12px;background:#f7faff;color:#142438;overflow-wrap:anywhere}
 .selection-stage[hidden]{display:none!important}
