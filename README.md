@@ -1,6 +1,6 @@
 # PG-15 — Parcerias administrativas do ERJ
 
-Prévia didática interativa sobre instrumentos de parceria no Estado do Rio de Janeiro. Edição 4.3.3: filme guiado em tela cheia, com pausa e saída sempre acessíveis, apresentação adaptada à orientação da tela e comandos de navegação em uma linha. Mantém as minutas e critérios OSCIP/OSC examinados em 29/09/2026, preservando os recebimentos federais examinados em 28/09/2026. Os demais ramos conservam suas datas e limites de pesquisa, inclusive a integração documental de 26/09/2026.
+Prévia didática interativa sobre instrumentos de parceria no Estado do Rio de Janeiro. Edição 4.3.4: alternativas disponíveis desde o início da narração, transcrição recolhida e filme guiado em tela cheia, com pausa e saída sempre acessíveis, apresentação adaptada à orientação da tela e comandos de navegação em uma linha. Mantém as minutas e critérios OSCIP/OSC examinados em 29/09/2026, preservando os recebimentos federais examinados em 28/09/2026. Os demais ramos conservam suas datas e limites de pesquisa, inclusive a integração documental de 26/09/2026.
 
 **[Abrir a aplicação](https://leocarrilho7-lab.github.io/PG-15/)** · [abrir Cenas 3D](https://leocarrilho7-lab.github.io/PG-15/#acabamento)
 
