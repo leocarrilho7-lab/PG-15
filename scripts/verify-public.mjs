@@ -7,11 +7,19 @@ const manifestBytes=readFileSync(resolve(root,'audio-manifest.json'));
 const manifest=JSON.parse(manifestBytes);
 const validatedBytes=new Map([['audio-manifest.json',manifestBytes]]);
 assert.equal(manifest.complete,true);assert.equal(manifest.voiceId,'pf_dora');
-assert.equal(manifest.editionPublicationAuthorized,true,'A publicação da edição v4.3 exige autorização expressa');
-assert.equal(manifest.editionVersion,'4.3','Autorização deve identificar a edição v4.3');
+assert.equal(manifest.editionPublicationAuthorized,true,'A publicação da edição v4.3.1 exige autorização expressa');
+assert.equal(manifest.editionVersion,'4.3.1','Autorização deve identificar a edição v4.3.1');
 assert.equal(manifest.publicationAuthorized,true,'A seleção de voz não substitui autorização de publicação dos áudios da base');
 const htmlBytes=readFileSync(resolve(root,'index.html'));validatedBytes.set('index.html',htmlBytes);
 const html=htmlBytes.toString('utf8');
+const values=value=>value&&typeof value==='object'?Object.values(value).flatMap(values):[value];
+for(const match of html.matchAll(/<script id="(?:model|research|audit)-data" type="application\/json">([\s\S]*?)<\/script>/g)){
+ assert.ok(values(JSON.parse(match[1])).every(v=>typeof v!=='string'||!/(?:^|\s)(?:\.work\/|docs\/|pesquisa\/|fontes\/|diligencias-protocolo-|[A-Z]:[\\/])/.test(v)),'Referência local indevida nos metadados públicos');
+}
+for(const path of ['index.html','assets/app.js','assets/style.css','audio-manifest.json']){
+ const text=readFileSync(resolve(root,path),'utf8');
+ assert.ok(!/[A-Z]:[\\/]+(?:Users|Socrates)[\\/]/i.test(text),'Caminho local indevido no pacote público: '+path);
+}
 const embedded=html.match(/<script id="model-data" type="application\/json">([\s\S]*?)<\/script>/);
 assert.ok(embedded,'Modelo público ausente');
 const model=JSON.parse(embedded[1]),nodeIds=model.nodes.map(n=>n.id).sort();
@@ -42,4 +50,4 @@ for(const path of ['assets/app.js','assets/style.css']){
  assert.ok(html.includes(`${path}?v=${version}"`),'Recurso público sem versão de conteúdo: '+path);
 }
 const inventory=[...all].sort().map(path=>{const bytes=validatedBytes.get(path)||readFileSync(resolve(root,path));return {path,bytes:bytes.length,sha256:createHash('sha256').update(bytes).digest('hex')};});
-console.log(JSON.stringify({status:'PASS',files:all.length,doraClips:allowed.size,publicationAuthorized:manifest.publicationAuthorized,editionPublicationAuthorized:manifest.editionPublicationAuthorized,authorizationScope:'publicationAuthorized registra a autorização histórica dos áudios da base; editionPublicationAuthorized registra a autorização da edição v4.3. Atos Git e implantação são verificados separadamente.',inventory}));
+console.log(JSON.stringify({status:'PASS',files:all.length,doraClips:allowed.size,publicationAuthorized:manifest.publicationAuthorized,editionPublicationAuthorized:manifest.editionPublicationAuthorized,authorizationScope:'publicationAuthorized registra a autorização histórica dos áudios da base; editionPublicationAuthorized registra a autorização da edição v4.3.1. Atos Git e implantação são verificados separadamente.',inventory}));
