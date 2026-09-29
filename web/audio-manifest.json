@@ -5,9 +5,9 @@
   "format": "mp3",
   "engine": "Kokoro-82M local CPU",
   "synthetic": true,
-  "sourceNarrativesSha256": "20cf154d862cf5deef2ca6682d496a8b5754fdd5af2d0298c7fef2e4a44844ee",
-  "sourceModelSha256": "ec853b523cfbd0f3d91806bd4a3863182ec915b9b739277542c1c10c8084dc43",
-  "sourcePromptsSha256": "8d31b3c84930e9c1c83aca08d9d3a36317b797b73a0fbdd558d5db90f1a73bef",
+  "sourceNarrativesSha256": "00bd21d7272e199f98d47b5fef1721cd5a2ca65c3fa9617a263c34b741832c3d",
+  "sourceModelSha256": "03a20222dcbec0877f1cc518be69ffb131727f9136ef714eae28f8a6b55866be",
+  "sourcePromptsSha256": "98b80ae9e7de57875af8cd9376e0793202cf0dfaa905762d3eff62f031dbfc4c",
   "profile": {
     "voice": "pf_dora",
     "library": "kokoro==0.9.4",
@@ -46,18 +46,18 @@
     "finalidade": {
       "file": "audio/dora/finalidade.mp3",
       "mime": "audio/mpeg",
-      "text": "Qual é a finalidade da relação? Confira o conteúdo das obrigações pretendidas antes de escolher o nome do instrumento. A descentralização também pode atender atividade em benefício do concedente. Nenhuma dessas escolhas, isoladamente, autoriza celebrar um ajuste.",
-      "sha256": "f084c39caf1470ad6508a5f7f468ce8616aec9f757039bffce013fca4120c18f",
-      "bytes": 195308,
-      "durationSeconds": 16.19,
+      "text": "Qual é a finalidade da relação?. Identifique a relação em análise: recebimento ou cooperação União → ERJ, relação entre outros partícipes, ou contratação ERJ → fornecedor. Receber recursos para obra ou compra não transforma a transferência no contrato de execução. A descentralização estadual também pode atender atividade em benefício do concedente nas hipóteses do Decreto 50.334. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "d5618fb372afd05438565fb4f7dce8af046837fdafae921ba3e9e83cb34e0394",
+      "bytes": 416780,
+      "durationSeconds": 34.64,
       "segments": [
         {
-          "text": "Qual é a finalidade da relação? Confira o conteúdo das obrigações pretendidas antes de escolher o nome do instrumento.",
+          "text": "Qual é a finalidade da relação?. Identifique a relação em análise: recebimento ou cooperação União → ERJ, relação entre outros partícipes, ou contratação ERJ → fornecedor.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
         {
-          "text": "A descentralização também pode atender atividade em benefício do concedente. Nenhuma dessas escolhas, isoladamente, autoriza celebrar um ajuste.",
+          "text": "Receber recursos para obra ou compra não transforma a transferência no contrato de execução. A descentralização estadual também pode atender atividade em benefício do concedente nas hipóteses do Decreto 50.334. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
           "speed": 1.02,
           "pauseAfterSeconds": 0
         }
@@ -66,18 +66,18 @@
     "origem": {
       "file": "audio/dora/origem.mp3",
       "mime": "audio/mpeg",
-      "text": "Quem transfere os recursos, se houver? Confira a origem e a identidade do concedente. Se a origem for incerta, complete os dados. O Estado receber dinheiro não torna automaticamente aplicável o regime estadual de convênios.",
-      "sha256": "9e0b22e5f167696eec4a91d8dbf015649ca5b83f01c9e785db04c9e8141eefc7",
-      "bytes": 164204,
-      "durationSeconds": 13.59,
+      "text": "Quem transfere os recursos, se houver?. Origem e relação entre partícipes definem o regime. Recebimento federal e cooperação federal sem repasse têm rotas próprias; o ERJ não é OSC e TED federal não é instrumento genérico de transferência ao Estado. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "0502234949552d8e04f91b3ea241608b14d064f3ccf95ef1211cfb4c634890d2",
+      "bytes": 290060,
+      "durationSeconds": 24.09,
       "segments": [
         {
-          "text": "Quem transfere os recursos, se houver? Confira a origem e a identidade do concedente.",
+          "text": "Quem transfere os recursos, se houver?. Origem e relação entre partícipes definem o regime.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
         {
-          "text": "Se a origem for incerta, complete os dados. O Estado receber dinheiro não torna automaticamente aplicável o regime estadual de convênios.",
+          "text": "Recebimento federal e cooperação federal sem repasse têm rotas próprias; o ERJ não é OSC e TED federal não é instrumento genérico de transferência ao Estado. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
           "speed": 1.02,
           "pauseAfterSeconds": 0
         }
@@ -501,18 +501,18 @@
     "r_transicao": {
       "file": "audio/dora/r_transicao.mp3",
       "mime": "audio/mpeg",
-      "text": "Este resultado permanece pendente. Confira a data, o regime e as cláusulas do instrumento já celebrado, além das normas de transição, dos limites de alteração e da prestação de contas. O percurso de novas parcerias não resolve automaticamente aditamentos.",
-      "sha256": "2c91e50c78fe69bb1ed53cd79c8f2ec02fff4b7f059ce7bb225f89b6d4d2f58a",
-      "bytes": 194444,
-      "durationSeconds": 16.115,
+      "text": "Examinar o regime do instrumento existente. Aditamentos exigem identificar data, fundamento e cláusulas originais; o mapa de novas celebrações não substitui essa análise. O enquadramento permanece pendente à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "0086dbf3c597ec50e681bf5f1a0cbb589ecd31dd80b2e3f786df1ef882454710",
+      "bytes": 239948,
+      "durationSeconds": 19.915,
       "segments": [
         {
-          "text": "Este resultado permanece pendente. Confira a data, o regime e as cláusulas do instrumento já celebrado, além das normas de transição, dos limites de alteração e da prestação de contas.",
+          "text": "Examinar o regime do instrumento existente. Aditamentos exigem identificar data, fundamento e cláusulas originais; o mapa de novas celebrações não substitui essa análise.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
         {
-          "text": "O percurso de novas parcerias não resolve automaticamente aditamentos.",
+          "text": "O enquadramento permanece pendente à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
           "speed": 1.02,
           "pauseAfterSeconds": 0
         }
@@ -561,18 +561,18 @@
     "r_recebedor_federal": {
       "file": "audio/dora/r_recebedor_federal.mp3",
       "mime": "audio/mpeg",
-      "text": "Este encaminhamento é orientativo e condicionado. Identifique o concedente federal, o programa, o instrumento e a fonte dos recursos, além das exigências estaduais compatíveis. A disciplina federal específica não foi integralmente coberta; o decreto estadual de convênios, sozinho, não classifica essa transferência.",
-      "sha256": "77477088a3bb6e276c1e51e7fcc8547e8712b9224e0318179464eefef9cb722f",
-      "bytes": 232172,
-      "durationSeconds": 19.265,
+      "text": "ERJ recebedor de recursos federais. Recebimento federal com mecanismo ou pressuposto ainda não comprovado. Identifique programa, base legal e documentos antes de escolher termo PAC, convênio, contrato de repasse ou transferência setorial. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "ad60bc4c3c67dd1a7c8f4e16a470fe01a7a2b8b7329a785b6b46c782336cab91",
+      "bytes": 290348,
+      "durationSeconds": 24.115,
       "segments": [
         {
-          "text": "Este encaminhamento é orientativo e condicionado. Identifique o concedente federal, o programa, o instrumento e a fonte dos recursos, além das exigências estaduais compatíveis.",
+          "text": "ERJ recebedor de recursos federais. Recebimento federal com mecanismo ou pressuposto ainda não comprovado.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
         {
-          "text": "A disciplina federal específica não foi integralmente coberta; o decreto estadual de convênios, sozinho, não classifica essa transferência.",
+          "text": "Identifique programa, base legal e documentos antes de escolher termo PAC, convênio, contrato de repasse ou transferência setorial. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
           "speed": 1.02,
           "pauseAfterSeconds": 0
         }
@@ -1617,6 +1617,1066 @@
           "pauseAfterSeconds": 0
         }
       ]
+    },
+    "federal_mecanismo": {
+      "file": "audio/dora/federal_mecanismo.mp3",
+      "mime": "audio/mpeg",
+      "text": "Como a relação federal alcança o ERJ?. Identifique o mecanismo concreto. A localização da obra no RJ ou sua seleção em uma interface PAC não demonstra transferência ao Estado nem enquadramento obrigatório no programa. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "3ebc0381fb77ca0362d031bcbb4d29234a79eef3c9a4df6c86b9ae4d6a37ac56",
+      "bytes": 276236,
+      "durationSeconds": 22.94,
+      "segments": [
+        {
+          "text": "Como a relação federal alcança o ERJ?. Identifique o mecanismo concreto.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "A localização da obra no RJ ou sua seleção em uma interface PAC não demonstra transferência ao Estado nem enquadramento obrigatório no programa. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_regime": {
+      "file": "audio/dora/federal_regime.mp3",
+      "mime": "audio/mpeg",
+      "text": "Qual regime de transferência foi identificado?. Programa, origem orçamentária e instrumento não são sinônimos. Afaste a disciplina legal/setorial específica e as exclusões antes de aplicar o regime geral. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "a1f46aa1e482e60a1540d6bcb43fc59d9a5577ceba8d870ae41bf648809075c0",
+      "bytes": 261548,
+      "durationSeconds": 21.715,
+      "segments": [
+        {
+          "text": "Qual regime de transferência foi identificado?. Programa, origem orçamentária e instrumento não são sinônimos.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "Afaste a disciplina legal/setorial específica e as exclusões antes de aplicar o regime geral. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_pac_enquadramento": {
+      "file": "audio/dora/federal_pac_enquadramento.mp3",
+      "mime": "audio/mpeg",
+      "text": "A ação foi discriminada para transferência obrigatória do PAC?. Exija ato ou resolução de enquadramento e confirme ação, programa e repassador. O nome PAC não basta; ações não discriminadas podem seguir transferência voluntária, financiamento ou execução direta. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "28cff1d85943881b1eac3c03cea3349d360c72192cf79e60120081e4ac1c5595",
+      "bytes": 305900,
+      "durationSeconds": 25.415,
+      "segments": [
+        {
+          "text": "A ação foi discriminada para transferência obrigatória do PAC?. Exija ato ou resolução de enquadramento e confirme ação, programa e repassador.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "O nome PAC não basta; ações não discriminadas podem seguir transferência voluntária, financiamento ou execução direta. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_pac_alternativa": {
+      "file": "audio/dora/federal_pac_alternativa.mp3",
+      "mime": "audio/mpeg",
+      "text": "Como será executada a ação sem enquadramento obrigatório PAC?. A Lei 11.578 distingue ações não discriminadas e mecanismos de execução. Confirme a forma efetiva sem escolher termo de compromisso apenas pela vinculação ao programa. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "318c75e1f901af704c491941218ba95a04b399f519441f66c03ab8a21b2d156d",
+      "bytes": 293228,
+      "durationSeconds": 24.34,
+      "segments": [
+        {
+          "text": "Como será executada a ação sem enquadramento obrigatório PAC?. A Lei 11.578 distingue ações não discriminadas e mecanismos de execução.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "Confirme a forma efetiva sem escolher termo de compromisso apenas pela vinculação ao programa. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_pac_operacao": {
+      "file": "audio/dora/federal_pac_operacao.mp3",
+      "mime": "audio/mpeg",
+      "text": "Quem operacionaliza o termo de compromisso PAC?. A mandatária pode celebrar e operacionalizar o próprio termo de compromisso. Sua presença no PAC não o transforma em contrato de repasse; confira mandato e atribuições. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "51de304fe667555dde82c7cb9595284b95e72ae395dc8153ff347abe433f5243",
+      "bytes": 269324,
+      "durationSeconds": 22.365,
+      "segments": [
+        {
+          "text": "Quem operacionaliza o termo de compromisso PAC?. A mandatária pode celebrar e operacionalizar o próprio termo de compromisso.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "Sua presença no PAC não o transforma em contrato de repasse; confira mandato e atribuições. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_geral_ambito": {
+      "file": "audio/dora/federal_geral_ambito.mp3",
+      "mime": "audio/mpeg",
+      "text": "O regime geral federal é aplicável ao caso?. Confirme o âmbito do Decreto 11.531 e exclusões das PC 33/PC 28. O ERJ é ente recebedor; esta rota não é parceria federal com OSC nem descentralização interna por TED. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "3fbbd5cddc59b335bd674943b33288738488119334526d713bc434dd005d13e4",
+      "bytes": 302156,
+      "durationSeconds": 25.09,
+      "segments": [
+        {
+          "text": "O regime geral federal é aplicável ao caso?. Confirme o âmbito do Decreto 11.531 e exclusões das PC 33/PC 28.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "O ERJ é ente recebedor; esta rota não é parceria federal com OSC nem descentralização interna por TED. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_mandataria": {
+      "file": "audio/dora/federal_mandataria.mp3",
+      "mime": "audio/mpeg",
+      "text": "O repasse geral é operado diretamente ou por mandatária?. No regime geral, contrato de repasse envolve instituição ou agente financeiro público federal como mandatário da União. Confirme essa qualidade; apoio técnico ou banco na execução não basta. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "3f46ce74d1ae9f6fdc6429fc3f6c4ad5409471afd76ebf718e0adef5b086a2e8",
+      "bytes": 293516,
+      "durationSeconds": 24.365,
+      "segments": [
+        {
+          "text": "O repasse geral é operado diretamente ou por mandatária?. No regime geral, contrato de repasse envolve instituição ou agente financeiro público federal como mandatário da União.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "Confirme essa qualidade; apoio técnico ou banco na execução não basta. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_pac_objeto": {
+      "file": "audio/dora/federal_pac_objeto.mp3",
+      "mime": "audio/mpeg",
+      "text": "Qual é a natureza do objeto da transferência?. Separe execução de obra, serviços de engenharia sem obra e estudos/projetos isolados. No PAC, estudos incluem planos, viabilidade e modelagens financeiras, além de engenharia. A distinção determina mínimo de repasse e documentação; engenharia não equivale automaticamente a obra. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "5a345320a1962ff3f91d85eb468ab85e3e4cc526d948b87ac9857100d7f45641",
+      "bytes": 341612,
+      "durationSeconds": 28.39,
+      "segments": [
+        {
+          "text": "Qual é a natureza do objeto da transferência?. Separe execução de obra, serviços de engenharia sem obra e estudos/projetos isolados.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "No PAC, estudos incluem planos, viabilidade e modelagens financeiras, além de engenharia. A distinção determina mínimo de repasse e documentação; engenharia não equivale automaticamente a obra. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_pac_minimo_obras": {
+      "file": "audio/dora/federal_pac_minimo_obras.mp3",
+      "mime": "audio/mpeg",
+      "text": "O repasse federal alcança o mínimo de R$ 400.000,00?. Compare somente o repasse da União, sem somar contrapartida. Abaixo do mínimo ou sem valor confirmado, mantenha o enquadramento condicionado e examine eventual disciplina específica; não conclua proibição universal. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "c8ec55b006048e58b62e535033efdee5f0bf6983ff9a53906c51ec082ef887e8",
+      "bytes": 326924,
+      "durationSeconds": 27.165,
+      "segments": [
+        {
+          "text": "O repasse federal alcança o mínimo de R$ 400.000,00?. Compare somente o repasse da União, sem somar contrapartida.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "Abaixo do mínimo ou sem valor confirmado, mantenha o enquadramento condicionado e examine eventual disciplina específica; não conclua proibição universal. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_pac_minimo_estudos": {
+      "file": "audio/dora/federal_pac_minimo_estudos.mp3",
+      "mime": "audio/mpeg",
+      "text": "O repasse federal alcança o mínimo de R$ 100.000,00?. Compare somente o repasse da União, sem somar contrapartida. Abaixo do mínimo ou sem valor confirmado, mantenha o enquadramento condicionado e examine eventual disciplina específica; não conclua proibição universal. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "20a37cb895516956b6f42afc87c97124d6ea34c7ebe37d5f1e7a244e15629bbf",
+      "bytes": 321164,
+      "durationSeconds": 26.665,
+      "segments": [
+        {
+          "text": "O repasse federal alcança o mínimo de R$ 100.000,00?. Compare somente o repasse da União, sem somar contrapartida.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "Abaixo do mínimo ou sem valor confirmado, mantenha o enquadramento condicionado e examine eventual disciplina específica; não conclua proibição universal. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_pac_minimo_outros": {
+      "file": "audio/dora/federal_pac_minimo_outros.mp3",
+      "mime": "audio/mpeg",
+      "text": "O repasse federal alcança o mínimo de R$ 200.000,00?. Compare somente o repasse da União, sem somar contrapartida. Abaixo do mínimo ou sem valor confirmado, mantenha o enquadramento condicionado e examine eventual disciplina específica; não conclua proibição universal. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "d2d4438820fe0a2e6c264824e4871e28750a510ff5613df424aed6966c0c823a",
+      "bytes": 323756,
+      "durationSeconds": 26.89,
+      "segments": [
+        {
+          "text": "O repasse federal alcança o mínimo de R$ 200.000,00?. Compare somente o repasse da União, sem somar contrapartida.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "Abaixo do mínimo ou sem valor confirmado, mantenha o enquadramento condicionado e examine eventual disciplina específica; não conclua proibição universal. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_pac_exercicio": {
+      "file": "audio/dora/federal_pac_exercicio.mp3",
+      "mime": "audio/mpeg",
+      "text": "Qual é o exercício da nova celebração?. O teto global é atualizado por exercício. Este percurso contém o valor de 2026; outro exercício exige conferir o ato atualizador. Instrumentos anteriores permanecem sujeitos à análise própria de transição. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "38cbbf729b76d0285bd3fecdbba486a73a27936fe5aa72a78a22b9fcdfad8864",
+      "bytes": 297548,
+      "durationSeconds": 24.715,
+      "segments": [
+        {
+          "text": "Qual é o exercício da nova celebração?. O teto global é atualizado por exercício.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "Este percurso contém o valor de 2026; outro exercício exige conferir o ato atualizador. Instrumentos anteriores permanecem sujeitos à análise própria de transição. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_pac_valor": {
+      "file": "audio/dora/federal_pac_valor.mp3",
+      "mime": "audio/mpeg",
+      "text": "O valor global na celebração é de até R$ 1.646.430,90 em 2026?. Valor global inclui repasse e contrapartida; não é o mínimo de repasse. A igualdade ao teto integra o simplificado, satisfeitos os pressupostos. Acréscimos, contrapartida e rendimentos têm regras próprias. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "85f74685f65a95c51c1affcf2354f7a4d62fa3174e676b1a606db032347a8c72",
+      "bytes": 346508,
+      "durationSeconds": 28.79,
+      "segments": [
+        {
+          "text": "O valor global na celebração é de até R$ 1.646.430,90 em 2026?. Valor global inclui repasse e contrapartida; não é o mínimo de repasse.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "A igualdade ao teto integra o simplificado, satisfeitos os pressupostos. Acréscimos, contrapartida e rendimentos têm regras próprias. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_federal_pac_ordinario": {
+      "file": "audio/dora/r_federal_pac_ordinario.mp3",
+      "mime": "audio/mpeg",
+      "text": "Termo de compromisso PAC — regime ordinário. Termo de compromisso PAC no regime ordinário, conforme respostas sobre nova celebração, objeto, repasse e valor global. A classificação permanece condicionada à comprovação dos pressupostos e não autoriza celebração ou contratação executória. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "150425ccb20c62485374f073cd5da1ecc0c54280937fecb482df47ed0e8199ed",
+      "bytes": 325772,
+      "durationSeconds": 27.065,
+      "segments": [
+        {
+          "text": "Termo de compromisso PAC — regime ordinário. Termo de compromisso PAC no regime ordinário, conforme respostas sobre nova celebração, objeto, repasse e valor global.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "A classificação permanece condicionada à comprovação dos pressupostos e não autoriza celebração ou contratação executória. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_federal_pac_simplificado": {
+      "file": "audio/dora/r_federal_pac_simplificado.mp3",
+      "mime": "audio/mpeg",
+      "text": "Termo de compromisso PAC — regime simplificado. Termo de compromisso PAC no regime simplificado, conforme respostas sobre nova celebração, objeto, repasse e valor global. A classificação permanece condicionada à comprovação dos pressupostos e não autoriza celebração ou contratação executória. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "24c37d4cf6361bc64ad75adc8d3658c5fcd532a8b2ea96663a9a5f672d41aa11",
+      "bytes": 330668,
+      "durationSeconds": 27.465,
+      "segments": [
+        {
+          "text": "Termo de compromisso PAC — regime simplificado. Termo de compromisso PAC no regime simplificado, conforme respostas sobre nova celebração, objeto, repasse e valor global.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "A classificação permanece condicionada à comprovação dos pressupostos e não autoriza celebração ou contratação executória. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_federal_pac_condicionado": {
+      "file": "audio/dora/r_federal_pac_condicionado.mp3",
+      "mime": "audio/mpeg",
+      "text": "Termo de compromisso PAC — enquadramento condicionado. Termo de compromisso PAC indicado pelo mecanismo informado, mas regime ordinário ou simplificado ainda não confirmado. Identifique a pendência do percurso: operador, objeto, mínimo de repasse, exercício ou valor global. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "d2501aaf705166d11316d7c24b292b613039621d153a86657f9ab017c110cd6d",
+      "bytes": 313388,
+      "durationSeconds": 26.04,
+      "segments": [
+        {
+          "text": "Termo de compromisso PAC — enquadramento condicionado. Termo de compromisso PAC indicado pelo mecanismo informado, mas regime ordinário ou simplificado ainda não confirmado.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "Identifique a pendência do percurso: operador, objeto, mínimo de repasse, exercício ou valor global. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_convenio_objeto": {
+      "file": "audio/dora/federal_convenio_objeto.mp3",
+      "mime": "audio/mpeg",
+      "text": "Qual é a natureza do objeto da transferência?. Separe execução de obra, serviço de engenharia sem obra e estudos/projetos isolados. A distinção determina mínimo de repasse e documentação; não confunda qualquer engenharia com execução de obra. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "b8e982ad003f55ac13f1cd71a2922ad66827c3830f5c39758031d9c68b7178b0",
+      "bytes": 288044,
+      "durationSeconds": 23.915,
+      "segments": [
+        {
+          "text": "Qual é a natureza do objeto da transferência?. Separe execução de obra, serviço de engenharia sem obra e estudos/projetos isolados.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "A distinção determina mínimo de repasse e documentação; não confunda qualquer engenharia com execução de obra. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_convenio_minimo_obras": {
+      "file": "audio/dora/federal_convenio_minimo_obras.mp3",
+      "mime": "audio/mpeg",
+      "text": "O repasse federal alcança o mínimo de R$ 400.000,00?. Compare somente o repasse da União, sem somar contrapartida. Abaixo do mínimo ou sem valor confirmado, mantenha o enquadramento condicionado e examine eventual disciplina específica; não conclua proibição universal. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "c8ec55b006048e58b62e535033efdee5f0bf6983ff9a53906c51ec082ef887e8",
+      "bytes": 326924,
+      "durationSeconds": 27.165,
+      "segments": [
+        {
+          "text": "O repasse federal alcança o mínimo de R$ 400.000,00?. Compare somente o repasse da União, sem somar contrapartida.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "Abaixo do mínimo ou sem valor confirmado, mantenha o enquadramento condicionado e examine eventual disciplina específica; não conclua proibição universal. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_convenio_minimo_estudos": {
+      "file": "audio/dora/federal_convenio_minimo_estudos.mp3",
+      "mime": "audio/mpeg",
+      "text": "O repasse federal alcança o mínimo de R$ 200.000,00?. Compare somente o repasse da União, sem somar contrapartida. Abaixo do mínimo ou sem valor confirmado, mantenha o enquadramento condicionado e examine eventual disciplina específica; não conclua proibição universal. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "d2d4438820fe0a2e6c264824e4871e28750a510ff5613df424aed6966c0c823a",
+      "bytes": 323756,
+      "durationSeconds": 26.89,
+      "segments": [
+        {
+          "text": "O repasse federal alcança o mínimo de R$ 200.000,00?. Compare somente o repasse da União, sem somar contrapartida.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "Abaixo do mínimo ou sem valor confirmado, mantenha o enquadramento condicionado e examine eventual disciplina específica; não conclua proibição universal. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_convenio_minimo_outros": {
+      "file": "audio/dora/federal_convenio_minimo_outros.mp3",
+      "mime": "audio/mpeg",
+      "text": "O repasse federal alcança o mínimo de R$ 200.000,00?. Compare somente o repasse da União, sem somar contrapartida. Abaixo do mínimo ou sem valor confirmado, mantenha o enquadramento condicionado e examine eventual disciplina específica; não conclua proibição universal. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "d2d4438820fe0a2e6c264824e4871e28750a510ff5613df424aed6966c0c823a",
+      "bytes": 323756,
+      "durationSeconds": 26.89,
+      "segments": [
+        {
+          "text": "O repasse federal alcança o mínimo de R$ 200.000,00?. Compare somente o repasse da União, sem somar contrapartida.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "Abaixo do mínimo ou sem valor confirmado, mantenha o enquadramento condicionado e examine eventual disciplina específica; não conclua proibição universal. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_convenio_exercicio": {
+      "file": "audio/dora/federal_convenio_exercicio.mp3",
+      "mime": "audio/mpeg",
+      "text": "Qual é o exercício da nova celebração?. O teto global é atualizado por exercício. Este percurso contém o valor de 2026; outro exercício exige conferir o ato atualizador. Instrumentos anteriores permanecem sujeitos à análise própria de transição. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "38cbbf729b76d0285bd3fecdbba486a73a27936fe5aa72a78a22b9fcdfad8864",
+      "bytes": 297548,
+      "durationSeconds": 24.715,
+      "segments": [
+        {
+          "text": "Qual é o exercício da nova celebração?. O teto global é atualizado por exercício.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "Este percurso contém o valor de 2026; outro exercício exige conferir o ato atualizador. Instrumentos anteriores permanecem sujeitos à análise própria de transição. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_convenio_valor": {
+      "file": "audio/dora/federal_convenio_valor.mp3",
+      "mime": "audio/mpeg",
+      "text": "O valor global na celebração é de até R$ 1.646.430,90 em 2026?. Valor global inclui repasse e contrapartida; não é o mínimo de repasse. A igualdade ao teto integra o simplificado, satisfeitos os pressupostos. Acréscimos, contrapartida e rendimentos têm regras próprias. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "85f74685f65a95c51c1affcf2354f7a4d62fa3174e676b1a606db032347a8c72",
+      "bytes": 346508,
+      "durationSeconds": 28.79,
+      "segments": [
+        {
+          "text": "O valor global na celebração é de até R$ 1.646.430,90 em 2026?. Valor global inclui repasse e contrapartida; não é o mínimo de repasse.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "A igualdade ao teto integra o simplificado, satisfeitos os pressupostos. Acréscimos, contrapartida e rendimentos têm regras próprias. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_federal_convenio_ordinario": {
+      "file": "audio/dora/r_federal_convenio_ordinario.mp3",
+      "mime": "audio/mpeg",
+      "text": "Convênio federal — regime ordinário. Convênio federal no regime ordinário, conforme respostas sobre nova celebração, objeto, repasse e valor global. A classificação permanece condicionada à comprovação dos pressupostos e não autoriza celebração ou contratação executória. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "a2b18d6e5250c1ac02e8fb2d39373e953509e90d852aa4f94c96fc41dec901f2",
+      "bytes": 313964,
+      "durationSeconds": 26.065,
+      "segments": [
+        {
+          "text": "Convênio federal — regime ordinário. Convênio federal no regime ordinário, conforme respostas sobre nova celebração, objeto, repasse e valor global.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "A classificação permanece condicionada à comprovação dos pressupostos e não autoriza celebração ou contratação executória. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_federal_convenio_simplificado": {
+      "file": "audio/dora/r_federal_convenio_simplificado.mp3",
+      "mime": "audio/mpeg",
+      "text": "Convênio federal — regime simplificado. Convênio federal no regime simplificado, conforme respostas sobre nova celebração, objeto, repasse e valor global. A classificação permanece condicionada à comprovação dos pressupostos e não autoriza celebração ou contratação executória. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "04456356be39e7ea9455b1b5ba2f6b62b428faaaa9c44d42026b1059e7553c31",
+      "bytes": 320012,
+      "durationSeconds": 26.59,
+      "segments": [
+        {
+          "text": "Convênio federal — regime simplificado. Convênio federal no regime simplificado, conforme respostas sobre nova celebração, objeto, repasse e valor global.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "A classificação permanece condicionada à comprovação dos pressupostos e não autoriza celebração ou contratação executória. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_federal_convenio_condicionado": {
+      "file": "audio/dora/r_federal_convenio_condicionado.mp3",
+      "mime": "audio/mpeg",
+      "text": "Convênio federal — enquadramento condicionado. Convênio federal indicado pelo mecanismo informado, mas regime ordinário ou simplificado ainda não confirmado. Identifique a pendência do percurso: operador, objeto, mínimo de repasse, exercício ou valor global. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "a913811e4da596f82cb5f40bed65c96c75537d898704ce0bd8ff6c614a5d4e53",
+      "bytes": 301868,
+      "durationSeconds": 25.065,
+      "segments": [
+        {
+          "text": "Convênio federal — enquadramento condicionado. Convênio federal indicado pelo mecanismo informado, mas regime ordinário ou simplificado ainda não confirmado.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "Identifique a pendência do percurso: operador, objeto, mínimo de repasse, exercício ou valor global. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_repasse_objeto": {
+      "file": "audio/dora/federal_repasse_objeto.mp3",
+      "mime": "audio/mpeg",
+      "text": "Qual é a natureza do objeto da transferência?. Separe execução de obra, serviço de engenharia sem obra e estudos/projetos isolados. A distinção determina mínimo de repasse e documentação; não confunda qualquer engenharia com execução de obra. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "b8e982ad003f55ac13f1cd71a2922ad66827c3830f5c39758031d9c68b7178b0",
+      "bytes": 288044,
+      "durationSeconds": 23.915,
+      "segments": [
+        {
+          "text": "Qual é a natureza do objeto da transferência?. Separe execução de obra, serviço de engenharia sem obra e estudos/projetos isolados.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "A distinção determina mínimo de repasse e documentação; não confunda qualquer engenharia com execução de obra. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_repasse_minimo_obras": {
+      "file": "audio/dora/federal_repasse_minimo_obras.mp3",
+      "mime": "audio/mpeg",
+      "text": "O repasse federal alcança o mínimo de R$ 400.000,00?. Compare somente o repasse da União, sem somar contrapartida. Abaixo do mínimo ou sem valor confirmado, mantenha o enquadramento condicionado e examine eventual disciplina específica; não conclua proibição universal. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "c8ec55b006048e58b62e535033efdee5f0bf6983ff9a53906c51ec082ef887e8",
+      "bytes": 326924,
+      "durationSeconds": 27.165,
+      "segments": [
+        {
+          "text": "O repasse federal alcança o mínimo de R$ 400.000,00?. Compare somente o repasse da União, sem somar contrapartida.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "Abaixo do mínimo ou sem valor confirmado, mantenha o enquadramento condicionado e examine eventual disciplina específica; não conclua proibição universal. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_repasse_minimo_estudos": {
+      "file": "audio/dora/federal_repasse_minimo_estudos.mp3",
+      "mime": "audio/mpeg",
+      "text": "O repasse federal alcança o mínimo de R$ 200.000,00?. Compare somente o repasse da União, sem somar contrapartida. Abaixo do mínimo ou sem valor confirmado, mantenha o enquadramento condicionado e examine eventual disciplina específica; não conclua proibição universal. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "d2d4438820fe0a2e6c264824e4871e28750a510ff5613df424aed6966c0c823a",
+      "bytes": 323756,
+      "durationSeconds": 26.89,
+      "segments": [
+        {
+          "text": "O repasse federal alcança o mínimo de R$ 200.000,00?. Compare somente o repasse da União, sem somar contrapartida.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "Abaixo do mínimo ou sem valor confirmado, mantenha o enquadramento condicionado e examine eventual disciplina específica; não conclua proibição universal. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_repasse_minimo_outros": {
+      "file": "audio/dora/federal_repasse_minimo_outros.mp3",
+      "mime": "audio/mpeg",
+      "text": "O repasse federal alcança o mínimo de R$ 200.000,00?. Compare somente o repasse da União, sem somar contrapartida. Abaixo do mínimo ou sem valor confirmado, mantenha o enquadramento condicionado e examine eventual disciplina específica; não conclua proibição universal. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "d2d4438820fe0a2e6c264824e4871e28750a510ff5613df424aed6966c0c823a",
+      "bytes": 323756,
+      "durationSeconds": 26.89,
+      "segments": [
+        {
+          "text": "O repasse federal alcança o mínimo de R$ 200.000,00?. Compare somente o repasse da União, sem somar contrapartida.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "Abaixo do mínimo ou sem valor confirmado, mantenha o enquadramento condicionado e examine eventual disciplina específica; não conclua proibição universal. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_repasse_exercicio": {
+      "file": "audio/dora/federal_repasse_exercicio.mp3",
+      "mime": "audio/mpeg",
+      "text": "Qual é o exercício da nova celebração?. O teto global é atualizado por exercício. Este percurso contém o valor de 2026; outro exercício exige conferir o ato atualizador. Instrumentos anteriores permanecem sujeitos à análise própria de transição. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "38cbbf729b76d0285bd3fecdbba486a73a27936fe5aa72a78a22b9fcdfad8864",
+      "bytes": 297548,
+      "durationSeconds": 24.715,
+      "segments": [
+        {
+          "text": "Qual é o exercício da nova celebração?. O teto global é atualizado por exercício.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "Este percurso contém o valor de 2026; outro exercício exige conferir o ato atualizador. Instrumentos anteriores permanecem sujeitos à análise própria de transição. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_repasse_valor": {
+      "file": "audio/dora/federal_repasse_valor.mp3",
+      "mime": "audio/mpeg",
+      "text": "O valor global na celebração é de até R$ 1.646.430,90 em 2026?. Valor global inclui repasse e contrapartida; não é o mínimo de repasse. A igualdade ao teto integra o simplificado, satisfeitos os pressupostos. Acréscimos, contrapartida e rendimentos têm regras próprias. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "85f74685f65a95c51c1affcf2354f7a4d62fa3174e676b1a606db032347a8c72",
+      "bytes": 346508,
+      "durationSeconds": 28.79,
+      "segments": [
+        {
+          "text": "O valor global na celebração é de até R$ 1.646.430,90 em 2026?. Valor global inclui repasse e contrapartida; não é o mínimo de repasse.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "A igualdade ao teto integra o simplificado, satisfeitos os pressupostos. Acréscimos, contrapartida e rendimentos têm regras próprias. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_federal_repasse_ordinario": {
+      "file": "audio/dora/r_federal_repasse_ordinario.mp3",
+      "mime": "audio/mpeg",
+      "text": "Contrato de repasse federal — regime ordinário. Contrato de repasse federal no regime ordinário, conforme respostas sobre nova celebração, objeto, repasse e valor global. A classificação permanece condicionada à comprovação dos pressupostos e não autoriza celebração ou contratação executória. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "e91024014f4ca1b0fffb18947d19b406879131de8193945260f4ebd53db51ddd",
+      "bytes": 327212,
+      "durationSeconds": 27.19,
+      "segments": [
+        {
+          "text": "Contrato de repasse federal — regime ordinário. Contrato de repasse federal no regime ordinário, conforme respostas sobre nova celebração, objeto, repasse e valor global.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "A classificação permanece condicionada à comprovação dos pressupostos e não autoriza celebração ou contratação executória. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_federal_repasse_simplificado": {
+      "file": "audio/dora/r_federal_repasse_simplificado.mp3",
+      "mime": "audio/mpeg",
+      "text": "Contrato de repasse federal — regime simplificado. Contrato de repasse federal no regime simplificado, conforme respostas sobre nova celebração, objeto, repasse e valor global. A classificação permanece condicionada à comprovação dos pressupostos e não autoriza celebração ou contratação executória. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "1ac4c35b11b1bfd5b1926e20bb9b89745a38fe1e3172032975b8419dcb60f130",
+      "bytes": 333548,
+      "durationSeconds": 27.715,
+      "segments": [
+        {
+          "text": "Contrato de repasse federal — regime simplificado. Contrato de repasse federal no regime simplificado, conforme respostas sobre nova celebração, objeto, repasse e valor global.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "A classificação permanece condicionada à comprovação dos pressupostos e não autoriza celebração ou contratação executória. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_federal_repasse_condicionado": {
+      "file": "audio/dora/r_federal_repasse_condicionado.mp3",
+      "mime": "audio/mpeg",
+      "text": "Contrato de repasse federal — enquadramento condicionado. Contrato de repasse federal indicado pelo mecanismo informado, mas regime ordinário ou simplificado ainda não confirmado. Identifique a pendência do percurso: operador, objeto, mínimo de repasse, exercício ou valor global. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "f88ccfe6a5e373134fca71de3a8854d8af26756eec421d96a2b6d74c1847eb59",
+      "bytes": 316268,
+      "durationSeconds": 26.265,
+      "segments": [
+        {
+          "text": "Contrato de repasse federal — enquadramento condicionado. Contrato de repasse federal indicado pelo mecanismo informado, mas regime ordinário ou simplificado ainda não confirmado.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "Identifique a pendência do percurso: operador, objeto, mínimo de repasse, exercício ou valor global. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_emenda": {
+      "file": "audio/dora/federal_emenda.mp3",
+      "mime": "audio/mpeg",
+      "text": "Qual modalidade de emenda federal financia o recebimento?. A modalidade constitucional altera o recebimento. Finalidade definida exige identificar o mecanismo subjacente; não cria outra espécie de convênio ou contrato de repasse. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "da714d74af1d76c8303633477f3e53889efc0f66c196da931d87c3cc7711c1de",
+      "bytes": 279404,
+      "durationSeconds": 23.19,
+      "segments": [
+        {
+          "text": "Qual modalidade de emenda federal financia o recebimento?. A modalidade constitucional altera o recebimento.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "Finalidade definida exige identificar o mecanismo subjacente; não cria outra espécie de convênio ou contrato de repasse. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_federal_emenda_especial": {
+      "file": "audio/dora/r_federal_emenda_especial.mp3",
+      "mime": "audio/mpeg",
+      "text": "Transferência especial federal — sem convênio. Recebimento do art. 166-A, I, sem convênio ou instrumento congênere. A dispensa do ajuste não torna a verba livre nem afasta plano, rastreabilidade, controle e contratação própria da execução. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "74e16216c4ce9b6c2f38ec955c025a8a282848ab56a827409950c0ef3f00dc2f",
+      "bytes": 289196,
+      "durationSeconds": 24.015,
+      "segments": [
+        {
+          "text": "Transferência especial federal — sem convênio. Recebimento do art.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "166-A, I, sem convênio ou instrumento congênere. A dispensa do ajuste não torna a verba livre nem afasta plano, rastreabilidade, controle e contratação própria da execução. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_setorial": {
+      "file": "audio/dora/federal_setorial.mp3",
+      "mime": "audio/mpeg",
+      "text": "Qual transferência legal ou setorial foi comprovada?. O setor não prova a modalidade. Confirme programa e mecanismo: fundo a fundo, termo educacional e outras transferências têm documentos próprios e não se convertem automaticamente em convênio geral. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "0c57949c9a80d1bfc8a39b3c7785edfce6f6b7dbb6c9380f7743817674232767",
+      "bytes": 286028,
+      "durationSeconds": 23.74,
+      "segments": [
+        {
+          "text": "Qual transferência legal ou setorial foi comprovada?. O setor não prova a modalidade.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "Confirme programa e mecanismo: fundo a fundo, termo educacional e outras transferências têm documentos próprios e não se convertem automaticamente em convênio geral. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_federal_sus": {
+      "file": "audio/dora/r_federal_sus.mp3",
+      "mime": "audio/mpeg",
+      "text": "Transferência fundo a fundo SUS — FNS → FES. Transferência regular e automática ao Fundo Estadual de Saúde, sem convênio na hipótese do art. 18 da LC 141. Não é contratação complementar de prestador privado nem repasse estadual FES → FMS. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "ffc25e92b9057a806e9223ebdd6000093c89c0124559d5d964e6c3bcebe96f69",
+      "bytes": 321740,
+      "durationSeconds": 26.715,
+      "segments": [
+        {
+          "text": "Transferência fundo a fundo SUS — FNS → FES. Transferência regular e automática ao Fundo Estadual de Saúde, sem convênio na hipótese do art.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "18 da LC 141. Não é contratação complementar de prestador privado nem repasse estadual FES → FMS. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_federal_suas": {
+      "file": "audio/dora/r_federal_suas.mp3",
+      "mime": "audio/mpeg",
+      "text": "Transferência fundo a fundo SUAS — FNAS → FEAS. Recebimento federal de assistência social sob LOAS e disciplina MDS. Não confundir com posterior transferência estadual aos municípios nem substituir verificação de fundo, conselho e plano por convênio genérico. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "926e4a643ad6e2a4151a7ea335ab7b04bc83cc5e4797d804bd77612dc70be397",
+      "bytes": 310508,
+      "durationSeconds": 25.79,
+      "segments": [
+        {
+          "text": "Transferência fundo a fundo SUAS — FNAS → FEAS. Recebimento federal de assistência social sob LOAS e disciplina MDS.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "Não confundir com posterior transferência estadual aos municípios nem substituir verificação de fundo, conselho e plano por convênio genérico. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_federal_fnsp": {
+      "file": "audio/dora/r_federal_fnsp.mp3",
+      "mime": "audio/mpeg",
+      "text": "Transferência fundo a fundo segurança — FNSP → FUSPRJ. Recebimento legal de segurança pública com condições federais de elegibilidade e aplicação. Não se confunde com PROEIS, PROESP ou RAS; existência do fundo estadual não comprova todos os requisitos. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "9592666df0857cb8fb994c544a8904c13236ceafb5259b622c85ffafe6c13436",
+      "bytes": 305900,
+      "durationSeconds": 25.415,
+      "segments": [
+        {
+          "text": "Transferência fundo a fundo segurança — FNSP → FUSPRJ. Recebimento legal de segurança pública com condições federais de elegibilidade e aplicação.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "Não se confunde com PROEIS, PROESP ou RAS; existência do fundo estadual não comprova todos os requisitos. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_federal_par": {
+      "file": "audio/dora/r_federal_par.mp3",
+      "mime": "audio/mpeg",
+      "text": "Termo de compromisso educacional — PAR/FNDE. Transferência direta vinculada ao PAR, condicionada ao termo da Lei 12.695. O nome termo de compromisso não o converte em PAC nem atrai automaticamente o simplificado da PC 32. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "7251d9b78e5a1b48abc7ca8c57210f40d81c2ec2ae062dae26bf675028bd4eb7",
+      "bytes": 294668,
+      "durationSeconds": 24.465,
+      "segments": [
+        {
+          "text": "Termo de compromisso educacional — PAR/FNDE. Transferência direta vinculada ao PAR, condicionada ao termo da Lei 12.695.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "O nome termo de compromisso não o converte em PAC nem atrai automaticamente o simplificado da PC 32. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_federal_defesa_civil": {
+      "file": "audio/dora/r_federal_defesa_civil.mp3",
+      "mime": "audio/mpeg",
+      "text": "Transferência legal de proteção e defesa civil. A modalidade da ação define o procedimento da Lei 12.340 e Decreto 11.219. Não presumir convênio comum, termo PAC ou dispensa de condições apenas porque há emergência ou resposta a desastre. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "7a70443c1bdc4f71c9d7a49582a66ff1abd41b657b1d0b157478a1b4dcda585c",
+      "bytes": 311372,
+      "durationSeconds": 25.865,
+      "segments": [
+        {
+          "text": "Transferência legal de proteção e defesa civil. A modalidade da ação define o procedimento da Lei 12.340 e Decreto 11.219.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "Não presumir convênio comum, termo PAC ou dispensa de condições apenas porque há emergência ou resposta a desastre. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_federal_pnab": {
+      "file": "audio/dora/r_federal_pnab.mp3",
+      "mime": "audio/mpeg",
+      "text": "PNAB — transferência federativa de cultura. Recebimento União → ERJ sob Política Nacional Aldir Blanc. Distingue-se dos instrumentos estaduais de seleção e fomento aos agentes culturais; base federal do ingresso não resolve o instrumento posterior de execução. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "a2e80f53f9b9b4eba34efc8fcb7c97ab655dec90f876533aee2086f15cb355ba",
+      "bytes": 304460,
+      "durationSeconds": 25.29,
+      "segments": [
+        {
+          "text": "PNAB — transferência federativa de cultura. Recebimento União → ERJ sob Política Nacional Aldir Blanc.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "Distingue-se dos instrumentos estaduais de seleção e fomento aos agentes culturais; base federal do ingresso não resolve o instrumento posterior de execução. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_federal_financiamento": {
+      "file": "audio/dora/r_federal_financiamento.mp3",
+      "mime": "audio/mpeg",
+      "text": "Financiamento — análise fora da celebração de parceria. Há empréstimo ou operação de crédito, com contrato e análise financeira próprios. Seleção na interface PAC, inclusive para financiamento, não prova transferência obrigatória nem habilitação fiscal do ERJ. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "3ca3026746e45c72d507851c1f99f97f47cbb66fe8dcd743651d58f9546d2dab",
+      "bytes": 307628,
+      "durationSeconds": 25.54,
+      "segments": [
+        {
+          "text": "Financiamento — análise fora da celebração de parceria. Há empréstimo ou operação de crédito, com contrato e análise financeira próprios.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "Seleção na interface PAC, inclusive para financiamento, não prova transferência obrigatória nem habilitação fiscal do ERJ. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_federal_direta": {
+      "file": "audio/dora/r_federal_direta.mp3",
+      "mime": "audio/mpeg",
+      "text": "Execução federal direta — fora da celebração de recebimento. A União ou estatal executa diretamente; localização no RJ não prova ingresso financeiro no ERJ. Identifique obrigações estaduais eventualmente assumidas antes de procurar instrumento próprio. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "f97fe2bcb10484bc75833a2d2fd8c2e2a7feab5bfc5b5e6db7402de192fc1383",
+      "bytes": 305036,
+      "durationSeconds": 25.34,
+      "segments": [
+        {
+          "text": "Execução federal direta — fora da celebração de recebimento. A União ou estatal executa diretamente; localização no RJ não prova ingresso financeiro no ERJ.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "Identifique obrigações estaduais eventualmente assumidas antes de procurar instrumento próprio. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_federal_receitas": {
+      "file": "audio/dora/r_federal_receitas.mp3",
+      "mime": "audio/mpeg",
+      "text": "Repartição de receitas — fora da celebração de parceria. Receitas constitucionais ou legais seguem disciplina financeira e contábil própria. Não escolher convênio apenas porque recursos provêm da União; identifique receita e base específica. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "f463896c6a0911488eeb1ae483aa86ea95669ac26487495816913181e502c0ac",
+      "bytes": 288908,
+      "durationSeconds": 23.99,
+      "segments": [
+        {
+          "text": "Repartição de receitas — fora da celebração de parceria. Receitas constitucionais ou legais seguem disciplina financeira e contábil própria.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "Não escolher convênio apenas porque recursos provêm da União; identifique receita e base específica. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_cooperacao": {
+      "file": "audio/dora/federal_cooperacao.mp3",
+      "mime": "audio/mpeg",
+      "text": "Como foram estabelecidas as condições da cooperação federal sem repasse?. Decreto 11.531 e Portaria 3.506 distinguem condições pactuadas e previamente estabelecidas. Cooperação exige objeto e obrigações compatíveis; a palavra adesão no título não define o instrumento. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "aa948e8a65d5138c2cc359e7f1568fc611b6a08973ffeb225f09e38d6de6b87d",
+      "bytes": 330668,
+      "durationSeconds": 27.465,
+      "segments": [
+        {
+          "text": "Como foram estabelecidas as condições da cooperação federal sem repasse?. Decreto 11.531 e Portaria 3.506 distinguem condições pactuadas e previamente estabelecidas.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "Cooperação exige objeto e obrigações compatíveis; a palavra adesão no título não define o instrumento. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_federal_act": {
+      "file": "audio/dora/r_federal_act.mp3",
+      "mime": "audio/mpeg",
+      "text": "Acordo de cooperação técnica federal. Cooperação sem transferência financeira com condições pactuadas. A participação do ERJ exige comprovar competência, objeto, obrigações e adequação ao regime federal antes de celebrar. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "165658d92308f2ba7c18fc7274a0df5c8a4cfd976c55beadd81745d7f655e199",
+      "bytes": 284300,
+      "durationSeconds": 23.615,
+      "segments": [
+        {
+          "text": "Acordo de cooperação técnica federal. Cooperação sem transferência financeira com condições pactuadas.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "A participação do ERJ exige comprovar competência, objeto, obrigações e adequação ao regime federal antes de celebrar. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_federal_adesao": {
+      "file": "audio/dora/r_federal_adesao.mp3",
+      "mime": "audio/mpeg",
+      "text": "Acordo de adesão federal. Cooperação sem transferência financeira em condições previamente estabelecidas pelo órgão federal. O título adesão isoladamente não comprova enquadramento nem afasta exame das obrigações do ERJ. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "2018e0d7b4bc177fecee1276aec9c9ddc9c7d6a0a4ae3c4c5f160e0bcffe7f49",
+      "bytes": 277100,
+      "durationSeconds": 23.015,
+      "segments": [
+        {
+          "text": "Acordo de adesão federal. Cooperação sem transferência financeira em condições previamente estabelecidas pelo órgão federal.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "O título adesão isoladamente não comprova enquadramento nem afasta exame das obrigações do ERJ. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "consorcio_instrumento": {
+      "file": "audio/dora/consorcio_instrumento.mp3",
+      "mime": "audio/mpeg",
+      "text": "Qual é a relação jurídica com o consórcio público?. Consórcio público não determina instrumento único. Constituição, custeio, gestão associada e projeto por convênio têm bases e documentos diferentes; confirme posição e competências do ERJ. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "7e80d804f753c27772ec3bae7af2ec46777f76151faffc368a085bce17581efb",
+      "bytes": 289196,
+      "durationSeconds": 24.015,
+      "segments": [
+        {
+          "text": "Qual é a relação jurídica com o consórcio público?. Consórcio público não determina instrumento único.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "Constituição, custeio, gestão associada e projeto por convênio têm bases e documentos diferentes; confirme posição e competências do ERJ. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_consorcio_constituicao": {
+      "file": "audio/dora/r_consorcio_constituicao.mp3",
+      "mime": "audio/mpeg",
+      "text": "Constituição de consórcio público — protocolo e ratificação. Constituição depende do protocolo de intenções e ratificação ou autorização legal aplicável. Protocolo constitutivo não é simples declaração de intenção sem efeitos jurídicos. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "91ee67bcf7d9cd52aeb8d35906d88a90fe1385d9aca8dcea7179f05647c34047",
+      "bytes": 293228,
+      "durationSeconds": 24.34,
+      "segments": [
+        {
+          "text": "Constituição de consórcio público — protocolo e ratificação. Constituição depende do protocolo de intenções e ratificação ou autorização legal aplicável.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "Protocolo constitutivo não é simples declaração de intenção sem efeitos jurídicos. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_consorcio_rateio": {
+      "file": "audio/dora/r_consorcio_rateio.mp3",
+      "mime": "audio/mpeg",
+      "text": "Contrato de rateio com consórcio público. Entrega de recursos pelo ente consorciado para custeio observa contrato de rateio. Confirmar participação no consórcio, finalidade e orçamento; não substituir o exame por convênio genérico. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "04251345619ee9481b6815a2980755027f42ff06da05765e40051d15b6f30601",
+      "bytes": 280556,
+      "durationSeconds": 23.29,
+      "segments": [
+        {
+          "text": "Contrato de rateio com consórcio público. Entrega de recursos pelo ente consorciado para custeio observa contrato de rateio.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "Confirmar participação no consórcio, finalidade e orçamento; não substituir o exame por convênio genérico. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_consorcio_programa": {
+      "file": "audio/dora/r_consorcio_programa.mp3",
+      "mime": "audio/mpeg",
+      "text": "Contrato de programa — gestão associada condicionada. Gestão associada exige examinar obrigações e disciplina do serviço. A Lei 11.107 veda novos contratos de programa para prestação de serviços públicos de saneamento básico; participação em consórcio não basta. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "a3bd080b4bd4524b241e638d890a20744fcbb23de4253ba4ca5e50be9b516288",
+      "bytes": 309932,
+      "durationSeconds": 25.74,
+      "segments": [
+        {
+          "text": "Contrato de programa — gestão associada condicionada. Gestão associada exige examinar obrigações e disciplina do serviço.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "A Lei 11.107 veda novos contratos de programa para prestação de serviços públicos de saneamento básico; participação em consórcio não basta. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
     }
   },
   "intros": {
@@ -1761,13 +2821,13 @@
     "finalidade": {
       "file": "audio/dora/prompt-finalidade.mp3",
       "mime": "audio/mpeg",
-      "text": "As opções são: Cooperação ou execução orçamentária descentralizada; Comprar bens ou contratar serviços para a Administração; Registrar apenas uma intenção futura; O conteúdo ainda não foi definido. Qual dessas opções descreve o caso?",
-      "sha256": "234b0198762a2ce05236ae95043574572c4668cce88d50704225ac82252bb2e5",
-      "bytes": 168236,
-      "durationSeconds": 13.925,
+      "text": "As opções são: Recebimento, cooperação ou execução orçamentária entre partícipes; Contrato da Administração com fornecedor, prestador ou empreiteira; Constituição, rateio ou gestão associada em consórcio público; Registrar apenas uma intenção futura; O conteúdo ainda não foi definido. Qual dessas opções descreve o caso?",
+      "sha256": "a8214256408f639f4e45756b010cf0371c1b09f415bed60714ddf68d6bdb55ab",
+      "bytes": 220076,
+      "durationSeconds": 18.25,
       "segments": [
         {
-          "text": "As opções são: Cooperação ou execução orçamentária descentralizada; Comprar bens ou contratar serviços para a Administração; Registrar apenas uma intenção futura; O conteúdo ainda não foi definido. Qual dessas opções descreve o caso?",
+          "text": "As opções são: Recebimento, cooperação ou execução orçamentária entre partícipes; Contrato da Administração com fornecedor, prestador ou empreiteira; Constituição, rateio ou gestão associada em consórcio público; Registrar apenas uma intenção futura; O conteúdo ainda não foi definido. Qual dessas opções descreve o caso?",
           "speed": 1.05,
           "pauseAfterSeconds": 0
         }
@@ -1776,13 +2836,13 @@
     "origem": {
       "file": "audio/dora/prompt-origem.mp3",
       "mime": "audio/mpeg",
-      "text": "As opções são: Recursos estaduais, crédito estadual ou cooperação sem repasse; A União transfere recursos ao ERJ; Outro ente externo transfere recursos ao ERJ; Empresa estatal concede os recursos; Origem ou concedente ainda não confirmado. Qual dessas opções descreve o caso?",
-      "sha256": "2d1633016e8fac88cab6d6ab8c6359f0a4efff11d39373eb1a5dcb294fe49cbb",
-      "bytes": 198476,
-      "durationSeconds": 16.45,
+      "text": "As opções são: Recursos ou crédito estaduais; cooperação sem repasse fora do regime federal; A União transfere recursos ao ERJ; Cooperação com a União sem transferência financeira; Outro ente externo transfere recursos ao ERJ; Empresa estatal concede os recursos; Origem ou concedente ainda não confirmado. Qual dessas opções descreve o caso?",
+      "sha256": "75dc24fb571981cc39ad2cca398f6e232550e08e9387bd000be440d394cdaf11",
+      "bytes": 231020,
+      "durationSeconds": 19.175,
       "segments": [
         {
-          "text": "As opções são: Recursos estaduais, crédito estadual ou cooperação sem repasse; A União transfere recursos ao ERJ; Outro ente externo transfere recursos ao ERJ; Empresa estatal concede os recursos; Origem ou concedente ainda não confirmado. Qual dessas opções descreve o caso?",
+          "text": "As opções são: Recursos ou crédito estaduais; cooperação sem repasse fora do regime federal; A União transfere recursos ao ERJ; Cooperação com a União sem transferência financeira; Outro ente externo transfere recursos ao ERJ; Empresa estatal concede os recursos; Origem ou concedente ainda não confirmado. Qual dessas opções descreve o caso?",
           "speed": 1.05,
           "pauseAfterSeconds": 0
         }
@@ -2942,6 +4002,801 @@
           "pauseAfterSeconds": 0
         }
       ]
+    },
+    "federal_mecanismo": {
+      "file": "audio/dora/prompt-federal_mecanismo.mp3",
+      "mime": "audio/mpeg",
+      "text": "As opções são: Transferência por instrumento: PAC, convênio ou contrato de repasse; Recursos de emenda parlamentar federal; Transferência legal ou setorial; Cooperação federal sem transferência financeira; Financiamento ou operação de crédito; Execução direta pela União ou investimento de estatal federal; Repartição constitucional ou legal de receitas; Mecanismo ainda não confirmado. Qual dessas opções descreve o caso?",
+      "sha256": "dcbcb67465836dae2def626ceea7fb20e4ee266dd15b100ccc027f8566bf6649",
+      "bytes": 274220,
+      "durationSeconds": 22.775,
+      "segments": [
+        {
+          "text": "As opções são: Transferência por instrumento: PAC, convênio ou contrato de repasse; Recursos de emenda parlamentar federal; Transferência legal ou setorial; Cooperação federal sem transferência financeira; Financiamento ou operação de crédito; Execução direta pela União ou investimento de estatal federal; Repartição constitucional ou legal de receitas; Mecanismo ainda não confirmado. Qual dessas opções descreve o caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_regime": {
+      "file": "audio/dora/prompt-federal_regime.mp3",
+      "mime": "audio/mpeg",
+      "text": "As opções são: Ação apresentada como Novo PAC; Possível convênio ou contrato de repasse federal; Transferência legal ou setorial específica; Regime ainda não demonstrado. Qual dessas opções descreve o caso?",
+      "sha256": "b926267bc945507135630e99b17d69917415a06c0f88aacae971a19698c805d2",
+      "bytes": 148940,
+      "durationSeconds": 12.325,
+      "segments": [
+        {
+          "text": "As opções são: Ação apresentada como Novo PAC; Possível convênio ou contrato de repasse federal; Transferência legal ou setorial específica; Regime ainda não demonstrado. Qual dessas opções descreve o caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_pac_enquadramento": {
+      "file": "audio/dora/prompt-federal_pac_enquadramento.mp3",
+      "mime": "audio/mpeg",
+      "text": "As opções são: Sim, ação e ato de enquadramento foram comprovados; Não; o enquadramento obrigatório foi afastado; Ato ou ação ainda não comprovados. Qual dessas opções descreve o caso?",
+      "sha256": "393199f326ce323dccd4b4a9e9fbb3569b855e146ecf4c1592380abbb73b0d23",
+      "bytes": 130220,
+      "durationSeconds": 10.775,
+      "segments": [
+        {
+          "text": "As opções são: Sim, ação e ato de enquadramento foram comprovados; Não; o enquadramento obrigatório foi afastado; Ato ou ação ainda não comprovados. Qual dessas opções descreve o caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_pac_alternativa": {
+      "file": "audio/dora/prompt-federal_pac_alternativa.mp3",
+      "mime": "audio/mpeg",
+      "text": "As opções são: Transferência voluntária ao ERJ; Execução direta federal; Financiamento ou operação de crédito; Transferência legal/setorial específica; Forma ainda não demonstrada. Qual dessas opções descreve o caso?",
+      "sha256": "2332e56c3fde65edfa491f98fff55cd545af2673fad5c1423056edb0bc08612a",
+      "bytes": 158156,
+      "durationSeconds": 13.1,
+      "segments": [
+        {
+          "text": "As opções são: Transferência voluntária ao ERJ; Execução direta federal; Financiamento ou operação de crédito; Transferência legal/setorial específica; Forma ainda não demonstrada. Qual dessas opções descreve o caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_pac_operacao": {
+      "file": "audio/dora/prompt-federal_pac_operacao.mp3",
+      "mime": "audio/mpeg",
+      "text": "As opções são: Órgão federal repassador diretamente; Instituição mandatária no regime PAC; Operador ou mandato ainda não comprovados. Qual dessas opções descreve o caso?",
+      "sha256": "30d6fb85d19c609d6d4517cd577e3b33099e2adab90f3440c9229cd4f8e1990a",
+      "bytes": 124748,
+      "durationSeconds": 10.3,
+      "segments": [
+        {
+          "text": "As opções são: Órgão federal repassador diretamente; Instituição mandatária no regime PAC; Operador ou mandato ainda não comprovados. Qual dessas opções descreve o caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_geral_ambito": {
+      "file": "audio/dora/prompt-federal_geral_ambito.mp3",
+      "mime": "audio/mpeg",
+      "text": "As opções são: Sim, regimes específicos e exclusões foram afastados; Há base legal/setorial específica; Âmbito ou exclusões ainda não examinados. Qual dessas opções descreve o caso?",
+      "sha256": "65718a007b65aead54337ada326e491eb68fe8137949eecb070c2d440af2e388",
+      "bytes": 133676,
+      "durationSeconds": 11.05,
+      "segments": [
+        {
+          "text": "As opções são: Sim, regimes específicos e exclusões foram afastados; Há base legal/setorial específica; Âmbito ou exclusões ainda não examinados. Qual dessas opções descreve o caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_mandataria": {
+      "file": "audio/dora/prompt-federal_mandataria.mp3",
+      "mime": "audio/mpeg",
+      "text": "As opções são: Concedente federal diretamente: convênio; Instituição ou agente financeiro público federal como mandatário; Mandato ou operação ainda não comprovados. Qual dessas opções descreve o caso?",
+      "sha256": "ccce19367b156c4705d49dd3cd59c8eb5e8b0c1ac1572d86a59815e773cf4ceb",
+      "bytes": 145772,
+      "durationSeconds": 12.05,
+      "segments": [
+        {
+          "text": "As opções são: Concedente federal diretamente: convênio; Instituição ou agente financeiro público federal como mandatário; Mandato ou operação ainda não comprovados. Qual dessas opções descreve o caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_pac_objeto": {
+      "file": "audio/dora/prompt-federal_pac_objeto.mp3",
+      "mime": "audio/mpeg",
+      "text": "As opções são: Execução de obras; Serviços de engenharia sem obra e sem estudos/projetos isolados; Somente estudos ou projetos isolados, incluindo engenharia; Outros objetos, inclusive equipamentos; Objeto ainda não caracterizado. Qual dessas opções descreve o caso?",
+      "sha256": "c307b34986a1c8d55c4260ab5ffc23e6e26ee32c69c0f406c10f8b9c81a334f1",
+      "bytes": 185516,
+      "durationSeconds": 15.375,
+      "segments": [
+        {
+          "text": "As opções são: Execução de obras; Serviços de engenharia sem obra e sem estudos/projetos isolados; Somente estudos ou projetos isolados, incluindo engenharia; Outros objetos, inclusive equipamentos; Objeto ainda não caracterizado. Qual dessas opções descreve o caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_pac_minimo_obras": {
+      "file": "audio/dora/prompt-federal_pac_minimo_obras.mp3",
+      "mime": "audio/mpeg",
+      "text": "As opções são: Sim, repasse atinge ou supera o mínimo; Não, repasse inferior ao mínimo; Repasse ou enquadramento ainda incerto. Qual dessas opções descreve o caso?",
+      "sha256": "db7ff9ab2de94f5597a7a54b1dc7408a177f837363d969004ebea370e7a7ff0c",
+      "bytes": 112940,
+      "durationSeconds": 9.325,
+      "segments": [
+        {
+          "text": "As opções são: Sim, repasse atinge ou supera o mínimo; Não, repasse inferior ao mínimo; Repasse ou enquadramento ainda incerto. Qual dessas opções descreve o caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_pac_minimo_estudos": {
+      "file": "audio/dora/prompt-federal_pac_minimo_estudos.mp3",
+      "mime": "audio/mpeg",
+      "text": "As opções são: Sim, repasse atinge ou supera o mínimo; Não, repasse inferior ao mínimo; Repasse ou enquadramento ainda incerto. Qual dessas opções descreve o caso?",
+      "sha256": "db7ff9ab2de94f5597a7a54b1dc7408a177f837363d969004ebea370e7a7ff0c",
+      "bytes": 112940,
+      "durationSeconds": 9.325,
+      "segments": [
+        {
+          "text": "As opções são: Sim, repasse atinge ou supera o mínimo; Não, repasse inferior ao mínimo; Repasse ou enquadramento ainda incerto. Qual dessas opções descreve o caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_pac_minimo_outros": {
+      "file": "audio/dora/prompt-federal_pac_minimo_outros.mp3",
+      "mime": "audio/mpeg",
+      "text": "As opções são: Sim, repasse atinge ou supera o mínimo; Não, repasse inferior ao mínimo; Repasse ou enquadramento ainda incerto. Qual dessas opções descreve o caso?",
+      "sha256": "db7ff9ab2de94f5597a7a54b1dc7408a177f837363d969004ebea370e7a7ff0c",
+      "bytes": 112940,
+      "durationSeconds": 9.325,
+      "segments": [
+        {
+          "text": "As opções são: Sim, repasse atinge ou supera o mínimo; Não, repasse inferior ao mínimo; Repasse ou enquadramento ainda incerto. Qual dessas opções descreve o caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_pac_exercicio": {
+      "file": "audio/dora/prompt-federal_pac_exercicio.mp3",
+      "mime": "audio/mpeg",
+      "text": "As opções são: Nova celebração em 2026; Outro exercício; Exercício ainda desconhecido. Qual dessas opções descreve o caso?",
+      "sha256": "dbc17652ff6eead7a73bdcd5323a515818763343f79a67d868f31d6198bdc22d",
+      "bytes": 98828,
+      "durationSeconds": 8.15,
+      "segments": [
+        {
+          "text": "As opções são: Nova celebração em 2026; Outro exercício; Exercício ainda desconhecido. Qual dessas opções descreve o caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_pac_valor": {
+      "file": "audio/dora/prompt-federal_pac_valor.mp3",
+      "mime": "audio/mpeg",
+      "text": "As opções são: Até R$ 1.646.430,90, inclusive; Acima de R$ 1.646.430,90; Valor global ainda não confirmado. Qual dessas opções descreve o caso?",
+      "sha256": "08c3ee13219ddd4fe5107aedc86b8da3c133533c5425bb35281709fea35d1e1d",
+      "bytes": 164492,
+      "durationSeconds": 13.625,
+      "segments": [
+        {
+          "text": "As opções são: Até R$ 1.646.430,90, inclusive; Acima de R$ 1.646.430,90; Valor global ainda não confirmado. Qual dessas opções descreve o caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_federal_pac_ordinario": {
+      "file": "audio/dora/prompt-result.mp3",
+      "mime": "audio/mpeg",
+      "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+      "sha256": "1be3d1ef9e281cbcedf55b0488d513d664b9704d03ce8d8fd6f81f5c946fcc0a",
+      "bytes": 53036,
+      "durationSeconds": 4.325,
+      "segments": [
+        {
+          "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_federal_pac_simplificado": {
+      "file": "audio/dora/prompt-result.mp3",
+      "mime": "audio/mpeg",
+      "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+      "sha256": "1be3d1ef9e281cbcedf55b0488d513d664b9704d03ce8d8fd6f81f5c946fcc0a",
+      "bytes": 53036,
+      "durationSeconds": 4.325,
+      "segments": [
+        {
+          "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_federal_pac_condicionado": {
+      "file": "audio/dora/prompt-result.mp3",
+      "mime": "audio/mpeg",
+      "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+      "sha256": "1be3d1ef9e281cbcedf55b0488d513d664b9704d03ce8d8fd6f81f5c946fcc0a",
+      "bytes": 53036,
+      "durationSeconds": 4.325,
+      "segments": [
+        {
+          "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_convenio_objeto": {
+      "file": "audio/dora/prompt-federal_convenio_objeto.mp3",
+      "mime": "audio/mpeg",
+      "text": "As opções são: Execução de obras; Serviços de engenharia sem obra e sem estudos/projetos isolados; Somente estudos ou projetos de engenharia isolados; Outros objetos, inclusive equipamentos; Objeto ainda não caracterizado. Qual dessas opções descreve o caso?",
+      "sha256": "341194786a1b90f63b76c0400575cc2b6cff5ecb245ae3472ff8a4456b9c815f",
+      "bytes": 180044,
+      "durationSeconds": 14.925,
+      "segments": [
+        {
+          "text": "As opções são: Execução de obras; Serviços de engenharia sem obra e sem estudos/projetos isolados; Somente estudos ou projetos de engenharia isolados; Outros objetos, inclusive equipamentos; Objeto ainda não caracterizado. Qual dessas opções descreve o caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_convenio_minimo_obras": {
+      "file": "audio/dora/prompt-federal_convenio_minimo_obras.mp3",
+      "mime": "audio/mpeg",
+      "text": "As opções são: Sim, repasse atinge ou supera o mínimo; Não, repasse inferior ao mínimo; Repasse ou enquadramento ainda incerto. Qual dessas opções descreve o caso?",
+      "sha256": "db7ff9ab2de94f5597a7a54b1dc7408a177f837363d969004ebea370e7a7ff0c",
+      "bytes": 112940,
+      "durationSeconds": 9.325,
+      "segments": [
+        {
+          "text": "As opções são: Sim, repasse atinge ou supera o mínimo; Não, repasse inferior ao mínimo; Repasse ou enquadramento ainda incerto. Qual dessas opções descreve o caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_convenio_minimo_estudos": {
+      "file": "audio/dora/prompt-federal_convenio_minimo_estudos.mp3",
+      "mime": "audio/mpeg",
+      "text": "As opções são: Sim, repasse atinge ou supera o mínimo; Não, repasse inferior ao mínimo; Repasse ou enquadramento ainda incerto. Qual dessas opções descreve o caso?",
+      "sha256": "db7ff9ab2de94f5597a7a54b1dc7408a177f837363d969004ebea370e7a7ff0c",
+      "bytes": 112940,
+      "durationSeconds": 9.325,
+      "segments": [
+        {
+          "text": "As opções são: Sim, repasse atinge ou supera o mínimo; Não, repasse inferior ao mínimo; Repasse ou enquadramento ainda incerto. Qual dessas opções descreve o caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_convenio_minimo_outros": {
+      "file": "audio/dora/prompt-federal_convenio_minimo_outros.mp3",
+      "mime": "audio/mpeg",
+      "text": "As opções são: Sim, repasse atinge ou supera o mínimo; Não, repasse inferior ao mínimo; Repasse ou enquadramento ainda incerto. Qual dessas opções descreve o caso?",
+      "sha256": "db7ff9ab2de94f5597a7a54b1dc7408a177f837363d969004ebea370e7a7ff0c",
+      "bytes": 112940,
+      "durationSeconds": 9.325,
+      "segments": [
+        {
+          "text": "As opções são: Sim, repasse atinge ou supera o mínimo; Não, repasse inferior ao mínimo; Repasse ou enquadramento ainda incerto. Qual dessas opções descreve o caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_convenio_exercicio": {
+      "file": "audio/dora/prompt-federal_convenio_exercicio.mp3",
+      "mime": "audio/mpeg",
+      "text": "As opções são: Nova celebração em 2026; Outro exercício; Exercício ainda desconhecido. Qual dessas opções descreve o caso?",
+      "sha256": "dbc17652ff6eead7a73bdcd5323a515818763343f79a67d868f31d6198bdc22d",
+      "bytes": 98828,
+      "durationSeconds": 8.15,
+      "segments": [
+        {
+          "text": "As opções são: Nova celebração em 2026; Outro exercício; Exercício ainda desconhecido. Qual dessas opções descreve o caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_convenio_valor": {
+      "file": "audio/dora/prompt-federal_convenio_valor.mp3",
+      "mime": "audio/mpeg",
+      "text": "As opções são: Até R$ 1.646.430,90, inclusive; Acima de R$ 1.646.430,90; Valor global ainda não confirmado. Qual dessas opções descreve o caso?",
+      "sha256": "08c3ee13219ddd4fe5107aedc86b8da3c133533c5425bb35281709fea35d1e1d",
+      "bytes": 164492,
+      "durationSeconds": 13.625,
+      "segments": [
+        {
+          "text": "As opções são: Até R$ 1.646.430,90, inclusive; Acima de R$ 1.646.430,90; Valor global ainda não confirmado. Qual dessas opções descreve o caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_federal_convenio_ordinario": {
+      "file": "audio/dora/prompt-result.mp3",
+      "mime": "audio/mpeg",
+      "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+      "sha256": "1be3d1ef9e281cbcedf55b0488d513d664b9704d03ce8d8fd6f81f5c946fcc0a",
+      "bytes": 53036,
+      "durationSeconds": 4.325,
+      "segments": [
+        {
+          "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_federal_convenio_simplificado": {
+      "file": "audio/dora/prompt-result.mp3",
+      "mime": "audio/mpeg",
+      "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+      "sha256": "1be3d1ef9e281cbcedf55b0488d513d664b9704d03ce8d8fd6f81f5c946fcc0a",
+      "bytes": 53036,
+      "durationSeconds": 4.325,
+      "segments": [
+        {
+          "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_federal_convenio_condicionado": {
+      "file": "audio/dora/prompt-result.mp3",
+      "mime": "audio/mpeg",
+      "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+      "sha256": "1be3d1ef9e281cbcedf55b0488d513d664b9704d03ce8d8fd6f81f5c946fcc0a",
+      "bytes": 53036,
+      "durationSeconds": 4.325,
+      "segments": [
+        {
+          "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_repasse_objeto": {
+      "file": "audio/dora/prompt-federal_repasse_objeto.mp3",
+      "mime": "audio/mpeg",
+      "text": "As opções são: Execução de obras; Serviços de engenharia sem obra e sem estudos/projetos isolados; Somente estudos ou projetos de engenharia isolados; Outros objetos, inclusive equipamentos; Objeto ainda não caracterizado. Qual dessas opções descreve o caso?",
+      "sha256": "341194786a1b90f63b76c0400575cc2b6cff5ecb245ae3472ff8a4456b9c815f",
+      "bytes": 180044,
+      "durationSeconds": 14.925,
+      "segments": [
+        {
+          "text": "As opções são: Execução de obras; Serviços de engenharia sem obra e sem estudos/projetos isolados; Somente estudos ou projetos de engenharia isolados; Outros objetos, inclusive equipamentos; Objeto ainda não caracterizado. Qual dessas opções descreve o caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_repasse_minimo_obras": {
+      "file": "audio/dora/prompt-federal_repasse_minimo_obras.mp3",
+      "mime": "audio/mpeg",
+      "text": "As opções são: Sim, repasse atinge ou supera o mínimo; Não, repasse inferior ao mínimo; Repasse ou enquadramento ainda incerto. Qual dessas opções descreve o caso?",
+      "sha256": "db7ff9ab2de94f5597a7a54b1dc7408a177f837363d969004ebea370e7a7ff0c",
+      "bytes": 112940,
+      "durationSeconds": 9.325,
+      "segments": [
+        {
+          "text": "As opções são: Sim, repasse atinge ou supera o mínimo; Não, repasse inferior ao mínimo; Repasse ou enquadramento ainda incerto. Qual dessas opções descreve o caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_repasse_minimo_estudos": {
+      "file": "audio/dora/prompt-federal_repasse_minimo_estudos.mp3",
+      "mime": "audio/mpeg",
+      "text": "As opções são: Sim, repasse atinge ou supera o mínimo; Não, repasse inferior ao mínimo; Repasse ou enquadramento ainda incerto. Qual dessas opções descreve o caso?",
+      "sha256": "db7ff9ab2de94f5597a7a54b1dc7408a177f837363d969004ebea370e7a7ff0c",
+      "bytes": 112940,
+      "durationSeconds": 9.325,
+      "segments": [
+        {
+          "text": "As opções são: Sim, repasse atinge ou supera o mínimo; Não, repasse inferior ao mínimo; Repasse ou enquadramento ainda incerto. Qual dessas opções descreve o caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_repasse_minimo_outros": {
+      "file": "audio/dora/prompt-federal_repasse_minimo_outros.mp3",
+      "mime": "audio/mpeg",
+      "text": "As opções são: Sim, repasse atinge ou supera o mínimo; Não, repasse inferior ao mínimo; Repasse ou enquadramento ainda incerto. Qual dessas opções descreve o caso?",
+      "sha256": "db7ff9ab2de94f5597a7a54b1dc7408a177f837363d969004ebea370e7a7ff0c",
+      "bytes": 112940,
+      "durationSeconds": 9.325,
+      "segments": [
+        {
+          "text": "As opções são: Sim, repasse atinge ou supera o mínimo; Não, repasse inferior ao mínimo; Repasse ou enquadramento ainda incerto. Qual dessas opções descreve o caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_repasse_exercicio": {
+      "file": "audio/dora/prompt-federal_repasse_exercicio.mp3",
+      "mime": "audio/mpeg",
+      "text": "As opções são: Nova celebração em 2026; Outro exercício; Exercício ainda desconhecido. Qual dessas opções descreve o caso?",
+      "sha256": "dbc17652ff6eead7a73bdcd5323a515818763343f79a67d868f31d6198bdc22d",
+      "bytes": 98828,
+      "durationSeconds": 8.15,
+      "segments": [
+        {
+          "text": "As opções são: Nova celebração em 2026; Outro exercício; Exercício ainda desconhecido. Qual dessas opções descreve o caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_repasse_valor": {
+      "file": "audio/dora/prompt-federal_repasse_valor.mp3",
+      "mime": "audio/mpeg",
+      "text": "As opções são: Até R$ 1.646.430,90, inclusive; Acima de R$ 1.646.430,90; Valor global ainda não confirmado. Qual dessas opções descreve o caso?",
+      "sha256": "08c3ee13219ddd4fe5107aedc86b8da3c133533c5425bb35281709fea35d1e1d",
+      "bytes": 164492,
+      "durationSeconds": 13.625,
+      "segments": [
+        {
+          "text": "As opções são: Até R$ 1.646.430,90, inclusive; Acima de R$ 1.646.430,90; Valor global ainda não confirmado. Qual dessas opções descreve o caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_federal_repasse_ordinario": {
+      "file": "audio/dora/prompt-result.mp3",
+      "mime": "audio/mpeg",
+      "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+      "sha256": "1be3d1ef9e281cbcedf55b0488d513d664b9704d03ce8d8fd6f81f5c946fcc0a",
+      "bytes": 53036,
+      "durationSeconds": 4.325,
+      "segments": [
+        {
+          "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_federal_repasse_simplificado": {
+      "file": "audio/dora/prompt-result.mp3",
+      "mime": "audio/mpeg",
+      "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+      "sha256": "1be3d1ef9e281cbcedf55b0488d513d664b9704d03ce8d8fd6f81f5c946fcc0a",
+      "bytes": 53036,
+      "durationSeconds": 4.325,
+      "segments": [
+        {
+          "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_federal_repasse_condicionado": {
+      "file": "audio/dora/prompt-result.mp3",
+      "mime": "audio/mpeg",
+      "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+      "sha256": "1be3d1ef9e281cbcedf55b0488d513d664b9704d03ce8d8fd6f81f5c946fcc0a",
+      "bytes": 53036,
+      "durationSeconds": 4.325,
+      "segments": [
+        {
+          "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_emenda": {
+      "file": "audio/dora/prompt-federal_emenda.mp3",
+      "mime": "audio/mpeg",
+      "text": "As opções são: Transferência especial do art. 166-A, I; Transferência com finalidade definida do art. 166-A, II; Modalidade ainda não comprovada. Qual dessas opções descreve o caso?",
+      "sha256": "0f034a3ce31a4ae6b7ab12a0afb2ff712e720279ff940472662465961a129240",
+      "bytes": 152972,
+      "durationSeconds": 12.65,
+      "segments": [
+        {
+          "text": "As opções são: Transferência especial do art. 166-A, I; Transferência com finalidade definida do art. 166-A, II; Modalidade ainda não comprovada. Qual dessas opções descreve o caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_federal_emenda_especial": {
+      "file": "audio/dora/prompt-result.mp3",
+      "mime": "audio/mpeg",
+      "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+      "sha256": "1be3d1ef9e281cbcedf55b0488d513d664b9704d03ce8d8fd6f81f5c946fcc0a",
+      "bytes": 53036,
+      "durationSeconds": 4.325,
+      "segments": [
+        {
+          "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_setorial": {
+      "file": "audio/dora/prompt-federal_setorial.mp3",
+      "mime": "audio/mpeg",
+      "text": "As opções são: FNS → FES: fundo a fundo SUS; FNAS → FEAS: fundo a fundo SUAS; FNSP → FUSPRJ: fundo a fundo segurança; PAR/FNDE com termo de compromisso educacional; Proteção e defesa civil sob lei específica; PNAB: repasse federativo de cultura; Base específica afastada; regime geral e exclusões já conferidos; Outra modalidade ou base ainda não comprovada. Qual dessas opções descreve o caso?",
+      "sha256": "d289826b3987409dbb30606371a609d3966e4c0d69041451c07838e934c14bd3",
+      "bytes": 261260,
+      "durationSeconds": 21.675,
+      "segments": [
+        {
+          "text": "As opções são: FNS → FES: fundo a fundo SUS; FNAS → FEAS: fundo a fundo SUAS; FNSP → FUSPRJ: fundo a fundo segurança; PAR/FNDE com termo de compromisso educacional; Proteção e defesa civil sob lei específica; PNAB: repasse federativo de cultura; Base específica afastada; regime geral e exclusões já conferidos; Outra modalidade ou base ainda não comprovada. Qual dessas opções descreve o caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_federal_sus": {
+      "file": "audio/dora/prompt-result.mp3",
+      "mime": "audio/mpeg",
+      "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+      "sha256": "1be3d1ef9e281cbcedf55b0488d513d664b9704d03ce8d8fd6f81f5c946fcc0a",
+      "bytes": 53036,
+      "durationSeconds": 4.325,
+      "segments": [
+        {
+          "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_federal_suas": {
+      "file": "audio/dora/prompt-result.mp3",
+      "mime": "audio/mpeg",
+      "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+      "sha256": "1be3d1ef9e281cbcedf55b0488d513d664b9704d03ce8d8fd6f81f5c946fcc0a",
+      "bytes": 53036,
+      "durationSeconds": 4.325,
+      "segments": [
+        {
+          "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_federal_fnsp": {
+      "file": "audio/dora/prompt-result.mp3",
+      "mime": "audio/mpeg",
+      "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+      "sha256": "1be3d1ef9e281cbcedf55b0488d513d664b9704d03ce8d8fd6f81f5c946fcc0a",
+      "bytes": 53036,
+      "durationSeconds": 4.325,
+      "segments": [
+        {
+          "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_federal_par": {
+      "file": "audio/dora/prompt-result.mp3",
+      "mime": "audio/mpeg",
+      "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+      "sha256": "1be3d1ef9e281cbcedf55b0488d513d664b9704d03ce8d8fd6f81f5c946fcc0a",
+      "bytes": 53036,
+      "durationSeconds": 4.325,
+      "segments": [
+        {
+          "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_federal_defesa_civil": {
+      "file": "audio/dora/prompt-result.mp3",
+      "mime": "audio/mpeg",
+      "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+      "sha256": "1be3d1ef9e281cbcedf55b0488d513d664b9704d03ce8d8fd6f81f5c946fcc0a",
+      "bytes": 53036,
+      "durationSeconds": 4.325,
+      "segments": [
+        {
+          "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_federal_pnab": {
+      "file": "audio/dora/prompt-result.mp3",
+      "mime": "audio/mpeg",
+      "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+      "sha256": "1be3d1ef9e281cbcedf55b0488d513d664b9704d03ce8d8fd6f81f5c946fcc0a",
+      "bytes": 53036,
+      "durationSeconds": 4.325,
+      "segments": [
+        {
+          "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_federal_financiamento": {
+      "file": "audio/dora/prompt-result.mp3",
+      "mime": "audio/mpeg",
+      "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+      "sha256": "1be3d1ef9e281cbcedf55b0488d513d664b9704d03ce8d8fd6f81f5c946fcc0a",
+      "bytes": 53036,
+      "durationSeconds": 4.325,
+      "segments": [
+        {
+          "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_federal_direta": {
+      "file": "audio/dora/prompt-result.mp3",
+      "mime": "audio/mpeg",
+      "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+      "sha256": "1be3d1ef9e281cbcedf55b0488d513d664b9704d03ce8d8fd6f81f5c946fcc0a",
+      "bytes": 53036,
+      "durationSeconds": 4.325,
+      "segments": [
+        {
+          "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_federal_receitas": {
+      "file": "audio/dora/prompt-result.mp3",
+      "mime": "audio/mpeg",
+      "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+      "sha256": "1be3d1ef9e281cbcedf55b0488d513d664b9704d03ce8d8fd6f81f5c946fcc0a",
+      "bytes": 53036,
+      "durationSeconds": 4.325,
+      "segments": [
+        {
+          "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "federal_cooperacao": {
+      "file": "audio/dora/prompt-federal_cooperacao.mp3",
+      "mime": "audio/mpeg",
+      "text": "As opções são: Condições pactuadas de comum acordo entre partícipes; Condições previamente estabelecidas pelo órgão federal; Condições ou enquadramento ainda não comprovados. Qual dessas opções descreve o caso?",
+      "sha256": "91a21c40d20263b739ea6a1b9c134526dcadc54d10143c962bd33c3a1e843b1a",
+      "bytes": 150668,
+      "durationSeconds": 12.475,
+      "segments": [
+        {
+          "text": "As opções são: Condições pactuadas de comum acordo entre partícipes; Condições previamente estabelecidas pelo órgão federal; Condições ou enquadramento ainda não comprovados. Qual dessas opções descreve o caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_federal_act": {
+      "file": "audio/dora/prompt-result.mp3",
+      "mime": "audio/mpeg",
+      "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+      "sha256": "1be3d1ef9e281cbcedf55b0488d513d664b9704d03ce8d8fd6f81f5c946fcc0a",
+      "bytes": 53036,
+      "durationSeconds": 4.325,
+      "segments": [
+        {
+          "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_federal_adesao": {
+      "file": "audio/dora/prompt-result.mp3",
+      "mime": "audio/mpeg",
+      "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+      "sha256": "1be3d1ef9e281cbcedf55b0488d513d664b9704d03ce8d8fd6f81f5c946fcc0a",
+      "bytes": 53036,
+      "durationSeconds": 4.325,
+      "segments": [
+        {
+          "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "consorcio_instrumento": {
+      "file": "audio/dora/prompt-consorcio_instrumento.mp3",
+      "mime": "audio/mpeg",
+      "text": "As opções são: Constituição ou ingresso no consórcio; Entrega de recursos para custeio pelo ente consorciado; Prestação de serviços em gestão associada; Convênio estadual para projeto específico; Relação ou documentos ainda não definidos. Qual dessas opções descreve o caso?",
+      "sha256": "f1d715d6a902ec919cd83651b329bf71948207f1078b0dad853117ac8872695b",
+      "bytes": 189836,
+      "durationSeconds": 15.725,
+      "segments": [
+        {
+          "text": "As opções são: Constituição ou ingresso no consórcio; Entrega de recursos para custeio pelo ente consorciado; Prestação de serviços em gestão associada; Convênio estadual para projeto específico; Relação ou documentos ainda não definidos. Qual dessas opções descreve o caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_consorcio_constituicao": {
+      "file": "audio/dora/prompt-result.mp3",
+      "mime": "audio/mpeg",
+      "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+      "sha256": "1be3d1ef9e281cbcedf55b0488d513d664b9704d03ce8d8fd6f81f5c946fcc0a",
+      "bytes": 53036,
+      "durationSeconds": 4.325,
+      "segments": [
+        {
+          "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_consorcio_rateio": {
+      "file": "audio/dora/prompt-result.mp3",
+      "mime": "audio/mpeg",
+      "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+      "sha256": "1be3d1ef9e281cbcedf55b0488d513d664b9704d03ce8d8fd6f81f5c946fcc0a",
+      "bytes": 53036,
+      "durationSeconds": 4.325,
+      "segments": [
+        {
+          "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_consorcio_programa": {
+      "file": "audio/dora/prompt-result.mp3",
+      "mime": "audio/mpeg",
+      "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+      "sha256": "1be3d1ef9e281cbcedf55b0488d513d664b9704d03ce8d8fd6f81f5c946fcc0a",
+      "bytes": 53036,
+      "durationSeconds": 4.325,
+      "segments": [
+        {
+          "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
     }
   },
   "sourceIntroductionsSha256": "1e6cf3b06a6767b350f33a34084fb9275fc096cf5069a8077e2b3c2a964a6c8b",
@@ -2951,14 +4806,16 @@
     "voices/pf_dora.pt": "07e4ff987c5d5a8c3995efd15cc4f0db7c4c15e881b198d8ab7f67ecf51f5eb7"
   },
   "complete": true,
-  "generated": 2,
-  "reused": 165,
-  "generationSeconds": 19.713,
+  "generated": 88,
+  "reused": 185,
+  "generationSeconds": 1827.122,
   "editionPublicationAuthorized": true,
   "editionPublicationNote": "Usuário autorizou a publicação da edição v4.2: 'Pode publicar. Depois irei avaliar quadro a quadro como ficou a adaptação'; em seguida, aprovou o plano de finalização e publicação. Esta autorização da edição não registra atos Git nem implantação já realizados; os atos Git estão sujeitos a cartões separados.",
   "v42AudioUpdate": {
     "generated": 0,
     "newApprovedPrototypeFiles": 2,
     "baseUniqueFilesPreserved": 120
-  }
+  },
+  "editionVersion": "4.3",
+  "editionPublicationApproval": "Plano PG-15 v4.3 aprovado pelo usuário em 28/09/2026, incluindo geração local Dora das falas novas/alteradas, revisão independente, PR, integração e implantação no GitHub Pages."
 }
