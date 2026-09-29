@@ -1,12 +1,18 @@
 # PG-15 — Parcerias administrativas do ERJ
 
-Prévia didática interativa sobre instrumentos de parceria no Estado do Rio de Janeiro. Pesquisa com corte em 25/09/2026, integração documental em 26/09/2026 e atualização visual em 28/09/2026; versão 4.2.2.
+Prévia didática interativa sobre instrumentos de parceria no Estado do Rio de Janeiro. Edição 4.3: recebimentos federais examinados em 28/09/2026. Os demais ramos conservam suas datas e limites de pesquisa, inclusive a integração documental de 26/09/2026.
 
 **[Abrir a aplicação](https://leocarrilho7-lab.github.io/PG-15/)** · [abrir Cenas 3D](https://leocarrilho7-lab.github.io/PG-15/#acabamento)
 
 O material oferece passo a passo, Mapa 2D, Mermaid e Cenas 3D sincronizados. Mapa 2D e Mermaid permitem selecionar o sistema inteiro. A vista 3D exibe somente a cena atual, com figuras, luminária e documentos; o zoom-out não revela outras etapas. O filme contextualiza a pergunta, apresenta as alternativas e aguarda uma escolha explícita. Voltar refaz o voo, e a ficha do resultado reúne fundamentos, condições e ressalvas.
 
-Na legenda, o nome de cada documento aparece abaixo do rótulo do regime. Os botões das quatro vistas e da etapa de seleção usam ícones contextuais no estilo dos instrumentos: cada desenho representa o assunto da escolha. As setas dos grafos conservam suas cores e traçados; uma resposta afirmativa não significa aprovação jurídica. A atualização preserva integralmente o modelo jurídico, as narrativas e os 122 MP3 da v4.2.
+Na legenda, o nome de cada documento aparece abaixo do rótulo do regime. Os botões das quatro vistas e da etapa de seleção usam ícones contextuais no estilo dos instrumentos: cada desenho representa o assunto da escolha. As setas dos grafos conservam suas cores e traçados; uma resposta afirmativa não significa aprovação jurídica. A ampliação mantém o motor compartilhado e os ramos estaduais não afetados. Distingue a transferência União–ERJ da contratação ERJ–fornecedor; inclusive em obras financiadas pela União, são relações diferentes.
+
+## Recebimentos federais
+
+As rotas distinguem termo de compromisso PAC, convênio e contrato de repasse. Primeiro se verifica o mecanismo e a ação; depois objeto, mínimos do repasse, exercício e teto do valor global. Para 2026, o teto de simplificação é R$ 1.646.430,90, incluída a igualdade. Serviços de engenharia sem obra, estudos isolados e equipamentos conservam suas diferenças. A mandatária não transforma um termo PAC em contrato de repasse; instrumentos anteriores não migram automaticamente.
+
+Emendas, SUS, SUAS, FNSP, PAR/FNDE, defesa civil e PNAB têm saídas próprias com condições e documentos. Também há cooperação federal sem repasse e instrumentos de consórcios. Financiamento, execução direta federal e repartição de receitas não recebem um convênio presumido. A Etapa 2 separa condições do recebimento da eventual seleção do fornecedor que executará o objeto.
 
 ## Fontes e limites
 
@@ -16,13 +22,13 @@ Os textos e áudios conservam as ressalvas do modelo. Normas e reproduções de 
 
 A atualização de 26/09/2026 aplica os cartões aprovados: matriz MROSC por dispositivo, fichas de instrução e controle, quadro comparativo da minuta OSCIP e instrumentos de CT&I, patrimônio, cultura, OS setoriais e programas delimitados. PMI e SRP incorporam a cadeia normativa examinada. O quadro da minuta OSCIP é apoio para revisão; o original de 2017 foi preservado, sem converter a proposta em minuta oficial atualizada.
 
-O painel exibe seis itens parciais e dois abertos. Os 22 levantamentos encerrados ficam no histórico local, mantendo fontes e condições do caso nas rotas. Permanecem lacunas sobre autoridade/regulamento, cadastro e reciprocidade OSCIP; revisão da minuta; fundamento posterior para OS na saúde; cópia autônoma de promulgação CT&I; operação do Sicx e rito/competências do diálogo competitivo. D1/D2/D3 estão preparadas para protocolo manual, sem envio.
+O painel exibe oito itens parciais e dois abertos. Os 22 levantamentos encerrados ficam no histórico local, mantendo fontes e condições do caso nas rotas. Permanecem lacunas sobre autoridade/regulamento, cadastro e reciprocidade OSCIP; revisão da minuta; fundamento posterior para OS na saúde; cópia autônoma de promulgação CT&I; operação do Sicx e rito/competências do diálogo competitivo. D1/D2/D3 estão preparadas para protocolo manual, sem envio. A ampliação federal acrescenta duas pendências delimitadas: competências e operação estaduais; e ciclos, habilitação e atos setoriais. Não declara falta de regulamentação com base apenas em pesquisa sem resultado.
 
-O índice reúne 46 capturas, das quais 45 foram conferidas como íntegras documentais e uma conserva reserva editorial (LC 26). Captura ou integridade não certificam vigência exaustiva, enquadramento ou regularidade de um caso.
+A coleção estadual anterior reúne 46 capturas, das quais 45 foram conferidas como íntegras documentais e uma conserva reserva editorial (LC 26). A auditoria federal acrescenta 48 capturas, incluindo três PDFs oficiais distintos, com origem e integridade indexadas separadamente. Captura ou integridade não certificam vigência exaustiva, enquadramento ou regularidade de um caso.
 
 ## Narração e licenças
 
-Narração sintética gerada localmente com Kokoro-82M, voz brasileira Dora (`pf_dora`), com direção de texto, ritmo e pausas do projeto. São 122 arquivos MP3 finais, reutilizados pelas cenas; o manifesto vincula cada trecho ao texto e ao seu SHA-256. Áudio é carregado sob demanda. Transcrição e escolhas continuam acessíveis quando o áudio falha.
+Narração sintética gerada localmente com Kokoro-82M, voz brasileira Dora (`pf_dora`), com direção de texto, ritmo e pausas do projeto. Os arquivos MP3 são reutilizados pelas cenas; o manifesto vincula cada trecho ao texto e ao seu SHA-256. Somente as falas novas ou alteradas são regeneradas, com preservação dos demais arquivos por hash. Áudio é carregado sob demanda. Transcrição e escolhas continuam acessíveis quando o áudio falha.
 
 As URLs dos áudios incluem o hash do conteúdo para evitar que uma atualização de texto reproduza uma gravação anterior em cache. A edição offline mantém os áudios incorporados.
 
