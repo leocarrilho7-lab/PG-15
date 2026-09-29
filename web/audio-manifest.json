@@ -5,9 +5,9 @@
   "format": "mp3",
   "engine": "Kokoro-82M local CPU",
   "synthetic": true,
-  "sourceNarrativesSha256": "00bd21d7272e199f98d47b5fef1721cd5a2ca65c3fa9617a263c34b741832c3d",
-  "sourceModelSha256": "03a20222dcbec0877f1cc518be69ffb131727f9136ef714eae28f8a6b55866be",
-  "sourcePromptsSha256": "98b80ae9e7de57875af8cd9376e0793202cf0dfaa905762d3eff62f031dbfc4c",
+  "sourceNarrativesSha256": "c859e90ef2623dab277bb86f7823dfd8303d3b2b73c1947f8ff4dc2fbfb7a850",
+  "sourceModelSha256": "b2f06ae520cb9438c485d9e1758717398625ce0ce8ae8d815003bc82ca2522ce",
+  "sourcePromptsSha256": "6e7edbfe998d01769529a66ba0f8a7a899ce0419c18e6a75e42c72accc633a42",
   "profile": {
     "voice": "pf_dora",
     "library": "kokoro==0.9.4",
@@ -46,18 +46,18 @@
     "finalidade": {
       "file": "audio/dora/finalidade.mp3",
       "mime": "audio/mpeg",
-      "text": "Qual é a finalidade da relação?. Identifique a relação em análise: recebimento ou cooperação União → ERJ, relação entre outros partícipes, ou contratação ERJ → fornecedor. Receber recursos para obra ou compra não transforma a transferência no contrato de execução. A descentralização estadual também pode atender atividade em benefício do concedente nas hipóteses do Decreto 50.334. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
-      "sha256": "d5618fb372afd05438565fb4f7dce8af046837fdafae921ba3e9e83cb34e0394",
-      "bytes": 416780,
-      "durationSeconds": 34.64,
+      "text": "Qual é a finalidade da relação? Recebimento de recursos da União para o ERJ, cooperação entre partícipes ou contratação do ERJ com fornecedor, prestador ou empreiteira. Receber recursos para obra ou compra não transforma a transferência no contrato de execução. A descentralização estadual também pode atender atividade em benefício do concedente nas hipóteses do Decreto 50.334. O enquadramento depende dos documentos do caso e da análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "0d8484cad1b92ed796fd3cd2cf45ab5f59cb9ee93d4a5f7c9c03163df6a5a17e",
+      "bytes": 377324,
+      "durationSeconds": 31.365,
       "segments": [
         {
-          "text": "Qual é a finalidade da relação?. Identifique a relação em análise: recebimento ou cooperação União → ERJ, relação entre outros partícipes, ou contratação ERJ → fornecedor.",
+          "text": "Qual é a finalidade da relação? Recebimento de recursos da União para o ERJ, cooperação entre partícipes ou contratação do ERJ com fornecedor, prestador ou empreiteira.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
         {
-          "text": "Receber recursos para obra ou compra não transforma a transferência no contrato de execução. A descentralização estadual também pode atender atividade em benefício do concedente nas hipóteses do Decreto 50.334. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "text": "Receber recursos para obra ou compra não transforma a transferência no contrato de execução. A descentralização estadual também pode atender atividade em benefício do concedente nas hipóteses do Decreto 50.334. O enquadramento depende dos documentos do caso e da análise da autoridade competente; esta orientação não autoriza a celebração.",
           "speed": 1.02,
           "pauseAfterSeconds": 0
         }
@@ -321,18 +321,18 @@
     "mrosc_regime": {
       "file": "audio/dora/mrosc_regime.mp3",
       "mime": "audio/mpeg",
-      "text": "A parceria está abrangida pelo MROSC? Confira a natureza da organização, o objeto e as exclusões legais. O decreto estadual anterior foi restabelecido para esse regime, respeitada a lei federal. A qualificação OSCIP isolada não escolhe o instrumento nem dispensa a análise.",
-      "sha256": "29777b5bb3f9a3851b27c19472b28f221f373431ef22146ed8d6beff4dcfde7c",
-      "bytes": 200492,
-      "durationSeconds": 16.615,
+      "text": "Os demais requisitos e exclusões permitem aplicar o MROSC? A definição de OSC foi comprovada e a exclusão do termo de parceria OSCIP foi afastada fundamentadamente. Ainda é necessário examinar o objeto, os demais requisitos e as outras exclusões legais do MROSC. Essa sequência não converte automaticamente instrumento existente. O enquadramento depende dos documentos do caso e da análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "410da882f83cf087bc11e907304ee712bf03e5f5869ebe963dd5826fb23d893f",
+      "bytes": 329516,
+      "durationSeconds": 27.365,
       "segments": [
         {
-          "text": "A parceria está abrangida pelo MROSC? Confira a natureza da organização, o objeto e as exclusões legais.",
+          "text": "Os demais requisitos e exclusões permitem aplicar o MROSC? A definição de OSC foi comprovada e a exclusão do termo de parceria OSCIP foi afastada fundamentadamente.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
         {
-          "text": "O decreto estadual anterior foi restabelecido para esse regime, respeitada a lei federal. A qualificação OSCIP isolada não escolhe o instrumento nem dispensa a análise.",
+          "text": "Ainda é necessário examinar o objeto, os demais requisitos e as outras exclusões legais do MROSC. Essa sequência não converte automaticamente instrumento existente. O enquadramento depende dos documentos do caso e da análise da autoridade competente; esta orientação não autoriza a celebração.",
           "speed": 1.02,
           "pauseAfterSeconds": 0
         }
@@ -441,18 +441,18 @@
     "oscip_interface": {
       "file": "audio/dora/oscip_interface.mp3",
       "mime": "audio/mpeg",
-      "text": "Confira o fundamento da relação e os requisitos da exclusão expressa do MROSC. O artigo terceiro, inciso seis, exclui os termos de parceria que cumpram os requisitos da Lei nove mil setecentos e noventa. O título estadual isolado não basta. O exame de competência e procedimento estadual depende dessa demonstração; a eventual aplicação do MROSC exige fundamento e o exame de seus pressupostos próprios. Sem demonstração suficiente, a análise permanece pendente. A remissão da lei estadual exige análise jurídica de alcance e compatibilidade por dispositivo, considerando a exclusão do termo de parceria no decreto estadual de convênios. Não se presume a aplicação de uma regra apenas por sua presença na matriz. Procedimentos específicos da União não suprem lacunas estaduais. Não há conversão automática de termo já celebrado.",
-      "sha256": "645e84d537758eeaeeebf27ef791cee5784e4e7f6ec0cebb47d6847e9a971fcb",
-      "bytes": 574892,
-      "durationSeconds": 47.815,
+      "text": "A relação está excluída do MROSC como termo de parceria OSCIP? O art. 3º, VI, da Lei 13.019 exclui os termos de parceria com OSCIP que cumpram os requisitos da Lei 9.790. A definição de OSC já foi comprovada, mas não resolve a exclusão da relação. A falta de prova não permite afirmar que a exclusão foi afastada; o título estadual isolado não basta. A remissão da Lei 5.501, art. 13, § 3º, exige análise jurídica de alcance e compatibilidade por dispositivo, considerando a exclusão do art. 2º, IV, do Decreto 49.792. Procedimentos específicos da União não suprem lacunas do ERJ. O enquadramento depende dos documentos do caso e da análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "34011b7d607f289b5676e90ef884f5a734745099baf66861790f1be83c291c39",
+      "bytes": 555308,
+      "durationSeconds": 46.19,
       "segments": [
         {
-          "text": "Confira o fundamento da relação e os requisitos da exclusão expressa do MROSC. O artigo terceiro, inciso seis, exclui os termos de parceria que cumpram os requisitos da Lei nove mil setecentos e noventa.",
+          "text": "A relação está excluída do MROSC como termo de parceria OSCIP? O art.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
         {
-          "text": "O título estadual isolado não basta. O exame de competência e procedimento estadual depende dessa demonstração; a eventual aplicação do MROSC exige fundamento e o exame de seus pressupostos próprios. Sem demonstração suficiente, a análise permanece pendente. A remissão da lei estadual exige análise jurídica de alcance e compatibilidade por dispositivo, considerando a exclusão do termo de parceria no decreto estadual de convênios. Não se presume a aplicação de uma regra apenas por sua presença na matriz. Procedimentos específicos da União não suprem lacunas estaduais. Não há conversão automática de termo já celebrado.",
+          "text": "3º, VI, da Lei 13.019 exclui os termos de parceria com OSCIP que cumpram os requisitos da Lei 9.790. A definição de OSC já foi comprovada, mas não resolve a exclusão da relação. A falta de prova não permite afirmar que a exclusão foi afastada; o título estadual isolado não basta. A remissão da Lei 5.501, art. 13, § 3º, exige análise jurídica de alcance e compatibilidade por dispositivo, considerando a exclusão do art. 2º, IV, do Decreto 49.792. Procedimentos específicos da União não suprem lacunas do ERJ. O enquadramento depende dos documentos do caso e da análise da autoridade competente; esta orientação não autoriza a celebração.",
           "speed": 1.02,
           "pauseAfterSeconds": 0
         }
@@ -1121,18 +1121,18 @@
     "r_mrosc_fronteira": {
       "file": "audio/dora/r_mrosc_fronteira.mp3",
       "mime": "audio/mpeg",
-      "text": "O resultado MROSC permanece pendente. Revise o objeto, a definição de OSC, os recursos e as exclusões legais. A disciplina estadual identificada não substitui essas informações do caso. Sem o enquadramento demonstrado, não há indicação segura de instrumento para celebrar a parceria.",
-      "sha256": "52b5b4c675b002676dd826cd1b95270bb77cb6a29b52c7409af09e12e9568076",
-      "bytes": 212012,
-      "durationSeconds": 17.59,
+      "text": "Validar o enquadramento no MROSC. O percurso apontou requisito não preenchido, exclusão identificada ou informação ainda pendente sobre o MROSC. A resposta registrada determina o motivo da parada; falta de prova não equivale a negativa. Não há indicação automática de instrumento. O enquadramento depende dos documentos do caso e da análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "56b932b7f2c3958e640ba038357de1cdc8d205055883bbbe7e2bf3a1eabec969",
+      "bytes": 292652,
+      "durationSeconds": 24.29,
       "segments": [
         {
-          "text": "O resultado MROSC permanece pendente. Revise o objeto, a definição de OSC, os recursos e as exclusões legais.",
+          "text": "Validar o enquadramento no MROSC. O percurso apontou requisito não preenchido, exclusão identificada ou informação ainda pendente sobre o MROSC.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
         {
-          "text": "A disciplina estadual identificada não substitui essas informações do caso. Sem o enquadramento demonstrado, não há indicação segura de instrumento para celebrar a parceria.",
+          "text": "A resposta registrada determina o motivo da parada; falta de prova não equivale a negativa. Não há indicação automática de instrumento. O enquadramento depende dos documentos do caso e da análise da autoridade competente; esta orientação não autoriza a celebração.",
           "speed": 1.02,
           "pauseAfterSeconds": 0
         }
@@ -1381,18 +1381,18 @@
     "mrosc_regime_repasse": {
       "file": "audio/dora/mrosc_regime_repasse.mp3",
       "mime": "audio/mpeg",
-      "text": "A parceria com repasse está abrangida pelo MROSC? Confira a natureza da organização, o objeto e as exclusões legais. Se prosseguir, será analisada a iniciativa da proposta. A disciplina estadual foi reconciliada; confirmar uma informação não autoriza a celebração.",
-      "sha256": "319702052b23a2be7b8ac04115a391c07ac5d3cd4e789444ba62817c88e193f3",
-      "bytes": 195596,
-      "durationSeconds": 16.215,
+      "text": "Os demais requisitos e exclusões permitem aplicar o MROSC? A definição de OSC foi comprovada e a exclusão do termo de parceria OSCIP foi afastada fundamentadamente. Ainda é necessário examinar o objeto, os demais requisitos e as outras exclusões legais do MROSC. Essa sequência não converte automaticamente instrumento existente. A transferência financeira já informada será preservada. O enquadramento depende dos documentos do caso e da análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "b770e26e9c3096c61ae2d847b28eea93875e6b0b9f531f8355a7d5555cf29481",
+      "bytes": 362924,
+      "durationSeconds": 30.165,
       "segments": [
         {
-          "text": "A parceria com repasse está abrangida pelo MROSC? Confira a natureza da organização, o objeto e as exclusões legais.",
+          "text": "Os demais requisitos e exclusões permitem aplicar o MROSC? A definição de OSC foi comprovada e a exclusão do termo de parceria OSCIP foi afastada fundamentadamente.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
         {
-          "text": "Se prosseguir, será analisada a iniciativa da proposta. A disciplina estadual foi reconciliada; confirmar uma informação não autoriza a celebração.",
+          "text": "Ainda é necessário examinar o objeto, os demais requisitos e as outras exclusões legais do MROSC. Essa sequência não converte automaticamente instrumento existente. A transferência financeira já informada será preservada. O enquadramento depende dos documentos do caso e da análise da autoridade competente; esta orientação não autoriza a celebração.",
           "speed": 1.02,
           "pauseAfterSeconds": 0
         }
@@ -1401,18 +1401,18 @@
     "mrosc_regime_sem_repasse": {
       "file": "audio/dora/mrosc_regime_sem_repasse.mp3",
       "mime": "audio/mpeg",
-      "text": "A parceria sem repasse está abrangida pelo MROSC? Confira a natureza da organização, o objeto e as exclusões legais. Se prosseguir, será verificado o compartilhamento patrimonial. A disciplina estadual foi reconciliada, mas o enquadramento e os documentos da parceria continuam sujeitos à revisão.",
-      "sha256": "b1f5f51be0f163dc60c38d8f9aa9885ab47e96288f7be79be186c13b42ceaa26",
-      "bytes": 214892,
-      "durationSeconds": 17.815,
+      "text": "Os demais requisitos e exclusões permitem aplicar o MROSC? A definição de OSC foi comprovada e a exclusão do termo de parceria OSCIP foi afastada fundamentadamente. Ainda é necessário examinar o objeto, os demais requisitos e as outras exclusões legais do MROSC. Essa sequência não converte automaticamente instrumento existente. A ausência de transferência financeira já informada será preservada; eventual compartilhamento patrimonial ainda exige exame. O enquadramento depende dos documentos do caso e da análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "4b80ac4e5b5d4d8e09c260a1bddcb81225151fe5176e6eb7a4eafe7b0c53ace9",
+      "bytes": 419084,
+      "durationSeconds": 34.84,
       "segments": [
         {
-          "text": "A parceria sem repasse está abrangida pelo MROSC? Confira a natureza da organização, o objeto e as exclusões legais.",
+          "text": "Os demais requisitos e exclusões permitem aplicar o MROSC? A definição de OSC foi comprovada e a exclusão do termo de parceria OSCIP foi afastada fundamentadamente.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
         {
-          "text": "Se prosseguir, será verificado o compartilhamento patrimonial. A disciplina estadual foi reconciliada, mas o enquadramento e os documentos da parceria continuam sujeitos à revisão.",
+          "text": "Ainda é necessário examinar o objeto, os demais requisitos e as outras exclusões legais do MROSC. Essa sequência não converte automaticamente instrumento existente. A ausência de transferência financeira já informada será preservada; eventual compartilhamento patrimonial ainda exige exame. O enquadramento depende dos documentos do caso e da análise da autoridade competente; esta orientação não autoriza a celebração.",
           "speed": 1.02,
           "pauseAfterSeconds": 0
         }
@@ -1501,18 +1501,18 @@
     "oscip_interface_repasse": {
       "file": "audio/dora/oscip_interface_repasse.mp3",
       "mime": "audio/mpeg",
-      "text": "Confira o fundamento da relação e os requisitos da exclusão expressa do MROSC. O artigo terceiro, inciso seis, exige o cumprimento dos requisitos da Lei nove mil setecentos e noventa; o título estadual isolado não basta. O exame de competência e procedimento estaduais depende dessa demonstração. O eventual encaminhamento fundamentado ao MROSC conserva o repasse e examina a iniciativa. Sem demonstração suficiente, a análise fica pendente. A remissão da lei estadual exige análise jurídica de alcance e compatibilidade por dispositivo, considerando a exclusão do termo de parceria no decreto estadual de convênios. Não se presume a aplicação de uma regra apenas por sua presença na matriz. Procedimentos específicos da União não suprem lacunas estaduais. Não há conversão automática de termo já celebrado.",
-      "sha256": "74093da4e6d816019a0dfadaee69a59da5e053c9713b7ca68e47e72fd79191fe",
-      "bytes": 561644,
-      "durationSeconds": 46.715,
+      "text": "A relação está excluída do MROSC como termo de parceria OSCIP? O art. 3º, VI, da Lei 13.019 exclui os termos de parceria com OSCIP que cumpram os requisitos da Lei 9.790. A definição de OSC já foi comprovada, mas não resolve a exclusão da relação. A falta de prova não permite afirmar que a exclusão foi afastada; o título estadual isolado não basta. A remissão da Lei 5.501, art. 13, § 3º, exige análise jurídica de alcance e compatibilidade por dispositivo, considerando a exclusão do art. 2º, IV, do Decreto 49.792. Procedimentos específicos da União não suprem lacunas do ERJ. A transferência financeira já informada será preservada. O enquadramento depende dos documentos do caso e da análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "1d80748b175209422b3573e9bb3a4df7dd6330dd7d812386311a7b59bdb34679",
+      "bytes": 563372,
+      "durationSeconds": 46.865,
       "segments": [
         {
-          "text": "Confira o fundamento da relação e os requisitos da exclusão expressa do MROSC. O artigo terceiro, inciso seis, exige o cumprimento dos requisitos da Lei nove mil setecentos e noventa; o título estadual isolado não basta.",
+          "text": "A relação está excluída do MROSC como termo de parceria OSCIP? O art.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
         {
-          "text": "O exame de competência e procedimento estaduais depende dessa demonstração. O eventual encaminhamento fundamentado ao MROSC conserva o repasse e examina a iniciativa. Sem demonstração suficiente, a análise fica pendente. A remissão da lei estadual exige análise jurídica de alcance e compatibilidade por dispositivo, considerando a exclusão do termo de parceria no decreto estadual de convênios. Não se presume a aplicação de uma regra apenas por sua presença na matriz. Procedimentos específicos da União não suprem lacunas estaduais. Não há conversão automática de termo já celebrado.",
+          "text": "3º, VI, da Lei 13.019 exclui os termos de parceria com OSCIP que cumpram os requisitos da Lei 9.790. A definição de OSC já foi comprovada, mas não resolve a exclusão da relação. A falta de prova não permite afirmar que a exclusão foi afastada; o título estadual isolado não basta. A remissão da Lei 5.501, art. 13, § 3º, exige análise jurídica de alcance e compatibilidade por dispositivo, considerando a exclusão do art. 2º, IV, do Decreto 49.792. Procedimentos específicos da União não suprem lacunas do ERJ. A transferência financeira já informada será preservada. O enquadramento depende dos documentos do caso e da análise da autoridade competente; esta orientação não autoriza a celebração.",
           "speed": 1.02,
           "pauseAfterSeconds": 0
         }
@@ -1581,18 +1581,18 @@
     "oscip_interface_sem_repasse": {
       "file": "audio/dora/oscip_interface_sem_repasse.mp3",
       "mime": "audio/mpeg",
-      "text": "Confira o fundamento da relação e os requisitos da exclusão expressa do MROSC. O artigo terceiro, inciso seis, exige o cumprimento dos requisitos da Lei nove mil setecentos e noventa; o título estadual isolado não basta. O exame de competência e procedimento estaduais depende dessa demonstração. O eventual encaminhamento fundamentado ao MROSC conserva a ausência de repasse e examina os bens, sem reabrir colaboração ou fomento. Sem demonstração suficiente, a análise fica pendente. A remissão da lei estadual exige análise jurídica de alcance e compatibilidade por dispositivo, considerando a exclusão do termo de parceria no decreto estadual de convênios. Não se presume a aplicação de uma regra apenas por sua presença na matriz. Procedimentos específicos da União não suprem lacunas estaduais. Não há conversão automática de termo já celebrado.",
-      "sha256": "20b58179c80925d752810c4c044322b93a0d2c8c9c13ce2e33f61b07d29ab1ee",
-      "bytes": 591020,
-      "durationSeconds": 49.165,
+      "text": "A relação está excluída do MROSC como termo de parceria OSCIP? O art. 3º, VI, da Lei 13.019 exclui os termos de parceria com OSCIP que cumpram os requisitos da Lei 9.790. A definição de OSC já foi comprovada, mas não resolve a exclusão da relação. A falta de prova não permite afirmar que a exclusão foi afastada; o título estadual isolado não basta. A remissão da Lei 5.501, art. 13, § 3º, exige análise jurídica de alcance e compatibilidade por dispositivo, considerando a exclusão do art. 2º, IV, do Decreto 49.792. Procedimentos específicos da União não suprem lacunas do ERJ. A ausência de transferência financeira já informada será preservada; eventual compartilhamento patrimonial ainda exige exame. O enquadramento depende dos documentos do caso e da análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "526a8b8ad15ba48a4901cad77d4ed0f0565a972784faf1eb5b8e459097ef9f7e",
+      "bytes": 646892,
+      "durationSeconds": 53.815,
       "segments": [
         {
-          "text": "Confira o fundamento da relação e os requisitos da exclusão expressa do MROSC. O artigo terceiro, inciso seis, exige o cumprimento dos requisitos da Lei nove mil setecentos e noventa; o título estadual isolado não basta.",
+          "text": "A relação está excluída do MROSC como termo de parceria OSCIP? O art.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
         {
-          "text": "O exame de competência e procedimento estaduais depende dessa demonstração. O eventual encaminhamento fundamentado ao MROSC conserva a ausência de repasse e examina os bens, sem reabrir colaboração ou fomento. Sem demonstração suficiente, a análise fica pendente. A remissão da lei estadual exige análise jurídica de alcance e compatibilidade por dispositivo, considerando a exclusão do termo de parceria no decreto estadual de convênios. Não se presume a aplicação de uma regra apenas por sua presença na matriz. Procedimentos específicos da União não suprem lacunas estaduais. Não há conversão automática de termo já celebrado.",
+          "text": "3º, VI, da Lei 13.019 exclui os termos de parceria com OSCIP que cumpram os requisitos da Lei 9.790. A definição de OSC já foi comprovada, mas não resolve a exclusão da relação. A falta de prova não permite afirmar que a exclusão foi afastada; o título estadual isolado não basta. A remissão da Lei 5.501, art. 13, § 3º, exige análise jurídica de alcance e compatibilidade por dispositivo, considerando a exclusão do art. 2º, IV, do Decreto 49.792. Procedimentos específicos da União não suprem lacunas do ERJ. A ausência de transferência financeira já informada será preservada; eventual compartilhamento patrimonial ainda exige exame. O enquadramento depende dos documentos do caso e da análise da autoridade competente; esta orientação não autoriza a celebração.",
           "speed": 1.02,
           "pauseAfterSeconds": 0
         }
@@ -2361,18 +2361,18 @@
     "r_federal_sus": {
       "file": "audio/dora/r_federal_sus.mp3",
       "mime": "audio/mpeg",
-      "text": "Transferência fundo a fundo SUS — FNS → FES. Transferência regular e automática ao Fundo Estadual de Saúde, sem convênio na hipótese do art. 18 da LC 141. Não é contratação complementar de prestador privado nem repasse estadual FES → FMS. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
-      "sha256": "ffc25e92b9057a806e9223ebdd6000093c89c0124559d5d964e6c3bcebe96f69",
-      "bytes": 321740,
-      "durationSeconds": 26.715,
+      "text": "Transferência fundo a fundo SUS — do FNS para o FES. Transferência regular e automática ao Fundo Estadual de Saúde, sem convênio na hipótese do art. 18 da LC 141. Não é contratação complementar de prestador privado nem repasse estadual do FES para o FMS. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "e65f087c144647ccfc3a3ac0be7ef5266dace5a3846f42bf02b7d37cb2f96592",
+      "bytes": 316268,
+      "durationSeconds": 26.265,
       "segments": [
         {
-          "text": "Transferência fundo a fundo SUS — FNS → FES. Transferência regular e automática ao Fundo Estadual de Saúde, sem convênio na hipótese do art.",
+          "text": "Transferência fundo a fundo SUS — do FNS para o FES. Transferência regular e automática ao Fundo Estadual de Saúde, sem convênio na hipótese do art.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
         {
-          "text": "18 da LC 141. Não é contratação complementar de prestador privado nem repasse estadual FES → FMS. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "text": "18 da LC 141. Não é contratação complementar de prestador privado nem repasse estadual do FES para o FMS. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
           "speed": 1.02,
           "pauseAfterSeconds": 0
         }
@@ -2381,13 +2381,13 @@
     "r_federal_suas": {
       "file": "audio/dora/r_federal_suas.mp3",
       "mime": "audio/mpeg",
-      "text": "Transferência fundo a fundo SUAS — FNAS → FEAS. Recebimento federal de assistência social sob LOAS e disciplina MDS. Não confundir com posterior transferência estadual aos municípios nem substituir verificação de fundo, conselho e plano por convênio genérico. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
-      "sha256": "926e4a643ad6e2a4151a7ea335ab7b04bc83cc5e4797d804bd77612dc70be397",
-      "bytes": 310508,
-      "durationSeconds": 25.79,
+      "text": "Transferência fundo a fundo SUAS — do FNAS para o FEAS. Recebimento federal de assistência social sob LOAS e disciplina MDS. Não confundir com posterior transferência estadual aos municípios nem substituir verificação de fundo, conselho e plano por convênio genérico. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "fda223b59ed0208db02d747364b1dcc1c153b7b0ae991b775e1507740a30cf0b",
+      "bytes": 307628,
+      "durationSeconds": 25.54,
       "segments": [
         {
-          "text": "Transferência fundo a fundo SUAS — FNAS → FEAS. Recebimento federal de assistência social sob LOAS e disciplina MDS.",
+          "text": "Transferência fundo a fundo SUAS — do FNAS para o FEAS. Recebimento federal de assistência social sob LOAS e disciplina MDS.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
@@ -2401,13 +2401,13 @@
     "r_federal_fnsp": {
       "file": "audio/dora/r_federal_fnsp.mp3",
       "mime": "audio/mpeg",
-      "text": "Transferência fundo a fundo segurança — FNSP → FUSPRJ. Recebimento legal de segurança pública com condições federais de elegibilidade e aplicação. Não se confunde com PROEIS, PROESP ou RAS; existência do fundo estadual não comprova todos os requisitos. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
-      "sha256": "9592666df0857cb8fb994c544a8904c13236ceafb5259b622c85ffafe6c13436",
-      "bytes": 305900,
-      "durationSeconds": 25.415,
+      "text": "Transferência fundo a fundo segurança — do FNSP para o FUSPRJ. Recebimento legal de segurança pública com condições federais de elegibilidade e aplicação. Não se confunde com PROEIS, PROESP ou RAS; existência do fundo estadual não comprova todos os requisitos. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "9bb1995639c843801731cca43261ab7cd40b2e6973ca0d0fdcc6c7bf1a089b4b",
+      "bytes": 300716,
+      "durationSeconds": 24.965,
       "segments": [
         {
-          "text": "Transferência fundo a fundo segurança — FNSP → FUSPRJ. Recebimento legal de segurança pública com condições federais de elegibilidade e aplicação.",
+          "text": "Transferência fundo a fundo segurança — do FNSP para o FUSPRJ. Recebimento legal de segurança pública com condições federais de elegibilidade e aplicação.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
@@ -2461,13 +2461,13 @@
     "r_federal_pnab": {
       "file": "audio/dora/r_federal_pnab.mp3",
       "mime": "audio/mpeg",
-      "text": "PNAB — transferência federativa de cultura. Recebimento União → ERJ sob Política Nacional Aldir Blanc. Distingue-se dos instrumentos estaduais de seleção e fomento aos agentes culturais; base federal do ingresso não resolve o instrumento posterior de execução. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
-      "sha256": "a2e80f53f9b9b4eba34efc8fcb7c97ab655dec90f876533aee2086f15cb355ba",
-      "bytes": 304460,
-      "durationSeconds": 25.29,
+      "text": "PNAB — transferência federativa de cultura. Recebimento da União para o ERJ sob Política Nacional Aldir Blanc. Distingue-se dos instrumentos estaduais de seleção e fomento aos agentes culturais; base federal do ingresso não resolve o instrumento posterior de execução. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "1cf5d92adc362c32a9ef986f1b6cb4f8369a9a9aa759e0c9e3fe152ba4a90970",
+      "bytes": 301004,
+      "durationSeconds": 24.99,
       "segments": [
         {
-          "text": "PNAB — transferência federativa de cultura. Recebimento União → ERJ sob Política Nacional Aldir Blanc.",
+          "text": "PNAB — transferência federativa de cultura. Recebimento da União para o ERJ sob Política Nacional Aldir Blanc.",
           "speed": 1.05,
           "pauseAfterSeconds": 0.34
         },
@@ -2673,6 +2673,226 @@
         },
         {
           "text": "A Lei 11.107 veda novos contratos de programa para prestação de serviços públicos de saneamento básico; participação em consórcio não basta. O enquadramento permanece condicionado à conferência dos documentos do caso e à análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "osc_definicao": {
+      "file": "audio/dora/osc_definicao.mp3",
+      "mime": "audio/mpeg",
+      "text": "A entidade satisfaz a definição de OSC da Lei 13.019/2014? Confira o estatuto e os documentos da entidade à luz do art. 2º, I, da Lei 13.019. Ser OSC é uma condição da entidade; a exclusão do termo de parceria OSCIP é uma questão distinta sobre a relação. O título OSCIP não substitui essa conferência. Ausência de prova não equivale a requisito não preenchido. O enquadramento depende dos documentos do caso e da análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "3e1a5b061faa0ec3650e7653fd1f32fb486c2d9ce1fbb728208a58b622200025",
+      "bytes": 366380,
+      "durationSeconds": 30.44,
+      "segments": [
+        {
+          "text": "A entidade satisfaz a definição de OSC da Lei 13.019/2014? Confira o estatuto e os documentos da entidade à luz do art.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "2º, I, da Lei 13.019. Ser OSC é uma condição da entidade; a exclusão do termo de parceria OSCIP é uma questão distinta sobre a relação. O título OSCIP não substitui essa conferência. Ausência de prova não equivale a requisito não preenchido. O enquadramento depende dos documentos do caso e da análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "oscip_definicao": {
+      "file": "audio/dora/oscip_definicao.mp3",
+      "mime": "audio/mpeg",
+      "text": "A entidade satisfaz a definição de OSC da Lei 13.019/2014? Confira o estatuto e os documentos da entidade à luz do art. 2º, I, da Lei 13.019. Ser OSC é uma condição da entidade; a exclusão do termo de parceria OSCIP é uma questão distinta sobre a relação. O título OSCIP não substitui essa conferência. Ausência de prova não equivale a requisito não preenchido. O enquadramento depende dos documentos do caso e da análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "3e1a5b061faa0ec3650e7653fd1f32fb486c2d9ce1fbb728208a58b622200025",
+      "bytes": 366380,
+      "durationSeconds": 30.44,
+      "segments": [
+        {
+          "text": "A entidade satisfaz a definição de OSC da Lei 13.019/2014? Confira o estatuto e os documentos da entidade à luz do art.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "2º, I, da Lei 13.019. Ser OSC é uma condição da entidade; a exclusão do termo de parceria OSCIP é uma questão distinta sobre a relação. O título OSCIP não substitui essa conferência. Ausência de prova não equivale a requisito não preenchido. O enquadramento depende dos documentos do caso e da análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "mrosc_exclusao_oscip": {
+      "file": "audio/dora/mrosc_exclusao_oscip.mp3",
+      "mime": "audio/mpeg",
+      "text": "A relação está excluída do MROSC como termo de parceria OSCIP? O art. 3º, VI, da Lei 13.019 exclui os termos de parceria com OSCIP que cumpram os requisitos da Lei 9.790. A definição de OSC já foi comprovada, mas não resolve a exclusão da relação. A falta de prova não permite afirmar que a exclusão foi afastada; o título estadual isolado não basta. O enquadramento depende dos documentos do caso e da análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "acdce59c80a29b98c5dbe248cc2d4ef8d07367befe0c5ba7c3dbdb6521cdb165",
+      "bytes": 365228,
+      "durationSeconds": 30.34,
+      "segments": [
+        {
+          "text": "A relação está excluída do MROSC como termo de parceria OSCIP? O art.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "3º, VI, da Lei 13.019 exclui os termos de parceria com OSCIP que cumpram os requisitos da Lei 9.790. A definição de OSC já foi comprovada, mas não resolve a exclusão da relação. A falta de prova não permite afirmar que a exclusão foi afastada; o título estadual isolado não basta. O enquadramento depende dos documentos do caso e da análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "osc_definicao_repasse": {
+      "file": "audio/dora/osc_definicao_repasse.mp3",
+      "mime": "audio/mpeg",
+      "text": "A entidade satisfaz a definição de OSC da Lei 13.019/2014? Confira o estatuto e os documentos da entidade à luz do art. 2º, I, da Lei 13.019. Ser OSC é uma condição da entidade; a exclusão do termo de parceria OSCIP é uma questão distinta sobre a relação. O título OSCIP não substitui essa conferência. Ausência de prova não equivale a requisito não preenchido. A transferência financeira já informada será preservada. O enquadramento depende dos documentos do caso e da análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "06d9668da93e9673d594bebe7b8ed1eaf1ec07b6320b00269826b85331e06e27",
+      "bytes": 419084,
+      "durationSeconds": 34.84,
+      "segments": [
+        {
+          "text": "A entidade satisfaz a definição de OSC da Lei 13.019/2014? Confira o estatuto e os documentos da entidade à luz do art.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "2º, I, da Lei 13.019. Ser OSC é uma condição da entidade; a exclusão do termo de parceria OSCIP é uma questão distinta sobre a relação. O título OSCIP não substitui essa conferência. Ausência de prova não equivale a requisito não preenchido. A transferência financeira já informada será preservada. O enquadramento depende dos documentos do caso e da análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "oscip_definicao_repasse": {
+      "file": "audio/dora/oscip_definicao_repasse.mp3",
+      "mime": "audio/mpeg",
+      "text": "A entidade satisfaz a definição de OSC da Lei 13.019/2014? Confira o estatuto e os documentos da entidade à luz do art. 2º, I, da Lei 13.019. Ser OSC é uma condição da entidade; a exclusão do termo de parceria OSCIP é uma questão distinta sobre a relação. O título OSCIP não substitui essa conferência. Ausência de prova não equivale a requisito não preenchido. A transferência financeira já informada será preservada. O enquadramento depende dos documentos do caso e da análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "06d9668da93e9673d594bebe7b8ed1eaf1ec07b6320b00269826b85331e06e27",
+      "bytes": 419084,
+      "durationSeconds": 34.84,
+      "segments": [
+        {
+          "text": "A entidade satisfaz a definição de OSC da Lei 13.019/2014? Confira o estatuto e os documentos da entidade à luz do art.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "2º, I, da Lei 13.019. Ser OSC é uma condição da entidade; a exclusão do termo de parceria OSCIP é uma questão distinta sobre a relação. O título OSCIP não substitui essa conferência. Ausência de prova não equivale a requisito não preenchido. A transferência financeira já informada será preservada. O enquadramento depende dos documentos do caso e da análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "mrosc_exclusao_oscip_repasse": {
+      "file": "audio/dora/mrosc_exclusao_oscip_repasse.mp3",
+      "mime": "audio/mpeg",
+      "text": "A relação está excluída do MROSC como termo de parceria OSCIP? O art. 3º, VI, da Lei 13.019 exclui os termos de parceria com OSCIP que cumpram os requisitos da Lei 9.790. A definição de OSC já foi comprovada, mas não resolve a exclusão da relação. A falta de prova não permite afirmar que a exclusão foi afastada; o título estadual isolado não basta. A transferência financeira já informada será preservada. O enquadramento depende dos documentos do caso e da análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "8dd1ca7d4ec68d33499b1ea038e2fd21c398d6b5054e99a29536d3998df1fbaa",
+      "bytes": 397484,
+      "durationSeconds": 33.04,
+      "segments": [
+        {
+          "text": "A relação está excluída do MROSC como termo de parceria OSCIP? O art.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "3º, VI, da Lei 13.019 exclui os termos de parceria com OSCIP que cumpram os requisitos da Lei 9.790. A definição de OSC já foi comprovada, mas não resolve a exclusão da relação. A falta de prova não permite afirmar que a exclusão foi afastada; o título estadual isolado não basta. A transferência financeira já informada será preservada. O enquadramento depende dos documentos do caso e da análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "osc_definicao_sem_repasse": {
+      "file": "audio/dora/osc_definicao_sem_repasse.mp3",
+      "mime": "audio/mpeg",
+      "text": "A entidade satisfaz a definição de OSC da Lei 13.019/2014? Confira o estatuto e os documentos da entidade à luz do art. 2º, I, da Lei 13.019. Ser OSC é uma condição da entidade; a exclusão do termo de parceria OSCIP é uma questão distinta sobre a relação. O título OSCIP não substitui essa conferência. Ausência de prova não equivale a requisito não preenchido. A ausência de transferência financeira já informada será preservada; eventual compartilhamento patrimonial ainda exige exame. O enquadramento depende dos documentos do caso e da análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "88265b665d8ec0f6196fdd84c5a8233862369abac39b5c223ebef9f5b968cd9a",
+      "bytes": 455660,
+      "durationSeconds": 37.89,
+      "segments": [
+        {
+          "text": "A entidade satisfaz a definição de OSC da Lei 13.019/2014? Confira o estatuto e os documentos da entidade à luz do art.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "2º, I, da Lei 13.019. Ser OSC é uma condição da entidade; a exclusão do termo de parceria OSCIP é uma questão distinta sobre a relação. O título OSCIP não substitui essa conferência. Ausência de prova não equivale a requisito não preenchido. A ausência de transferência financeira já informada será preservada; eventual compartilhamento patrimonial ainda exige exame. O enquadramento depende dos documentos do caso e da análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "oscip_definicao_sem_repasse": {
+      "file": "audio/dora/oscip_definicao_sem_repasse.mp3",
+      "mime": "audio/mpeg",
+      "text": "A entidade satisfaz a definição de OSC da Lei 13.019/2014? Confira o estatuto e os documentos da entidade à luz do art. 2º, I, da Lei 13.019. Ser OSC é uma condição da entidade; a exclusão do termo de parceria OSCIP é uma questão distinta sobre a relação. O título OSCIP não substitui essa conferência. Ausência de prova não equivale a requisito não preenchido. A ausência de transferência financeira já informada será preservada; eventual compartilhamento patrimonial ainda exige exame. O enquadramento depende dos documentos do caso e da análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "88265b665d8ec0f6196fdd84c5a8233862369abac39b5c223ebef9f5b968cd9a",
+      "bytes": 455660,
+      "durationSeconds": 37.89,
+      "segments": [
+        {
+          "text": "A entidade satisfaz a definição de OSC da Lei 13.019/2014? Confira o estatuto e os documentos da entidade à luz do art.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "2º, I, da Lei 13.019. Ser OSC é uma condição da entidade; a exclusão do termo de parceria OSCIP é uma questão distinta sobre a relação. O título OSCIP não substitui essa conferência. Ausência de prova não equivale a requisito não preenchido. A ausência de transferência financeira já informada será preservada; eventual compartilhamento patrimonial ainda exige exame. O enquadramento depende dos documentos do caso e da análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "mrosc_exclusao_oscip_sem_repasse": {
+      "file": "audio/dora/mrosc_exclusao_oscip_sem_repasse.mp3",
+      "mime": "audio/mpeg",
+      "text": "A relação está excluída do MROSC como termo de parceria OSCIP? O art. 3º, VI, da Lei 13.019 exclui os termos de parceria com OSCIP que cumpram os requisitos da Lei 9.790. A definição de OSC já foi comprovada, mas não resolve a exclusão da relação. A falta de prova não permite afirmar que a exclusão foi afastada; o título estadual isolado não basta. A ausência de transferência financeira já informada será preservada; eventual compartilhamento patrimonial ainda exige exame. O enquadramento depende dos documentos do caso e da análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "03533f5bbcd5ff2aa8cb7e549ed473802b1b63ea19fbdac300eb12cdb359dfe8",
+      "bytes": 452204,
+      "durationSeconds": 37.59,
+      "segments": [
+        {
+          "text": "A relação está excluída do MROSC como termo de parceria OSCIP? O art.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "3º, VI, da Lei 13.019 exclui os termos de parceria com OSCIP que cumpram os requisitos da Lei 9.790. A definição de OSC já foi comprovada, mas não resolve a exclusão da relação. A falta de prova não permite afirmar que a exclusão foi afastada; o título estadual isolado não basta. A ausência de transferência financeira já informada será preservada; eventual compartilhamento patrimonial ainda exige exame. O enquadramento depende dos documentos do caso e da análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_osc_nao_enquadrada": {
+      "file": "audio/dora/r_osc_nao_enquadrada.mp3",
+      "mime": "audio/mpeg",
+      "text": "Definição de OSC não preenchida — MROSC afastado. Este resultado permanece pendente. A entidade não satisfaz os requisitos da definição de OSC informados neste percurso. O MROSC fica afastado por esse motivo. Essa conclusão não autoriza convênio, termo de parceria OSCIP ou outro instrumento automaticamente; eventual regime próprio exige fundamento e análise dos seus requisitos. O enquadramento depende dos documentos do caso e da análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "222c02a52aef01caec8abe41ab31155949bbd58999a480b43215097f4d0ae350",
+      "bytes": 368972,
+      "durationSeconds": 30.665,
+      "segments": [
+        {
+          "text": "Definição de OSC não preenchida — MROSC afastado. Este resultado permanece pendente.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "A entidade não satisfaz os requisitos da definição de OSC informados neste percurso. O MROSC fica afastado por esse motivo. Essa conclusão não autoriza convênio, termo de parceria OSCIP ou outro instrumento automaticamente; eventual regime próprio exige fundamento e análise dos seus requisitos. O enquadramento depende dos documentos do caso e da análise da autoridade competente; esta orientação não autoriza a celebração.",
+          "speed": 1.02,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_osc_definicao_pendente": {
+      "file": "audio/dora/r_osc_definicao_pendente.mp3",
+      "mime": "audio/mpeg",
+      "text": "Este resultado permanece pendente. Definição de OSC ainda não demonstrada. Faltam documentos ou análise suficientes para comprovar a definição de OSC. A ausência de prova não equivale a demonstrar que a entidade não é OSC. Complete a instrução antes de prosseguir à exclusão do termo de parceria OSCIP e aos demais requisitos; não há indicação de instrumento. O enquadramento depende dos documentos do caso e da análise da autoridade competente; esta orientação não autoriza a celebração.",
+      "sha256": "34b1ef2f98d3977bcceaacc6241d9997b574e1553739a749d970a518760ad586",
+      "bytes": 347372,
+      "durationSeconds": 28.865,
+      "segments": [
+        {
+          "text": "Este resultado permanece pendente. Definição de OSC ainda não demonstrada.",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0.34
+        },
+        {
+          "text": "Faltam documentos ou análise suficientes para comprovar a definição de OSC. A ausência de prova não equivale a demonstrar que a entidade não é OSC. Complete a instrução antes de prosseguir à exclusão do termo de parceria OSCIP e aos demais requisitos; não há indicação de instrumento. O enquadramento depende dos documentos do caso e da análise da autoridade competente; esta orientação não autoriza a celebração.",
           "speed": 1.02,
           "pauseAfterSeconds": 0
         }
@@ -3031,13 +3251,13 @@
     "mrosc_regime": {
       "file": "audio/dora/prompt-mrosc_regime.mp3",
       "mime": "audio/mpeg",
-      "text": "As opções são: Sim, requisitos e exclusões foram examinados; Foi identificada exclusão ou outra disciplina; O enquadramento ainda não foi validado. Qual dessas opções descreve o caso?",
-      "sha256": "7f33280e0a711acd0df1d3e254a1a34ea1903ef9c765edfa915dee7e44bc687f",
-      "bytes": 128780,
-      "durationSeconds": 10.65,
+      "text": "As opções são: Demais requisitos atendidos e outras exclusões afastadas; Outro requisito não preenchido ou outra exclusão identificada; Demais requisitos ou exclusões ainda não demonstrados. Qual dessas opções descreve o caso?",
+      "sha256": "bb7a6410ddc10d9162d28b0a25dc5a9359f032ddc24042acc024cc4a9fae00fc",
+      "bytes": 164492,
+      "durationSeconds": 13.625,
       "segments": [
         {
-          "text": "As opções são: Sim, requisitos e exclusões foram examinados; Foi identificada exclusão ou outra disciplina; O enquadramento ainda não foi validado. Qual dessas opções descreve o caso?",
+          "text": "As opções são: Demais requisitos atendidos e outras exclusões afastadas; Outro requisito não preenchido ou outra exclusão identificada; Demais requisitos ou exclusões ainda não demonstrados. Qual dessas opções descreve o caso?",
           "speed": 1.05,
           "pauseAfterSeconds": 0
         }
@@ -3121,13 +3341,13 @@
     "oscip_interface": {
       "file": "audio/dora/prompt-oscip_interface.mp3",
       "mime": "audio/mpeg",
-      "text": "As opções são: Requisitos da Lei 9.790 e exclusão expressa foram demonstrados; Foi fundamentada a aplicação do MROSC à relação; Há apenas título OSCIP ou remissão à lei estadual. Qual dessas opções descreve o caso?",
-      "sha256": "c79f54458922b1aafc396ddcca131be7a0a1f3447fc6527d081608852f50e275",
-      "bytes": 162476,
-      "durationSeconds": 13.45,
+      "text": "As opções são: Exclusão do MROSC demonstrada; Exclusão afastada fundamentadamente; Exclusão ainda incerta ou não demonstrada. Qual dessas opções descreve o caso?",
+      "sha256": "653d633dc8c02fad57fc792372b3c2a9c43e7b2d523ceeca353d30232acba7dd",
+      "bytes": 121004,
+      "durationSeconds": 10,
       "segments": [
         {
-          "text": "As opções são: Requisitos da Lei 9.790 e exclusão expressa foram demonstrados; Foi fundamentada a aplicação do MROSC à relação; Há apenas título OSCIP ou remissão à lei estadual. Qual dessas opções descreve o caso?",
+          "text": "As opções são: Exclusão do MROSC demonstrada; Exclusão afastada fundamentadamente; Exclusão ainda incerta ou não demonstrada. Qual dessas opções descreve o caso?",
           "speed": 1.05,
           "pauseAfterSeconds": 0
         }
@@ -3826,13 +4046,13 @@
     "mrosc_regime_repasse": {
       "file": "audio/dora/prompt-mrosc_regime_repasse.mp3",
       "mime": "audio/mpeg",
-      "text": "As opções são: Sim, requisitos e exclusões foram examinados; Foi identificada exclusão ou outra disciplina; O enquadramento ainda não foi validado. Qual dessas opções descreve o caso?",
-      "sha256": "7f33280e0a711acd0df1d3e254a1a34ea1903ef9c765edfa915dee7e44bc687f",
-      "bytes": 128780,
-      "durationSeconds": 10.65,
+      "text": "As opções são: Demais requisitos atendidos e outras exclusões afastadas; Outro requisito não preenchido ou outra exclusão identificada; Demais requisitos ou exclusões ainda não demonstrados. Qual dessas opções descreve o caso?",
+      "sha256": "bb7a6410ddc10d9162d28b0a25dc5a9359f032ddc24042acc024cc4a9fae00fc",
+      "bytes": 164492,
+      "durationSeconds": 13.625,
       "segments": [
         {
-          "text": "As opções são: Sim, requisitos e exclusões foram examinados; Foi identificada exclusão ou outra disciplina; O enquadramento ainda não foi validado. Qual dessas opções descreve o caso?",
+          "text": "As opções são: Demais requisitos atendidos e outras exclusões afastadas; Outro requisito não preenchido ou outra exclusão identificada; Demais requisitos ou exclusões ainda não demonstrados. Qual dessas opções descreve o caso?",
           "speed": 1.05,
           "pauseAfterSeconds": 0
         }
@@ -3841,13 +4061,13 @@
     "mrosc_regime_sem_repasse": {
       "file": "audio/dora/prompt-mrosc_regime_sem_repasse.mp3",
       "mime": "audio/mpeg",
-      "text": "As opções são: Sim, requisitos e exclusões foram examinados; Foi identificada exclusão ou outra disciplina; O enquadramento ainda não foi validado. Qual dessas opções descreve o caso?",
-      "sha256": "7f33280e0a711acd0df1d3e254a1a34ea1903ef9c765edfa915dee7e44bc687f",
-      "bytes": 128780,
-      "durationSeconds": 10.65,
+      "text": "As opções são: Demais requisitos atendidos e outras exclusões afastadas; Outro requisito não preenchido ou outra exclusão identificada; Demais requisitos ou exclusões ainda não demonstrados. Qual dessas opções descreve o caso?",
+      "sha256": "bb7a6410ddc10d9162d28b0a25dc5a9359f032ddc24042acc024cc4a9fae00fc",
+      "bytes": 164492,
+      "durationSeconds": 13.625,
       "segments": [
         {
-          "text": "As opções são: Sim, requisitos e exclusões foram examinados; Foi identificada exclusão ou outra disciplina; O enquadramento ainda não foi validado. Qual dessas opções descreve o caso?",
+          "text": "As opções são: Demais requisitos atendidos e outras exclusões afastadas; Outro requisito não preenchido ou outra exclusão identificada; Demais requisitos ou exclusões ainda não demonstrados. Qual dessas opções descreve o caso?",
           "speed": 1.05,
           "pauseAfterSeconds": 0
         }
@@ -3916,13 +4136,13 @@
     "oscip_interface_repasse": {
       "file": "audio/dora/prompt-oscip_interface_repasse.mp3",
       "mime": "audio/mpeg",
-      "text": "As opções são: Requisitos da Lei 9.790 e exclusão expressa foram demonstrados; Foi fundamentada a aplicação do MROSC à relação; Há apenas título OSCIP ou remissão à lei estadual. Qual dessas opções descreve o caso?",
-      "sha256": "c79f54458922b1aafc396ddcca131be7a0a1f3447fc6527d081608852f50e275",
-      "bytes": 162476,
-      "durationSeconds": 13.45,
+      "text": "As opções são: Exclusão do MROSC demonstrada; Exclusão afastada fundamentadamente; Exclusão ainda incerta ou não demonstrada. Qual dessas opções descreve o caso?",
+      "sha256": "653d633dc8c02fad57fc792372b3c2a9c43e7b2d523ceeca353d30232acba7dd",
+      "bytes": 121004,
+      "durationSeconds": 10,
       "segments": [
         {
-          "text": "As opções são: Requisitos da Lei 9.790 e exclusão expressa foram demonstrados; Foi fundamentada a aplicação do MROSC à relação; Há apenas título OSCIP ou remissão à lei estadual. Qual dessas opções descreve o caso?",
+          "text": "As opções são: Exclusão do MROSC demonstrada; Exclusão afastada fundamentadamente; Exclusão ainda incerta ou não demonstrada. Qual dessas opções descreve o caso?",
           "speed": 1.05,
           "pauseAfterSeconds": 0
         }
@@ -3976,13 +4196,13 @@
     "oscip_interface_sem_repasse": {
       "file": "audio/dora/prompt-oscip_interface_sem_repasse.mp3",
       "mime": "audio/mpeg",
-      "text": "As opções são: Requisitos da Lei 9.790 e exclusão expressa foram demonstrados; Foi fundamentada a aplicação do MROSC à relação; Há apenas título OSCIP ou remissão à lei estadual. Qual dessas opções descreve o caso?",
-      "sha256": "c79f54458922b1aafc396ddcca131be7a0a1f3447fc6527d081608852f50e275",
-      "bytes": 162476,
-      "durationSeconds": 13.45,
+      "text": "As opções são: Exclusão do MROSC demonstrada; Exclusão afastada fundamentadamente; Exclusão ainda incerta ou não demonstrada. Qual dessas opções descreve o caso?",
+      "sha256": "653d633dc8c02fad57fc792372b3c2a9c43e7b2d523ceeca353d30232acba7dd",
+      "bytes": 121004,
+      "durationSeconds": 10,
       "segments": [
         {
-          "text": "As opções são: Requisitos da Lei 9.790 e exclusão expressa foram demonstrados; Foi fundamentada a aplicação do MROSC à relação; Há apenas título OSCIP ou remissão à lei estadual. Qual dessas opções descreve o caso?",
+          "text": "As opções são: Exclusão do MROSC demonstrada; Exclusão afastada fundamentadamente; Exclusão ainda incerta ou não demonstrada. Qual dessas opções descreve o caso?",
           "speed": 1.05,
           "pauseAfterSeconds": 0
         }
@@ -4546,13 +4766,13 @@
     "federal_setorial": {
       "file": "audio/dora/prompt-federal_setorial.mp3",
       "mime": "audio/mpeg",
-      "text": "As opções são: FNS → FES: fundo a fundo SUS; FNAS → FEAS: fundo a fundo SUAS; FNSP → FUSPRJ: fundo a fundo segurança; PAR/FNDE com termo de compromisso educacional; Proteção e defesa civil sob lei específica; PNAB: repasse federativo de cultura; Base específica afastada; regime geral e exclusões já conferidos; Outra modalidade ou base ainda não comprovada. Qual dessas opções descreve o caso?",
-      "sha256": "d289826b3987409dbb30606371a609d3966e4c0d69041451c07838e934c14bd3",
-      "bytes": 261260,
-      "durationSeconds": 21.675,
+      "text": "As opções são: do FNS para o FES: fundo a fundo SUS; do FNAS para o FEAS: fundo a fundo SUAS; do FNSP para o FUSPRJ: fundo a fundo segurança; PAR/FNDE com termo de compromisso educacional; Proteção e defesa civil sob lei específica; PNAB: repasse federativo de cultura; Base específica afastada; regime geral e exclusões já conferidos; Outra modalidade ou base ainda não comprovada. Qual dessas opções descreve o caso?",
+      "sha256": "e3a1cb03073ed0a072bb6ec89c54ae05c83498acdd9678902b7f2b4b84e921c8",
+      "bytes": 288908,
+      "durationSeconds": 24,
       "segments": [
         {
-          "text": "As opções são: FNS → FES: fundo a fundo SUS; FNAS → FEAS: fundo a fundo SUAS; FNSP → FUSPRJ: fundo a fundo segurança; PAR/FNDE com termo de compromisso educacional; Proteção e defesa civil sob lei específica; PNAB: repasse federativo de cultura; Base específica afastada; regime geral e exclusões já conferidos; Outra modalidade ou base ainda não comprovada. Qual dessas opções descreve o caso?",
+          "text": "As opções são: do FNS para o FES: fundo a fundo SUS; do FNAS para o FEAS: fundo a fundo SUAS; do FNSP para o FUSPRJ: fundo a fundo segurança; PAR/FNDE com termo de compromisso educacional; Proteção e defesa civil sob lei específica; PNAB: repasse federativo de cultura; Base específica afastada; regime geral e exclusões já conferidos; Outra modalidade ou base ainda não comprovada. Qual dessas opções descreve o caso?",
           "speed": 1.05,
           "pauseAfterSeconds": 0
         }
@@ -4797,6 +5017,171 @@
           "pauseAfterSeconds": 0
         }
       ]
+    },
+    "osc_definicao": {
+      "file": "audio/dora/prompt-osc_definicao.mp3",
+      "mime": "audio/mpeg",
+      "text": "As opções são: Definição de OSC comprovada; Requisitos da definição de OSC não preenchidos; Enquadramento como OSC ainda não demonstrado. Qual dessas opções descreve o caso?",
+      "sha256": "30682981450e69b6f36cc5addf6f63d7a92e09e856c2bc40913cc74631d62950",
+      "bytes": 130508,
+      "durationSeconds": 10.8,
+      "segments": [
+        {
+          "text": "As opções são: Definição de OSC comprovada; Requisitos da definição de OSC não preenchidos; Enquadramento como OSC ainda não demonstrado. Qual dessas opções descreve o caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "oscip_definicao": {
+      "file": "audio/dora/prompt-oscip_definicao.mp3",
+      "mime": "audio/mpeg",
+      "text": "As opções são: Definição de OSC comprovada; Requisitos da definição de OSC não preenchidos; Enquadramento como OSC ainda não demonstrado. Qual dessas opções descreve o caso?",
+      "sha256": "30682981450e69b6f36cc5addf6f63d7a92e09e856c2bc40913cc74631d62950",
+      "bytes": 130508,
+      "durationSeconds": 10.8,
+      "segments": [
+        {
+          "text": "As opções são: Definição de OSC comprovada; Requisitos da definição de OSC não preenchidos; Enquadramento como OSC ainda não demonstrado. Qual dessas opções descreve o caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "mrosc_exclusao_oscip": {
+      "file": "audio/dora/prompt-mrosc_exclusao_oscip.mp3",
+      "mime": "audio/mpeg",
+      "text": "As opções são: Exclusão do MROSC demonstrada; Exclusão afastada fundamentadamente; Exclusão ainda incerta ou não demonstrada. Qual dessas opções descreve o caso?",
+      "sha256": "653d633dc8c02fad57fc792372b3c2a9c43e7b2d523ceeca353d30232acba7dd",
+      "bytes": 121004,
+      "durationSeconds": 10,
+      "segments": [
+        {
+          "text": "As opções são: Exclusão do MROSC demonstrada; Exclusão afastada fundamentadamente; Exclusão ainda incerta ou não demonstrada. Qual dessas opções descreve o caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "osc_definicao_repasse": {
+      "file": "audio/dora/prompt-osc_definicao_repasse.mp3",
+      "mime": "audio/mpeg",
+      "text": "As opções são: Definição de OSC comprovada; Requisitos da definição de OSC não preenchidos; Enquadramento como OSC ainda não demonstrado. Qual dessas opções descreve o caso?",
+      "sha256": "30682981450e69b6f36cc5addf6f63d7a92e09e856c2bc40913cc74631d62950",
+      "bytes": 130508,
+      "durationSeconds": 10.8,
+      "segments": [
+        {
+          "text": "As opções são: Definição de OSC comprovada; Requisitos da definição de OSC não preenchidos; Enquadramento como OSC ainda não demonstrado. Qual dessas opções descreve o caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "oscip_definicao_repasse": {
+      "file": "audio/dora/prompt-oscip_definicao_repasse.mp3",
+      "mime": "audio/mpeg",
+      "text": "As opções são: Definição de OSC comprovada; Requisitos da definição de OSC não preenchidos; Enquadramento como OSC ainda não demonstrado. Qual dessas opções descreve o caso?",
+      "sha256": "30682981450e69b6f36cc5addf6f63d7a92e09e856c2bc40913cc74631d62950",
+      "bytes": 130508,
+      "durationSeconds": 10.8,
+      "segments": [
+        {
+          "text": "As opções são: Definição de OSC comprovada; Requisitos da definição de OSC não preenchidos; Enquadramento como OSC ainda não demonstrado. Qual dessas opções descreve o caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "mrosc_exclusao_oscip_repasse": {
+      "file": "audio/dora/prompt-mrosc_exclusao_oscip_repasse.mp3",
+      "mime": "audio/mpeg",
+      "text": "As opções são: Exclusão do MROSC demonstrada; Exclusão afastada fundamentadamente; Exclusão ainda incerta ou não demonstrada. Qual dessas opções descreve o caso?",
+      "sha256": "653d633dc8c02fad57fc792372b3c2a9c43e7b2d523ceeca353d30232acba7dd",
+      "bytes": 121004,
+      "durationSeconds": 10,
+      "segments": [
+        {
+          "text": "As opções são: Exclusão do MROSC demonstrada; Exclusão afastada fundamentadamente; Exclusão ainda incerta ou não demonstrada. Qual dessas opções descreve o caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "osc_definicao_sem_repasse": {
+      "file": "audio/dora/prompt-osc_definicao_sem_repasse.mp3",
+      "mime": "audio/mpeg",
+      "text": "As opções são: Definição de OSC comprovada; Requisitos da definição de OSC não preenchidos; Enquadramento como OSC ainda não demonstrado. Qual dessas opções descreve o caso?",
+      "sha256": "30682981450e69b6f36cc5addf6f63d7a92e09e856c2bc40913cc74631d62950",
+      "bytes": 130508,
+      "durationSeconds": 10.8,
+      "segments": [
+        {
+          "text": "As opções são: Definição de OSC comprovada; Requisitos da definição de OSC não preenchidos; Enquadramento como OSC ainda não demonstrado. Qual dessas opções descreve o caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "oscip_definicao_sem_repasse": {
+      "file": "audio/dora/prompt-oscip_definicao_sem_repasse.mp3",
+      "mime": "audio/mpeg",
+      "text": "As opções são: Definição de OSC comprovada; Requisitos da definição de OSC não preenchidos; Enquadramento como OSC ainda não demonstrado. Qual dessas opções descreve o caso?",
+      "sha256": "30682981450e69b6f36cc5addf6f63d7a92e09e856c2bc40913cc74631d62950",
+      "bytes": 130508,
+      "durationSeconds": 10.8,
+      "segments": [
+        {
+          "text": "As opções são: Definição de OSC comprovada; Requisitos da definição de OSC não preenchidos; Enquadramento como OSC ainda não demonstrado. Qual dessas opções descreve o caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "mrosc_exclusao_oscip_sem_repasse": {
+      "file": "audio/dora/prompt-mrosc_exclusao_oscip_sem_repasse.mp3",
+      "mime": "audio/mpeg",
+      "text": "As opções são: Exclusão do MROSC demonstrada; Exclusão afastada fundamentadamente; Exclusão ainda incerta ou não demonstrada. Qual dessas opções descreve o caso?",
+      "sha256": "653d633dc8c02fad57fc792372b3c2a9c43e7b2d523ceeca353d30232acba7dd",
+      "bytes": 121004,
+      "durationSeconds": 10,
+      "segments": [
+        {
+          "text": "As opções são: Exclusão do MROSC demonstrada; Exclusão afastada fundamentadamente; Exclusão ainda incerta ou não demonstrada. Qual dessas opções descreve o caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_osc_nao_enquadrada": {
+      "file": "audio/dora/prompt-result.mp3",
+      "mime": "audio/mpeg",
+      "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+      "sha256": "1be3d1ef9e281cbcedf55b0488d513d664b9704d03ce8d8fd6f81f5c946fcc0a",
+      "bytes": 53036,
+      "durationSeconds": 4.325,
+      "segments": [
+        {
+          "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
+    },
+    "r_osc_definicao_pendente": {
+      "file": "audio/dora/prompt-result.mp3",
+      "mime": "audio/mpeg",
+      "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+      "sha256": "1be3d1ef9e281cbcedf55b0488d513d664b9704d03ce8d8fd6f81f5c946fcc0a",
+      "bytes": 53036,
+      "durationSeconds": 4.325,
+      "segments": [
+        {
+          "text": "Quer conferir os fundamentos, voltar uma etapa ou começar outro caso?",
+          "speed": 1.05,
+          "pauseAfterSeconds": 0
+        }
+      ]
     }
   },
   "sourceIntroductionsSha256": "1e6cf3b06a6767b350f33a34084fb9275fc096cf5069a8077e2b3c2a964a6c8b",
@@ -4806,9 +5191,9 @@
     "voices/pf_dora.pt": "07e4ff987c5d5a8c3995efd15cc4f0db7c4c15e881b198d8ab7f67ecf51f5eb7"
   },
   "complete": true,
-  "generated": 88,
-  "reused": 185,
-  "generationSeconds": 1827.122,
+  "generated": 39,
+  "reused": 256,
+  "generationSeconds": 888.355,
   "editionPublicationAuthorized": true,
   "editionPublicationNote": "Usuário autorizou a publicação da edição v4.2: 'Pode publicar. Depois irei avaliar quadro a quadro como ficou a adaptação'; em seguida, aprovou o plano de finalização e publicação. Esta autorização da edição não registra atos Git nem implantação já realizados; os atos Git estão sujeitos a cartões separados.",
   "v42AudioUpdate": {
@@ -4816,6 +5201,7 @@
     "newApprovedPrototypeFiles": 2,
     "baseUniqueFilesPreserved": 120
   },
-  "editionVersion": "4.3",
-  "editionPublicationApproval": "Plano PG-15 v4.3 aprovado pelo usuário em 28/09/2026, incluindo geração local Dora das falas novas/alteradas, revisão independente, PR, integração e implantação no GitHub Pages."
+  "editionVersion": "4.3.1",
+  "editionPublicationApproval": "Plano PG-15 v4.3 aprovado pelo usuário em 28/09/2026, incluindo geração local Dora das falas novas/alteradas, revisão independente, PR, integração e implantação no GitHub Pages.",
+  "editionApproval": "Plano de implementação v4.3.1 aprovado pelo usuário, incluindo revisão independente, PR, integração e publicação no Pages. Os treze cartões já respondidos orientam a edição; nenhuma diligência externa é autorizada para envio."
 }

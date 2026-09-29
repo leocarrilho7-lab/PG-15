@@ -1,12 +1,12 @@
 # PG-15 — Parcerias administrativas do ERJ
 
-Prévia didática interativa sobre instrumentos de parceria no Estado do Rio de Janeiro. Edição 4.3: recebimentos federais examinados em 28/09/2026. Os demais ramos conservam suas datas e limites de pesquisa, inclusive a integração documental de 26/09/2026.
+Prévia didática interativa sobre instrumentos de parceria no Estado do Rio de Janeiro. Edição 4.3.1: minutas e critérios OSCIP/OSC examinados em 29/09/2026, preservando os recebimentos federais examinados em 28/09/2026. Os demais ramos conservam suas datas e limites de pesquisa, inclusive a integração documental de 26/09/2026.
 
 **[Abrir a aplicação](https://leocarrilho7-lab.github.io/PG-15/)** · [abrir Cenas 3D](https://leocarrilho7-lab.github.io/PG-15/#acabamento)
 
 O material oferece passo a passo, Mapa 2D, Mermaid e Cenas 3D sincronizados. Mapa 2D e Mermaid permitem selecionar o sistema inteiro. A vista 3D exibe somente a cena atual, com figuras, luminária e documentos; o zoom-out não revela outras etapas. O filme contextualiza a pergunta, apresenta as alternativas e aguarda uma escolha explícita. Voltar refaz o voo, e a ficha do resultado reúne fundamentos, condições e ressalvas.
 
-Na legenda, o nome de cada documento aparece abaixo do rótulo do regime. Os botões das quatro vistas e da etapa de seleção usam ícones contextuais no estilo dos instrumentos: cada desenho representa o assunto da escolha. As setas dos grafos conservam suas cores e traçados; uma resposta afirmativa não significa aprovação jurídica. A ampliação mantém o motor compartilhado e os ramos estaduais não afetados. Distingue a transferência União–ERJ da contratação ERJ–fornecedor; inclusive em obras financiadas pela União, são relações diferentes.
+Na legenda, o nome de cada documento aparece abaixo do rótulo do regime. Os botões das quatro vistas e da etapa de seleção usam ícones contextuais no estilo dos instrumentos: cada desenho representa o assunto da escolha. As setas dos grafos conservam suas cores e traçados; uma resposta afirmativa não significa aprovação jurídica. A ampliação mantém o motor compartilhado e os ramos estaduais não afetados. Distingue a transferência da União para o ERJ da contratação do ERJ com fornecedor, prestador ou empreiteira; inclusive em obras financiadas pela União, são relações diferentes.
 
 ## Recebimentos federais
 
@@ -22,9 +22,15 @@ Os textos e áudios conservam as ressalvas do modelo. Normas e reproduções de 
 
 A atualização de 26/09/2026 aplica os cartões aprovados: matriz MROSC por dispositivo, fichas de instrução e controle, quadro comparativo da minuta OSCIP e instrumentos de CT&I, patrimônio, cultura, OS setoriais e programas delimitados. PMI e SRP incorporam a cadeia normativa examinada. O quadro da minuta OSCIP é apoio para revisão; o original de 2017 foi preservado, sem converter a proposta em minuta oficial atualizada.
 
-O painel exibe oito itens parciais e dois abertos. Os 22 levantamentos encerrados ficam no histórico local, mantendo fontes e condições do caso nas rotas. Permanecem lacunas sobre autoridade/regulamento, cadastro e reciprocidade OSCIP; revisão da minuta; fundamento posterior para OS na saúde; cópia autônoma de promulgação CT&I; operação do Sicx e rito/competências do diálogo competitivo. D1/D2/D3 estão preparadas para protocolo manual, sem envio. A ampliação federal acrescenta duas pendências delimitadas: competências e operação estaduais; e ciclos, habilitação e atos setoriais. Não declara falta de regulamentação com base apenas em pesquisa sem resultado.
+O painel mostra somente pendências não encerradas por evidência. A obtenção dos fac-símiles da Lei 9.809/2022 foi encerrada, com a republicação de 08/09/2022 como referência principal e 05/09 no histórico. Autoridade, cadastros e reciprocidade OSCIP, revisão da minuta, OS na saúde após julho de 2026, Sicx, diálogo competitivo e requisitos estaduais dos recebimentos federais conservam as ressalvas específicas. Aprovar uma diligência não resolve sua lacuna; as diligências atualizadas são locais e não foram enviadas. Pesquisa sem resultado não prova inexistência de regulamentação.
 
 A coleção estadual anterior reúne 46 capturas, das quais 45 foram conferidas como íntegras documentais e uma conserva reserva editorial (LC 26). A auditoria federal acrescenta 48 capturas, incluindo três PDFs oficiais distintos, com origem e integridade indexadas separadamente. Captura ou integridade não certificam vigência exaustiva, enquadramento ou regularidade de um caso.
+
+## Minutas e enquadramento OSCIP/OSC
+
+As fichas dos resultados mostram modelos compatíveis ou referências condicionadas, com versão, aprovação, origem e limites. A minuta estadual de concedente não é indicada para recebimento federal; modelos patrimoniais são complementares ao acordo principal. Ausência de correspondência no catálogo consultado é identificada com data, sem afirmar inexistência universal de minuta. Os textos funcionam offline; downloads oficiais exigem conexão.
+
+Definição legal de OSC e exclusão da relação por termo de parceria OSCIP são verificações independentes. Ausência de prova permanece pendente. Quando a definição estiver comprovada e a exclusão afastada fundamentadamente, o percurso examina os demais pressupostos do MROSC; não converte automaticamente o instrumento nem altera a informação financeira.
 
 ## Narração e licenças
 
