@@ -73,6 +73,7 @@
 .intro .heading-with-help{margin-bottom:14px}.intro .heading-with-help h1{margin:0}
 #film-entry[hidden],#scene-controls[hidden],#film-toolbar[hidden]{display:none!important}
 #film-entry{border-top:0;border-bottom:2px solid #aabbef}
+@media(max-width:800px){#workspace #view-three:not(.cinema-active)>#three-host{height:clamp(220px,calc(100svh - 220px),540px)}}
 #selected-context:empty{display:none}#selected-context{margin-top:14px}
 #selected-context .stage-top{padding:0;border:0;min-height:0;flex-wrap:wrap;gap:12px}
 #selected-context #search-results{padding:12px 0;box-shadow:none}
