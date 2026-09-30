@@ -1,6 +1,6 @@
 # PG-15 — Parcerias administrativas do ERJ
 
-Prévia didática interativa sobre instrumentos de parceria no Estado do Rio de Janeiro. Edição 4.3.5: primeira visita móvel abre Cenas 3D no topo, junto ao início do filme; narração e tela cheia dependem de toque. Retorno, recarregamento, rotação e foco preservam a navegação. A pesquisa tem corte geral em 29/09/2026, com complemento identificado em 30/09. A ressalva das emendas explicita o alcance temporal da Portaria Conjunta 3/2026 sem presumir dispensa de cadastro por outros fundamentos.
+Prévia didática interativa sobre instrumentos de parceria no Estado do Rio de Janeiro. Edição 4.3.6: resultados com caderno usam somente sua capa — abrir, assinar e fechar uma vez, sem pasta externa. A primeira visita móvel abre Cenas 3D no topo, junto ao início do filme; narração e tela cheia dependem de toque. Retorno, recarregamento, rotação e foco preservam a navegação. A pesquisa tem corte geral em 29/09/2026, com complemento identificado em 30/09. A ressalva das emendas explicita o alcance temporal da Portaria Conjunta 3/2026 sem presumir dispensa de cadastro por outros fundamentos.
 
 **[Abrir a aplicação](https://leocarrilho7-lab.github.io/PG-15/)** · [abrir Cenas 3D](https://leocarrilho7-lab.github.io/PG-15/#acabamento)
 
@@ -66,3 +66,7 @@ Alterar `main` não publica o site. Após revisão, integração autorizada e ve
 ## Atualização 4.3.5
 
 O registro conserva 32 itens: 23 resolvidos, sete parciais e dois abertos. A obtenção da IN MinC 30/2026 e do edital de eventos 03/2026 com seis anexos foi documentada; não prova adesão estadual ou regularidade de casos concretos. Os 224 MP3 permanecem idênticos. A correção temporal altera requisitos e referências de dois nós e a ficha correspondente, preservando opções e destinos.
+
+## Correção 4.3.6
+
+Retira a pasta externa dos resultados com caderno e sua fase adicional de fechamento. Preserva os outros documentos, a assinatura, a caneta, pausa, repetição, movimento reduzido, luminária e saída. Modelo jurídico, textos narrados e 224 MP3 permanecem idênticos à v4.3.5.
