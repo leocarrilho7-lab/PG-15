@@ -6,7 +6,7 @@
   "engine": "Kokoro-82M local CPU",
   "synthetic": true,
   "sourceNarrativesSha256": "c859e90ef2623dab277bb86f7823dfd8303d3b2b73c1947f8ff4dc2fbfb7a850",
-  "sourceModelSha256": "b2f06ae520cb9438c485d9e1758717398625ce0ce8ae8d815003bc82ca2522ce",
+  "sourceModelSha256": "9f78931bdaba66fc8e5bafa9ee041cb3913fecc46d562f9dbbfa33f538d3d395",
   "sourcePromptsSha256": "6e7edbfe998d01769529a66ba0f8a7a899ce0419c18e6a75e42c72accc633a42",
   "profile": {
     "voice": "pf_dora",
@@ -5195,13 +5195,13 @@
   "reused": 256,
   "generationSeconds": 888.355,
   "editionPublicationAuthorized": true,
-  "editionPublicationNote": "Usuário autorizou a publicação da edição v4.2: 'Pode publicar. Depois irei avaliar quadro a quadro como ficou a adaptação'; em seguida, aprovou o plano de finalização e publicação. Esta autorização da edição não registra atos Git nem implantação já realizados; os atos Git estão sujeitos a cartões separados.",
+  "editionPublicationNote": "Publicação da v4.3.5 autorizada pelo usuário ao solicitar a implementação do plano aprovado, com revisão independente, PR, integração e GitHub Pages. Não registra atos Git ou implantação como já executados.",
   "v42AudioUpdate": {
     "generated": 0,
     "newApprovedPrototypeFiles": 2,
     "baseUniqueFilesPreserved": 120
   },
-  "editionVersion": "4.3.4",
-  "editionPublicationApproval": "Plano PG-15 v4.3 aprovado pelo usuário em 28/09/2026, incluindo geração local Dora das falas novas/alteradas, revisão independente, PR, integração e implantação no GitHub Pages.",
-  "editionApproval": "Pedido de 29/09/2026: alternativas imediatas e correção da postura nas cenas, preservando narração e regras; publicação autorizada na continuidade das atualizações do projeto."
+  "editionVersion": "4.3.5",
+  "editionPublicationApproval": "Plano PG-15 v4.3.5 aprovado após os oito cartões: abertura móvel e pesquisa pública das pendências, publicação após verificação e revisão.",
+  "editionApproval": "Implement the proposed plan: PG-15 v4.3.5 — abertura móvel e aplicação dos oito cartões. Autorização recebida nesta conversa; preservar textos narrados, modelo não afetado e arquivos MP3."
 }
