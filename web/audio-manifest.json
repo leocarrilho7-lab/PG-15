@@ -5195,13 +5195,13 @@
   "reused": 256,
   "generationSeconds": 888.355,
   "editionPublicationAuthorized": true,
-  "editionPublicationNote": "Publicação da v4.3.5 autorizada pelo usuário ao solicitar a implementação do plano aprovado, com revisão independente, PR, integração e GitHub Pages. Não registra atos Git ou implantação como já executados.",
+  "editionPublicationNote": "Publicação da v4.3.6 autorizada no plano aprovado, após testes e revisão independente.",
   "v42AudioUpdate": {
     "generated": 0,
     "newApprovedPrototypeFiles": 2,
     "baseUniqueFilesPreserved": 120
   },
-  "editionVersion": "4.3.5",
-  "editionPublicationApproval": "Plano PG-15 v4.3.5 aprovado após os oito cartões: abertura móvel e pesquisa pública das pendências, publicação após verificação e revisão.",
-  "editionApproval": "Implement the proposed plan: PG-15 v4.3.5 — abertura móvel e aplicação dos oito cartões. Autorização recebida nesta conversa; preservar textos narrados, modelo não afetado e arquivos MP3."
+  "editionVersion": "4.3.6",
+  "editionPublicationApproval": "Caderno sem pasta externa: abrir, assinar e fechar uma vez. PR, integração e Pages autorizados.",
+  "editionApproval": "Plano PG-15 v4.3.6 aprovado pelo usuário nesta conversa."
 }
